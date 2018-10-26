@@ -22,3 +22,7 @@ Make the data better searchable and georeference it for visualization.
 * Secondary data 
 
   * [Siedlungsverzeichnis des Kantons Zürich](http://www.web.statistik.zh.ch/cms_siedlungsverzeichnis/daten.php)
+
+
+## external Obervable Notebook
+https://beta.observablehq.com/@mmznrstat/sex-and-crime-und-kneipenschlagereien-in-der-fruhen-neuzei 
