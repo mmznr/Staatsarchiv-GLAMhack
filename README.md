@@ -1,4 +1,4 @@
-# Sex and Crime und Keinpenschlägereien in der frühen Neuzeit
+# Sex and Crime und Kneipenschlägereien in der frühen Neuzeit
 
 ## Goal
 Make the data better searchable and georeference it for visualization.
@@ -14,6 +14,10 @@ Make the data better searchable and georeference it for visualization.
 
 
 ## Data sources:
+* Primary Data
+  *
+
+
 * Secondary data 
 
   * [Siedlungsverzeichnis des Kantons Zürich](http://www.web.statistik.zh.ch/cms_siedlungsverzeichnis/daten.php)
