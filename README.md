@@ -5,17 +5,17 @@ Make the data better searchable and georeference it for visualization.
 
 ## Team
 * Ernst Rosser, ernst.rosser@gmail.com
-* Tobias Hodel
-* Barbara Leimgruber
-* Rebekka Plüss
-* Ismail Prada
+* Tobias Hodel, tobias.hodel@ji.zh.ch
+* Barbara Leimgruber, Barbara.Leimgruber@ji.zh.ch
+* Rebekka Plüss, Rebekka.Pluess@ji.zh.ch
+* Ismail Prada, ismail.prada@gmail.com
 * Christiane Sibille
-* Matthias Mazenauer
+* Matthias Mazenauer, matthias.mazenauer@statistik.ji.zh.ch
 
 
 ## Data sources:
 * Primary Data
-  *
+  * [ZENODO](https://zenodo.org/record/1471130)
 
 
 * Secondary data 
