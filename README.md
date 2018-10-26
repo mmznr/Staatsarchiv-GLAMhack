@@ -25,4 +25,8 @@ Make the data better searchable and georeference it for visualization.
 
 
 ## external Obervable Notebook
-https://beta.observablehq.com/@mmznrstat/sex-and-crime-und-kneipenschlagereien-in-der-fruhen-neuzei 
+https://beta.observablehq.com/@mmznrstat/sex-and-crime-und-kneipenschlagereien-in-der-fruhen-neuzei
+
+* Done: Borders from swisstopo via Linked Data, Matching of the settlements of the canton of Zurich
+
+* ToDo: Get List of old names of this settlements, match them and show all relating documents of a settlement (or municipality) 
