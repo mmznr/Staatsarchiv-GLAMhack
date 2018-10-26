@@ -9,7 +9,7 @@ Make the data better searchable and georeference it for visualization.
 * Barbara Leimgruber
 * Rebekka Plüss
 * Ismail Prada
-* 
+* Christiane Sibille
 * Matthias Mazenauer
 
 
