@@ -1,0 +1,4484 @@
+
+BFSNr	SiedlungNr	SiedlungName	qualifier	GebäudeAnz	WohnungenAnz	EinwAnz
+1	1001	Aeugst (Dorf)	Quartiere	Q	295	378	975			
+1	1002	Scheller		S	3	4	9			
+1	1003	Ried		S	2	2	5			
+1	1004	Götschihof		S	4	13	82			
+1	1005	Müliberg		S	27	36	101			
+1	1006	Chloster (Aeugstertal)		S	26	54	100			
+1	1007	Breiten (Aeugstertal)		S	15	18	41			
+1	1008	Setziweid		S	1	1	3			
+1	1009	Hinterweid		S	1	1	2			
+1	1010	Obertal		S	11	16	31			
+1	1011	Sunnenberg		S	2	3	6			
+1	1012	Höchweg		S	1	2	7			
+1	1013	Seehof		S	4	1	1			
+1	1014	Habersaat		S	16	23	51			
+1	1015	Schürmatt		S	2	2	6			
+1	1016	Sonnenbergstrasse		S	1	3	6			
+1	1019	Setzi		S	1	2	6			
+1	1020	Chalet Göldlin		S	1	1	2			
+1	1021	Untermatt		S	1	2	2			
+1	1022	Seehalde		S	2	2	4			
+1	1023	Wängi		S	12	13	40			
+1	1024	Wängifeld		S	1	1	4			
+1	1025	Wängihell		S	1	2	4			
+1	1026	Hormatt		S	1	2	7			
+1	1027	Weid		S	4	6	14			
+1	1399	Personen ohne Siedlungs-Nr. 		R	0	0	35
+2	2002	Sunnmatt		S	3	2	7			
+2	2003	Lochhof		S	7	9	25			
+2	2004	Witloch		S	1	1	2			
+2	2005	Sandacher		S	2	2	7			
+2	2006	Widacker		S	1	1	3			
+2	2008	Münchweid		S	2	1	2			
+2	2009	Weid (bei Fehrenbach)		S	6	6	17			
+2	2011	Unterfeld		S	1	1	2			
+2	2012	Loo		S	55	73	191			
+2	2013	Eggmatt		S	1	1	3			
+2	2014	Moosegg		S	2	2	6			
+2	2015	Sennweid		S	1	1	6			
+2	2016	Rossmättli		S	2	2	2			
+2	2017	Heurüti		S	1	2	4			
+2	2018	Langacher		S	1	1	4			
+2	2019	Zwillikon		S	117	252	620			
+2	2021	Fehrenbach		S	43	83	194			
+2	2022	Schanz		S	1	1	2			
+2	2024	Hüslimatt		S	1	1	2			
+2	2025	Zwillikermoos		S	2	4	6			
+2	2026	Aespli		S	2	2	7			
+2	2027	Aelpli		S	1	1	4			
+2	2031	Ess		S	1	1	3			
+2	2032	Schwanden		S	3	3	11			
+2	2034	Innere Butzen		S	1	1	1			
+2	2035	Äussere Butzen		S	1	1	2			
+2	2038	Wil		S	5	6	16			
+2	2039	Spitzenstein		S	1	1	3			
+2	2043	Tannhof		S	2	1	2			
+2	2044	Untere Allmend		S	2	2	3			
+2	2045	Obere Allmend		S	1	1	2			
+2	2046	Feldhof		S	1	1	3			
+2	2047	Rorenmoos		S	1	1	2			
+2	2048	Affoltern (Dorf)	Quartiere	Q	1’480	3’597	8’928			
+2	2399	Personen ohne Siedlungs-Nr. 		R	0	0	222			
+3	3001	Bonstetten (Dorf)		S	430	920	2’260			
+3	3002	Schachen		S	341	515	1’278			
+3	3003	Chäsern		S	2	2	7			
+3	3004	Lüttenberg		S	9	11	25			
+3	3006	Hirschenbach		S	1	1	3			
+3	3007	Dachenmas		S	1	1	3			
+3	3008	Sol		S	1	1	3			
+3	3009	Gibel		S	1	1	4			
+3	3010	Stocken		S	2	2	6			
+3	3012	Heurain		S	5	4	7			
+3	3013	Bluemelen		S	1	2	6			
+3	3015	Lätten		S	5	3	11			
+3	3016	Zil		S	1	1	2			
+3	3017	Rebacher		S	1	2	4			
+3	3020	Feld		S	1	1	2			
+3	3021	Züriweg		S	2	2	5			
+3	3024	Grund		S	2	2	6			
+3	3025	Stein		S	2	3	4			
+3	3027	Lochen		S	6	6	17			
+3	3028	Gemeindeacher		S	1	1	2			
+3	3399	Personen ohne Siedlungs-Nr. 		R	0	0	238
+4	4001	Hausen	Quartiere	Q	565	815	2’056			
+4	4006	Türlen		S	12	16	47			
+4	4007	Seeboden		S	1	1	1			
+4	4008	Vollenweid		S	17	15	45			
+4	4009	Riedmatt		S	7	9	22			
+4	4010	Tüfenbach		S	11	13	35			
+4	4011	Unter-Seeberig		S	1	1	2			
+4	4012	Seeberig		S	3	2	5			
+4	4013	Neu-Schonau		S	1	1	5			
+4	4014	Weid		S	2	2	5			
+4	4015	Farbüel		S	2	2	7			
+4	4016	Grindlen		S	2	4	10			
+4	4017	Albishorn		S	2	2	4			
+4	4018	Grossrain		S	2	2	6			
+4	4020	Hinter-Albis		S	6	8	23			
+4	4021	Neuhus		S	1	2	6			
+4	4023	Mittel-Albis		S	9	9	26			
+4	4024	Ibech		S	1	1	2			
+4	4025	Mönchbüel		S	1	1	4			
+4	4029	Rüebigsbüel		S	1	2	11			
+4	4030	Ober-Albis		S	11	14	33			
+4	4031	Wiesengrund		S	1	2	4			
+4	4032	Ebertswil		S	132	167	429			
+4	4033	Weidli		S	1	1	4			
+4	4035	Husertal		S	14	17	50			
+4	4036	Houen		S	2	3	10			
+4	4037	Hirzwangen		S	14	14	44			
+4	4038	Schweikhof		S	5	6	14			
+4	4039	Schönau		S	1	1	3			
+4	4040	Unter-Hirzwangen		S	1	2	8			
+4	4041	Wesenmatt		S	6	6	16			
+4	4042	Bruggrain		S	1	2	3			
+4	4043	Sihlbrugg (nordwestl. Teil)		S	3	3	6			
+4	4399	Personen ohne Siedlungs-Nr. 		R	0	0	94
+5	5001	Hedingen (Dorf)		S	709	1’099	2’835			
+5	5002	Geissweid		S	1	2	5			
+5	5003	Eichmatt		S	2	2	5			
+5	5004	Stocken		S	2	2	7			
+5	5005	Buchsmatten		S	1	2	3			
+5	5006	Moos		S	1	1	3			
+5	5008	Himmelsbühl		S	1	1	3			
+5	5009	Ismatt		S	11	9	23			
+5	5010	Grindelmatten		S	2	2	8			
+5	5011	Sälen		S	2	2	6			
+5	5012	Hasenacher		S	3	3	11			
+5	5015	Fromoos		S	5	6	19			
+5	5016	Feldenmas		S	1	2	7			
+5	5017	Lärchen		S	1	1	5			
+5	5018	Rütihof		S	2	2	5			
+5	5019	Hirslen		S	1	2	4			
+5	5020	Dürrenbach		S	3	3	9			
+5	5021	Tannenmoos		S	1	2	7			
+5	5399	Personen ohne Siedlungs-Nr. 		R	0	0	26
+6	6001	Kappel (Dorf)		S	64	78	211			
+6	6002	Weid (bei Hauptikon)		S	3	3	9			
+6	6003	Näfenhäuser		S	16	20	48			
+6	6004	Hauptikon		S	38	57	157			
+6	6005	Rütihof		S	1	1	1			
+6	6006	Ror		S	1	1	5			
+6	6007	Rossweid		S	1	1	5			
+6	6008	Waldhof		S	2	2	9			
+6	6009	Allenwinden		S	5	5	15			
+6	6010	Kappelerhöhe		S	2	1	2			
+6	6011	Uerzlikon		S	75	105	262			
+6	6012	Herti		S	2	2	8			
+6	6013	Bäumler		S	2	2	7			
+6	6014	Wolfsacker		S	3	3	5			
+6	6015	Ober-Weid (bei Uerzlikon)		S	1	1	1			
+6	6016	Leematt		S	4	5	16			
+6	6017	Schürweid		S	3	4	9			
+6	6018	Weid (bei Uerzlikon)		S	4	5	14			
+6	6019	Unter-Weid (bei Uerzlikon)		S	1	3	8			
+6	6020	Feld		S	19	19	51			
+6	6399	Personen ohne Siedlungs-Nr. 		R	0	0	22			
+7	7001	Knonau (Dorf)		S	252	422	1’077			
+7	7002	Stiegenbühl		S	1	1	2			
+7	7003	Waldhof		S	1	2	4			
+7	7004	Hinteruttenberg / Büel		S	1	1	7			
+7	7005	Stöckweid		S	1	2	6			
+7	7006	Hinteruttenberg		S	17	24	72			
+7	7007	Eichhof		S	1	1	6			
+7	7008	Vorderuttenberg		S	16	23	53			
+7	7009	Wingarten		S	1	1	3			
+7	7010	Margel		S	1	2	9			
+7	7011	Büelweid		S	1	2	7			
+7	7012	Binzmatt		S	1	1	1			
+7	7013	Boggsmatten		S	4	4	11			
+7	7014	Grund		S	1	2	4			
+7	7015	Weid		S	1	1	4			
+7	7016	Amlisberg		S	1	1	3			
+7	7018	Rossi		S	2	1	2			
+7	7019	Pestalozzi-Stiftung		S	7	11	47			
+7	7020	Aspli		S	1	1	2			
+7	7022	Baareggstrasse		S	2	4	8			
+7	7023	Langacher		S	1	3	5			
+7	7024	Hirzrain		S	2	2	8			
+7	7025	Baaregg		S	13	18	46			
+7	7026	Buchhof		S	3	4	11			
+7	7027	Marchstein		S	2	2	11			
+7	7029	Hasental		S	2	2	5			
+7	7399	Personen ohne Siedlungs-Nr. 		R	0	0	31			
+8	8001	Maschwanden (Dorf)		S	130	186	485			
+8	8002	Weid		S	3	4	7			
+8	8003	Grischhei		S	2	2	9			
+8	8004	Rüteli		S	3	3	11			
+8	8005	Rain		S	6	11	18			
+8	8006	Neumatt		S	1	1	4			
+8	8399	Personen ohne Siedlungs-Nr. 		R	0	0	19			
+9	9001	Mettmenstetten	Mettmenstetten	S	607	1’105	2’798			
+9	9005	Kappelhof		S	1	1	3			
+9	9006	Waldhof, Dachlissen		S	1	1	5			
+9	9007	Winkelhalde		S	1	1	2			
+9	9008	Grossholz		S	10	14	42			
+9	9009	Grüt		S	3	3	5			
+9	9011	Dachlissen		S	39	52	135			
+9	9013	Stockweid		S	1	2	6			
+9	9014	Sunnegg		S	1	3	4			
+9	9015	Eigi		S	10	12	22			
+9	9016	Schüren		S	3	4	8			
+9	9017	Schüenweid		S	2	2	9			
+9	9018	Schauenberg		S	2	2	7			
+9	9019	Feldhof		S	1	1	2			
+9	9020	Kinderheim Paradis		S	2	3	23			
+9	9021	Hinter Buchstock		S	1	1	1			
+9	9022	Buchstock		S	4	3	9			
+9	9023	Stäppel		S	1	1	2			
+9	9024	Siderain		S	1	2	2			
+9	9025	Hübscheren		S	4	5	16			
+9	9026	Herferswil		S	29	32	86			
+9	9027	Lätten		S	1	1	2			
+9	9028	Linden		S	2	2	7			
+9	9029	Lindenmatt		S	2	1	4			
+9	9030	Tambrig		S	1	2	6			
+9	9031	Moosmatt		S	2	2	7			
+9	9032	Moosmatten		S	1	1	2			
+9	9033	Waldmatt		S	1	1	6			
+9	9035	Waldhof		S	1	1	3			
+9	9036	Allmend		S	1	2	8			
+9	9037	Neugut		S	2	1	3			
+9	9038	Schürmatt		S	2	2	6			
+9	9039	Im Höngger		S	1	1	1			
+9	9040	Sunnenberg		S	2	3	5			
+9	9041	Sunnmatt		S	1	2	4			
+9	9042	Freudenberg		S	3	2	10			
+9	9043	Sunnehof		S	2	2	7			
+9	9044	Tschuepis		S	1	2	3			
+9	9045	Wiesengrund		S	1	1	4			
+9	9046	Weidhof		S	1	2	6			
+9	9047	Stockacher		S	1	1	5			
+9	9048	Haselhof		S	1	1	2			
+9	9049	Tannbühl		S	1	1	3			
+9	9050	Aspli		S	2	3	7			
+9	9051	Wissenbach		S	11	13	34			
+9	9052	Sternen		S	1	1	5			
+9	9053	Neuguet, Rossau		S	1	2	6			
+9	9054	Bergli, Rossau		S	1	1	2			
+9	9056	Zur Weid, Rossau		S	4	5	61			
+9	9057	Rossau		S	56	56	209			
+9	9060	Aarbach		S	1	1	3			
+9	9399	Personen ohne Siedlungs-Nr. 		R	0	0	106		
+10	10001	Obfelden (Dorf)	Quartiere	Q	1’007	1’573	4’039			
+10	10007	Tambrig		S	1	2	3			
+10	10009	Breitenerli		S	3	2	6			
+10	10019	Lunnerfeld		S	1	2	3			
+10	10399	Personen ohne Siedlungs-Nr. 		R	0	0	131			
+11	11001	Ottenbach (Dorf)		S	578	783	2’039			
+11	11002	Jonentalstr. 9		S	1	1	1			
+11	11003	Rütihof		S	2	4	12			
+11	11004	Laamatt		S	1	1	2			
+11	11005	Steinhof		S	1	2	3			
+11	11006	Bruggenmoos		S	1	2	5			
+11	11007	Weid		S	1	3	4			
+11	11008	Grossstein		S	1	1	2			
+11	11009	Im Grund		S	1	2	7			
+11	11010	Oberberg		S	1	2	5			
+11	11011	Isenberg		S	2	1	2			
+11	11013	Rebgarten		S	1	3	5			
+11	11014	Ruchweid		S	1	1	3			
+11	11015	Im Gibel		S	2	2	2			
+11	11016	Rickenbach		S	10	9	23			
+11	11017	Im Lanzen		S	1	2	4			
+11	11399	Personen ohne Siedlungs-Nr. 		R	0	0	45			
+12	12001	Rifferswil (Dorf)	Quartiere	Q	184	234	604			
+12	12004	Jungalbis		S	1	1	5			
+12	12005	Schonau		S	6	8	18			
+12	12006	Hombergweiden		S	1	1	2			
+12	12007	Homberg		S	5	2	9			
+12	12008	Gerensteg		S	2	3	5			
+12	12009	Langacher		S	1	1	5			
+12	12010	Zeisenberg		S	5	5	14			
+12	12011	Lerchenhof		S	2	3	8			
+12	12013	Schonau-Weidli		S	1	1	2			
+12	12016	Ambühl		S	1	1	4			
+12	12017	Ausserfeld		S	2	2	5			
+12	12018	Hurterweid		S	1	2	6			
+12	12019	Moosweid		S	1	2	5			
+12	12020	Hinter-Allmend		S	1	1	2			
+12	12021	Allmend		S	3	4	10			
+12	12399	Personen ohne Siedlungs-Nr. 		R	0	0	10			
+13	13001	Stallikon (Dorf)		S	67	228	456			
+13	13002	Schwandenstrasse		S	1	1	1			
+13	13003	Sellenbüren (Dorf)	Quartiere	Q	504	607	1’572			
+13	13006	Station Uetliberg		S	3	1	2			
+13	13007	Uetliberg (Kulm)		S	1	0	6			
+13	13018	Folenweid		S	3	3	8			
+13	13020	Bleiki		S	12	13	28			
+13	13021	Mädikon		S	3	3	9			
+13	13022	Schleetal		S	1	1	1			
+13	13023	Aegerten		S	69	67	160			
+13	13024	Baldern		S	2	1	2			
+13	13025	Erli		S	2	2	6			
+13	13026	Schleetalbach		S	2	3	6			
+13	13027	Tiefenau		S	1	1	1			
+13	13029	Eichmatt		S	2	5	9			
+13	13030	Färberei		S	1	1	1			
+13	13032	Gamlikon		S	16	32	74			
+13	13033	Girstelweid		S	2	2	4			
+13	13034	Mittel-Gamlikon		S	2	6	15			
+13	13035	Nusshof		S	1	1	7			
+13	13036	Hell		S	1	2	7			
+13	13037	Grafschaft		S	6	6	10			
+13	13038	Aumüli		S	5	8	21			
+13	13039	Neuhaus		S	3	3	9			
+13	13040	Weidgang		S	1	1	2			
+13	13041	Mösli		S	3	2	5			
+13	13042	Hintere Buchenegg		S	13	13	43			
+13	13043	Tägerstrank		S	4	4	11			
+13	13044	Rebhölzli		S	2	2	5			
+13	13045	Tobel		S	4	4	7			
+13	13046	Im Fischer		S	3	2	5			
+13	13047	Tüelen		S	1	2	4			
+13	13048	Wolfenhof		S	2	4	13			
+13	13049	Hüsli		S	2	3	5			
+13	13051	Bol		S	2	2	4			
+13	13052	Tägerst		S	8	7	15			
+13	13053	Schulhaus Tägerst		S	2	1	6			
+13	13054	Sandacher		S	1	1	3			
+13	13055	Ryfen		S	2	2	5			
+13	13056	Vordere Buchenegg		S	6	3	12			
+13	13057	Müsli		S	2	2	7			
+13	13058	Bliggi		S	1	1	4			
+13	13059	Bodenacker		S	2	3	4			
+13	13061	Felsenegg		S	1	0	1			
+13	13062	Ausser-Gamlikon		S	1	1	2			
+13	13063	Egg		S	1	1	2			
+13	13064	Schanz		S	2	0	1			
+13	13399	Personen ohne Siedlungs-Nr. 		R	0	0	27			
+14	14001	Wettswil (Dorf)	Quartiere	Q	878	1’523	3’605			
+14	14007	Ettenberg		S	1	3	6			
+14	14008	Mättli		S	1	3	7			
+14	14009	Chrugelmatten		S	1	1	3			
+14	14010	Chriegmatten		S	2	2	5			
+14	14011	Moos		S	3	2	5			
+14	14012	Nächer Moos		S	1	1	3			
+14	14013	Hotzler		S	4	19	50			
+14	14014	Hofächer		S	1	1	1			
+14	14015	Eggächer		S	1	1	2			
+14	14016	Stationsquartier		S	7	31	66			
+14	14017	Grüt		S	2	2	7			
+14	14399	Personen ohne Siedlungs-Nr. 		R	0	0	24			
+21	21001	Adlikon (Dorf)		S	89	93	261			
+21	21002	Tüfenau		S	2	2	8			
+21	21003	Sonnenhof (bei Dätwil)		S	1	1	5			
+21	21004	Dätwil		S	32	33	82			
+21	21005	Kilchacker		S	1	1	5			
+21	21006	Bahnhüsli (bei Dätwil)		S	1	1	3			
+21	21007	Thurhof		S	1	1	3			
+21	21008	Rebhof		S	1	1	5			
+21	21009	Sonnenhof		S	1	1	7			
+21	21010	Föhrenhaus		S	1	2	2			
+21	21011	Bahnhüsli (bei Adlikon)		S	1	1	2			
+21	21012	Sonnenberg		S	2	2	5			
+21	21014	Loobuck		S	3	3	8			
+21	21015	Bachacker		S	1	2	6			
+21	21016	Steinacker		S	1	1	5			
+21	21017	Buck		S	2	2	8			
+21	21018	Niederwil		S	29	39	131			
+21	21019	Halde		S	1	2	5			
+21	21399	Personen ohne Siedlungs-Nr. 		R	0	0	36			
+22	22001	Benken (Dorf)		S	183	240	601			
+22	22002	Trügli		S	2	2	7			
+22	22003	Waldhof		S	1	2	7			
+22	22004	Morgenacker		S	1	2	8			
+22	22005	im Winkelacker		S	1	2	4			
+22	22006	im Hintergraben		S	2	2	9			
+22	22007	Harenberg-Guggeere-im Berg		S	25	23	50			
+22	22008	Ifang		S	1	1	3			
+22	22009	Robacker		S	1	1	4			
+22	22399	Personen ohne Siedlungs-Nr. 		R	0	0	11			
+23	23001	Berg (Dorf)		S	119	142	377			
+23	23002	Ebersberg		S	2	2	5			
+23	23003	Talacker		S	1	1	2			
+23	23004	Holzacker		S	1	1	3			
+23	23005	Langacker		S	1	1	3			
+23	23006	Eigenthal		S	5	5	13			
+23	23007	Bali		S	1	2	5			
+23	23008	Gräslikon		S	52	57	156			
+23	23009	Schwarzwies		S	1	1	2			
+23	23399	Personen ohne Siedlungs-Nr. 		R	0	0	7			
+24	24001	Ober-Buch		S	88	85	258			
+24	24002	Unter-Buch		S	55	62	172			
+24	24003	Wiler		S	30	38	95			
+24	24004	Bähl		S	1	1	5			
+24	24005	Dankbarkeit		S	1	2	7			
+24	24006	Baracke		S	1	1	2			
+24	24007	Sandwiesen		S	1	1	8			
+24	24008	Neugütli		S	2	1	2			
+24	24009	Aeschhalde		S	1	2	6			
+24	24010	Im Steinen		S	1	1	5			
+24	24011	Salenhof		S	1	1	2			
+24	24012	Erlenhof		S	2	2	7			
+24	24013	Schooss		S	1	3	5			
+24	24016	Rütiholz		S	1	1	4			
+24	24017	Im Feld		S	1	1	2			
+24	24018	Ober Hueb		S	3	2	5			
+24	24019	Desibach		S	7	8	30			
+24	24020	Bebikon		S	8	8	25			
+24	24399	Personen ohne Siedlungs-Nr. 		R	0	0	88			
+25	25001	Dachsen (Dorf)	Quartiere	Q	458	573	1’470			
+25	25008	Mettli		S	11	5	20			
+25	25009	Seewadel		S	1	1	1			
+25	25010	Riethof		S	1	2	5			
+25	25011	Meisterhof		S	1	1	5			
+25	25399	Personen ohne Siedlungs-Nr. 		R	0	0	32			
+26	26001	Dorf		S	160	197	529			
+26	26003	Lindenhof		S	1	2	6			
+26	26004	Irchelblick		S	1	1	3			
+26	26005	Gräbler		S	1	1	2			
+26	26006	Buck		S	1	1	5			
+26	26008	Hofmatt		S	1	1	2			
+26	26009	Goldenberg		S	2	2	10			
+26	26010	Chlätter		S	1	1	5			
+26	26011	Rütihof		S	1	3	9			
+26	26012	Lingg		S	1	1	2			
+26	26399	Personen ohne Siedlungs-Nr. 		R	0	0	20			
+27	27001	Feuerthalen (Dorf)		S	482	933	2’165			
+27	27002	Langwiesen		S	178	343	759			
+27	27399	Personen ohne Siedlungs-Nr. 		R	0	0	49		
+28	28001	Flaach (Dorf)		S	272	335	943			
+28	28002	Ryhof		S	1	2	6			
+28	28003	Werdhof		S	1	2	6			
+28	28004	Waldhof		S	1	2	8			
+28	28005	Eichhof		S	1	1	2			
+28	28006	Unterwyden		S	2	2	6			
+28	28007	Buechenhof		S	1	1	3			
+28	28008	Wydhof		S	1	2	8			
+28	28009	Thurhof		S	1	1	5			
+28	28010	Boden		S	1	1	3			
+28	28011	Langenzüni		S	1	1	1			
+28	28012	Feldhof		S	1	1	2			
+28	28013	Neugrüt		S	1	1	3			
+28	28014	Engi		S	1	1	1			
+28	28015	Neugut		S	1	1	6			
+28	28016	Ziegelhütte		S	3	1	1			
+28	28017	Aue		S	1	1	4			
+28	28018	Grundhof		S	1	1	2			
+28	28019	Schollenberg		S	6	6	11			
+28	28020	Trotthof		S	1	1	3			
+28	28021	Wolfrain		S	1	1	3			
+28	28023	Amenloch		S	27	28	88			
+28	28024	Worrenberg		S	1	2	6			
+28	28025	Worrenberg		S	2	2	6			
+28	28026	Ebnet		S	1	1	8			
+28	28027	Oberfeld		S	1	2	7			
+28	28399	Personen ohne Siedlungs-Nr. 		R	0	0	22			
+29	29001	Flurlingen (Dorf)		S	325	511	1’221			
+29	29002	Schlatter		S	4	5	20			
+29	29399	Personen ohne Siedlungs-Nr. 		R	0	0	7			
+30	30001	Andelfingen (Dorf)		S	354	532	1’328			
+30	30002	Wehri		S	1	1	4			
+30	30003	Alterau		S	2	2	9			
+30	30004	Erlenhof		S	1	1	2			
+30	30005	Rütiteil		S	1	1	2			
+30	30006	Püntenhof		S	1	1	4			
+30	30007	Langacker		S	1	1	6			
+30	30009	Waldhof		S	1	1	2			
+30	30010	Stucki-Böndler		S	79	83	199			
+30	30012	Schauben		S	6	12	22			
+30	30013	Oerli		S	1	1	2			
+30	30014	Gugelment		S	1	2	2			
+30	30015	Neugut		S	4	4	11			
+30	30016	Werkhof		S	2	4	18			
+30	30017	Laufen		S	1	1	2			
+30	30018	Tännlihof		S	1	2	7			
+30	30399	Personen ohne Siedlungs-Nr. 		R	0	0	24			
+31	31001	Henggart (Dorf)		S	429	631	1’574			
+31	31003	Widen		S	2	4	8			
+31	31005	Grüt		S	3	4	7			
+31	31008	Schniderbuck		S	2	4	11			
+31	31009	Büel		S	2	2	3			
+31	31399	Personen ohne Siedlungs-Nr. 		R	0	0	18			
+32	32001	Humlikon (Dorf)		S	123	145	383			
+32	32002	Rüti		S	1	2	2			
+32	32003	Grünwald		S	2	3	11			
+32	32004	Kreuzstrasse		S	2	3	5			
+32	32399	Personen ohne Siedlungs-Nr. 		R	0	0	7			
+33	33001	Kleinandelfingen (Dorf)		S	257	424	1’094			
+33	33002	Oerlingen		S	118	141	380			
+33	33003	Sösiweg		S	1	2	8			
+33	33004	Saum		S	1	1	4			
+33	33005	Weierhof		S	2	2	5			
+33	33006	Buck		S	1	1	4			
+33	33007	Waldegg		S	1	1	3			
+33	33008	Alten		S	84	87	244			
+33	33009	Tempel		S	3	3	12			
+33	33010	Wespersbühl		S	6	5	11			
+33	33012	Bühlhof		S	1	2	5			
+33	33013	Buchenäcker		S	1	1	6			
+33	33017	Schneitenberg		S	1	1	3			
+33	33018	Grosssee		S	2	1	5			
+33	33019	Burkhartensee		S	1	1	4			
+33	33020	Bahnhüsli		S	1	1	2			
+33	33021	Rütenen		S	1	1	1			
+33	33399	Personen ohne Siedlungs-Nr. 		R	0	0	30			
+34	34001	Uhwiesen (Dorf)	Quartiere	Q	361	473	1’140			
+34	34008	Nohl		S	34	55	124			
+34	34009	Laufen (Dorf)		S	6	3	19			
+34	34010	Mülibach		S	1	2	7			
+34	34011	Anderbach		S	1	1	2			
+34	34012	Sunnehof		S	2	2	7			
+34	34014	Steinerberg		S	6	6	17			
+34	34015	Brand		S	2	3	8			
+34	34017	Grüt		S	3	3	8			
+34	34018	Schlossfeld		S	1	1	4			
+34	34019	Wiswendi		S	1	1	4			
+34	34399	Personen ohne Siedlungs-Nr. 		R	0	0	29						
+35	35001	Marthalen (Dorf)	Quartiere	Q	381	596	1’567			
+35	35007	Ellikon a.Rh.		S	27	32	78			
+35	35008	Radhof		S	3	3	10			
+35	35009	Berg		S	2	3	9			
+35	35010	Nägeli		S	2	2	6			
+35	35012	Isebuck		S	2	3	9			
+35	35013	Kleiment		S	2	2	6			
+35	35014	Schwerzi		S	1	2	6			
+35	35015	Brunnehof		S	1	1	5			
+35	35016	Sunnehof		S	1	2	8			
+35	35017	Nidermartel		S	4	4	10			
+35	35018	Laubere		S	1	1	3			
+35	35019	Ifang		S	1	1	5			
+35	35020	Seegrabe		S	2	2	5			
+35	35021	Seefeld		S	2	2	9			
+35	35022	Abischthof		S	2	2	4			
+35	35023	Mühliwis		S	2	3	5			
+35	35024	Mötsche		S	1	1	4			
+35	35025	Grundhof		S	1	1	4			
+35	35026	Türni		S	1	1	3			
+35	35027	Madacker		S	1	1	3			
+35	35028	Hauebüel		S	2	2	7			
+35	35399	Personen ohne Siedlungs-Nr. 		R	0	0	37		
+36	36001	Oberstammheim (Dorf)		S	261	319	863			
+36	36002	Säleten		S	2	2	6			
+36	36003	Bahnhüsli		S	1	1	4			
+36	36006	Talmühle		S	3	3	11			
+36	36007	St.Annahof		S	1	2	6			
+36	36008	Alte St.Anna		S	1	2	4			
+36	36009	Oelenberg		S	1	2	5			
+36	36010	St.Anna		S	1	1	2			
+36	36011	Wangenbühl		S	1	1	2			
+36	36012	Pöschen		S	1	1	4			
+36	36013	Raffolterhof		S	1	1	5			
+36	36014	Hardhof		S	2	2	6			
+36	36015	Lärchenhof		S	1	1	2			
+36	36016	Fürstgrüt		S	1	2	3			
+36	36017	Breitacker		S	1	1	4			
+36	36018	Seehof/Seehalde		S	4	4	8			
+36	36019	Lindenhof		S	2	2	9			
+36	36020	Erlenhof		S	2	2	6			
+36	36021	Felderen		S	3	5	12			
+36	36022	Felderhof		S	2	2	4			
+36	36023	Stegacker		S	1	1	3			
+36	36024	Wilen		S	14	16	52			
+36	36026	Neuhof (bei Wilen)		S	2	3	7			
+36	36028	Moos		S	2	3	14			
+36	36029	Gässli		S	1	2	5			
+36	36399	Personen ohne Siedlungs-Nr. 		R	0	0	17			
+37	37001	Ossingen (Dorf)		S	276	378	959			
+37	37002	Dachsenhausen		S	1	2	5			
+37	37003	Langenmoos		S	8	8	22			
+37	37004	Berghof		S	2	2	4			
+37	37005	Goldbuck		S	2	2	6			
+37	37006	Riethalde		S	2	2	6			
+37	37007	Kastelhof		S	1	1	8			
+37	37008	Rosenhof		S	1	2	6			
+37	37009	Gisenhard		S	13	14	41			
+37	37010	Grundhof		S	1	1	5			
+37	37011	Wilhof		S	1	1	2			
+37	37012	Tannenhof		S	1	2	7			
+37	37013	Harstig		S	1	1	2			
+37	37014	Uf Wil		S	1	1	2			
+37	37015	Im Heidi		S	1	1	7			
+37	37017	Berg		S	3	4	7			
+37	37018	Im Schlatter		S	1	1	5			
+37	37019	Eschi		S	1	2	6			
+37	37020	Löberen		S	13	13	32			
+37	37022	Rebhof		S	1	2	7			
+37	37023	Werdhof		S	3	3	12			
+37	37024	Thurhof		S	1	1	2			
+37	37025	Unter-Hausen		S	1	1	2			
+37	37026	Hausen		S	9	9	31			
+37	37027	Widen		S	3	1	5			
+37	37028	Im Stieg		S	3	3	5			
+37	37029	Guggenbühl		S	1	1	3			
+37	37030	Thurbrücke		S	1	1	2			
+37	37031	Egli		S	2	2	4			
+37	37032	Ziegelhütte		S	1	2	6			
+37	37033	Burghof		S	8	8	25			
+37	37034	im Lochacker		S	1	1	3			
+37	37399	Personen ohne Siedlungs-Nr. 		R	0	0	33			
+38	38001	Unterdorf		S	123	192	439			
+38	38002	Oberdorf		S	103	198	477			
+38	38003	Alt-Rheinau		S	4	7	46			
+38	38006	Neu-Rheinau		S	156	148	562			
+38	38399	Personen ohne Siedlungs-Nr. 		R	0	0	121			
+39	39001	Thalheim (Dorf)		S	112	123	322			
+39	39002	Weidler		S	1	2	7			
+39	39003	Weyerhölzli		S	1	1	2			
+39	39004	Gütighausen		S	55	98	232			
+39	39005	Bilg		S	1	2	6			
+39	39006	Asperhof		S	1	1	4			
+39	39007	Hauenrain		S	1	1	3			
+39	39008	Grüt		S	1	1	1			
+39	39009	Geeren		S	2	2	6			
+39	39010	Tannenhof		S	2	3	7			
+39	39011	Guggenbühl		S	1	1	2			
+39	39012	Püntenrain		S	1	2	4			
+39	39014	Sonnenhof		S	1	1	2			
+39	39015	Station		S	3	5	6			
+39	39016	Loo		S	1	1	4			
+39	39017	Schleipfi		S	2	2	4			
+39	39399	Personen ohne Siedlungs-Nr. 		R	0	0	25		
+40	40001	Trüllikon (Dorf)		S	171	227	572			
+40	40002	Rudolfingen		S	73	82	222			
+40	40003	Wildensbuch		S	35	39	96			
+40	40005	Neuen		S	2	2	5			
+40	40006	Bergli		S	1	1	2			
+40	40008	Hebsack		S	1	1	3			
+40	40009	Grüthof		S	1	1	2			
+40	40010	Guetli		S	2	4	8			
+40	40011	Mattenhof		S	1	1	2			
+40	40012	Chrüzli		S	1	1	1			
+40	40013	Steinigen Buck/Grund		S	1	1	4			
+40	40014	Ruppen		S	3	4	11			
+40	40015	Webhusen		S	1	1	5			
+40	40016	Ohrenberg		S	4	4	6			
+40	40017	Weierhof		S	1	1	4			
+40	40019	Steighof/Stocken		S	1	1	2			
+40	40020	Quardi		S	1	1	2			
+40	40021	Ludi		S	1	1	4			
+40	40022	Ziel		S	1	1	2			
+40	40023	Ammenstieg		S	1	1	2			
+40	40024	Sommerau		S	1	1	2			
+40	40025	Bruggbüel		S	1	1	3			
+40	40026	Eichhof		S	1	1	1			
+40	40027	Krähenbuck		S	1	1	4			
+40	40028	Sunnacker		S	1	2	7			
+40	40029	Chrummenrüti		S	1	1	3			
+40	40030	Halde		S	1	2	5			
+40	40399	Personen ohne Siedlungs-Nr. 		R	0	0	9			
+41	41001	Truttikon (Dorf)		S	114	127	363			
+41	41002	Grüthof		S	1	1	2			
+41	41003	Bächi		S	1	1	6			
+41	41004	Husemerbüel		S	1	2	5			
+41	41005	Genter		S	1	2	10			
+41	41006	Eichi		S	1	2	4			
+41	41007	Hertlibuck		S	1	3	9			
+41	41008	Chalchbüel		S	1	2	8			
+41	41009	Riedhof		S	1	2	4			
+41	41010	Sunnehof		S	1	1	3			
+41	41011	Mattenhof		S	1	1	3			
+41	41012	Waldhof		S	2	3	6			
+41	41399	Personen ohne Siedlungs-Nr. 		R	0	0	12			
+42	42001	Unterstammheim (Dorf)		S	221	261	697			
+42	42002	Bühlhof		S	1	1	4			
+42	42003	Furtmühle		S	2	2	8			
+42	42004	Steigbühl		S	2	2	8			
+42	42005	Ulmerweg		S	1	2	8			
+42	42006	Schlat		S	1	1	4			
+42	42007	Schlosserbuck		S	1	1	3			
+42	42008	Rohräcker		S	2	2	5			
+42	42009	Ulmerhof		S	2	3	8			
+42	42010	Landwatt / Im Espi		S	1	1	5			
+42	42011	Neubrunn		S	2	3	8			
+42	42012	Im Wyberg		S	1	1	8			
+42	42013	Weierhof		S	1	1	3			
+42	42014	Emdwies		S	1	1	2			
+42	42015	Oberbrunn		S	2	1	3			
+42	42017	Riet		S	2	2	5			
+42	42018	Pfei		S	2	2	7			
+42	42019	Kollbrunn		S	1	2	7			
+42	42020	Wehrligass		S	1	2	8			
+42	42022	Wieshof		S	2	1	1			
+42	42023	Stangen		S	3	2	9			
+42	42024	Amtacker		S	2	2	6			
+42	42025	Im Buck		S	1	1	5			
+42	42399	Personen ohne Siedlungs-Nr. 		R	0	0	23			
+43	43001	Volken (Dorf)		S	65	96	250			
+43	43003	Rütihof		S	1	1	3			
+43	43004	Ribi		S	1	2	8			
+43	43399	Personen ohne Siedlungs-Nr. 		R	0	0	7			
+44	44001	Waltalingen (Dorf)		S	86	96	278			
+44	44002	Guntalingen		S	85	105	297			
+44	44003	Chardi		S	1	2	4			
+44	44004	Dachsbüel		S	1	1	3			
+44	44005	Tannholz		S	1	3	4			
+44	44006	Eichhof		S	2	2	7			
+44	44007	Buck		S	1	1	4			
+44	44008	Zur Römerstrasse		S	1	1	5			
+44	44009	Schloss Girsberg		S	1	1	2			
+44	44010	Girsberg		S	6	7	18			
+44	44011	Bückli		S	1	1	5			
+44	44012	Zentralschulhaus		S	2	2	9			
+44	44013	Rietmüli		S	2	3	6			
+44	44014	Sonnenhof		S	1	1	5			
+44	44015	Hasenbuck		S	1	1	2			
+44	44017	Egg		S	1	1	2			
+44	44018	Schwandegg		S	1	1	1			
+44	44019	Schloss Schwandegg		S	1	1	2			
+44	44020	Halden		S	1	1	3			
+44	44022	Buck		S	1	1	3			
+44	44023	Neuhof		S	1	1	3			
+44	44024	Freienbüel		S	1	1	3			
+44	44025	Unterbuch		S	1	1	4			
+44	44399	Personen ohne Siedlungs-Nr. 		R	0	0	14		
+51	51001	Bachenbülach (Dorf)		S	473	1’260	2’985			
+51	51002	Bruederhof		S	1	2	5			
+51	51003	Berghus		S	2	2	2			
+51	51004	Hinterer Rüebisberg		S	1	1	2			
+51	51005	Schwiggi		S	1	2	4			
+51	51006	Industrie		S	13	15	32			
+51	51399	Personen ohne Siedlungs-Nr. 		R	0	0	53			
+52	52001	Bassersdorf (Dorf)		S	1’134	2’947	7’010			
+52	52002	Berg		S	2	3	6			
+52	52003	Muetlikon		S	1	1	4			
+52	52004	Baholz		S	2	1	3			
+52	52005	Fallmatten		S	1	1	4			
+52	52006	Bachtobel		S	10	10	21			
+52	52007	Berghof		S	1	1	2			
+52	52008	Juchen		S	3	5	16			
+52	52009	Grindel		S	4	4	5			
+52	52011	Forbuchen		S	1	1	2			
+52	52012	Hard		S	8	8	20			
+52	52013	Pöschen		S	6	19	50			
+52	52014	Untereigen		S	1	1	2			
+52	52015	Eichmühle		S	1	2	2			
+52	52016	Eich		S	1	1	3			
+52	52017	Baltenswil		S	64	84	247			
+52	52399	Personen ohne Siedlungs-Nr. 		R	0	0	118			
+53	53001	Bülach (Stadt)	Quartiere	Q	1’756	5’682	13’172			
+53	53011	Hörnlihof		S	1	1	3			
+53	53012	Sonnenhof		S	1	1	2			
+53	53013	Heimgarten		S	12	15	69			
+53	53014	Rheinsberghof		S	2	2	2			
+53	53015	Station Glattfelden		S	3	2	3			
+53	53016	Herrenwis		S	2	6	12			
+53	53017	Wydhof		S	1	1	4			
+53	53018	Schlattihof		S	2	1	5			
+53	53019	Wolfächer		S	1	2	5			
+53	53020	Wagenbreche		S	1	3	10			
+53	53021	Hörainhof		S	1	1	4			
+53	53022	Läubberg		S	2	2	4			
+53	53023	Alpenhof		S	1	2	7			
+53	53024	Schützenmatt		S	2	4	7			
+53	53026	Wiesli		S	11	17	45			
+53	53028	Irchelstrasse		S	7	10	22			
+53	53029	Nussbaumen		S	21	28	75			
+53	53030	Dettenberg		S	2	3	7			
+53	53032	Franzrüti		S	2	1	6			
+53	53033	Tunnel		S	1	1	3			
+53	53034	Bäretsmoos		S	1	1	6			
+53	53035	Kreuz		S	1	2	4			
+53	53036	Rotzibuch		S	2	2	5			
+53	53037	Eschenmosen		S	28	37	100			
+53	53038	Klingenhof		S	2	2	6			
+53	53039	Binz		S	2	4	6			
+53	53041	Neu-Kirchhof		S	1	1	3			
+53	53044	Nebelwinkel-Erachfeld		S	3	14	40			
+53	53045	Engelwisstrasse		S	2	2	2			
+53	53046	Jfang		S	7	6	17			
+53	53047	Mettmenriet		S	4	18	49			
+53	53048	Schlaufenberg		S	15	13	47			
+53	53049	Hagenbuechen		S	1	2	6			
+53	53050	Hirslen		S	1	2	9			
+53	53399	Personen ohne Siedlungs-Nr. 		R	0	0	232			
+54	54001	Dietlikon (Dorf)	Quartiere	Q	913	2’715	6’149			
+54	54002	Grund		S	2	3	8			
+54	54003	Giblen		S	1	2	2			
+54	54004	Chriesbach		S	2	1	3			
+54	54005	Aegert		S	9	13	32			
+54	54399	Personen ohne Siedlungs-Nr. 		R	0	0	87			
+55	55001	Eglisau	Quartiere	Q	274	388	974			
+55	55005	Seglingen	Quartiere	Q	254	453	1’144			
+55	55009	Hardhof		S	1	2	4			
+55	55010	Vogelsang		S	1	2	7			
+55	55011	Steinerthof		S	1	1	2			
+55	55012	Forbo		S	1	1	7			
+55	55013	Stampfi		S	6	6	13			
+55	55014	Wiler		S	140	170	388			
+55	55015	Grafenholz		S	1	1	3			
+55	55017	Laubberg		S	1	1	2			
+55	55018	Dachsberg		S	1	1	5			
+55	55020	Steinboden		S	1	1	5			
+55	55021	Eichhof		S	1	1	2			
+55	55022	Im Stab		S	5	5	12			
+55	55023	Steinhag		S	1	3	10			
+55	55024	Hinter Stadtberg		S	2	2	4			
+55	55026	Tössriederen		S	62	88	205			
+55	55027	Lärchhof		S	1	1	3			
+55	55028	Birchstud		S	1	1	4			
+55	55029	Buechhof		S	2	2	9			
+55	55030	Laubi		S	4	3	9			
+55	55399	Personen ohne Siedlungs-Nr. 		R	0	0	81			
+56	56001	Embrach (Dorf)	Quartiere	Q	979	2’799	7’088			
+56	56007	Neumoos		S	1	1	2			
+56	56009	Ziegelhütte		S	3	4	10			
+56	56010	Hardhof		S	1	2	6			
+56	56011	Illingen		S	8	18	46			
+56	56012	Waldegg		S	1	2	8			
+56	56014	Obermühle		S	3	6	14			
+56	56015	Winkelwiesen		S	1	3	5			
+56	56016	Talegg		S	2	2	6			
+56	56017	Betzental		S	5	5	10			
+56	56018	Burghof		S	1	1	7			
+56	56019	Halde		S	1	1	2			
+56	56020	Freienhof		S	1	2	6			
+56	56021	Heidegghof		S	1	1	4			
+56	56022	Guldenberg		S	2	3	8			
+56	56023	Gstein		S	11	14	29			
+56	56024	Chimenhof		S	4	6	14			
+56	56025	Berghof		S	2	3	9			
+56	56027	Sunnenrain		S	1	3	8			
+56	56028	Schützenmaur		S	1	1	5			
+56	56029	Baltsberg		S	3	5	17			
+56	56030	Husacher		S	1	2	6			
+56	56039	Haller		S	78	80	222			
+56	56040	Chüng		S	31	33	104			
+56	56399	Personen ohne Siedlungs-Nr. 		R	0	0	108			
+57	57001	Freienstein (Dorf)		S	379	624	1’617			
+57	57002	Unter-Teufen		S	54	71	173			
+57	57003	Talhof		S	1	1	4			
+57	57004	Tössegg		S	1	1	4			
+57	57005	Stelzen		S	1	1	2			
+57	57006	Ober-Teufen		S	49	51	149			
+57	57008	Widen		S	1	1	5			
+57	57010	Feldhof		S	2	3	9			
+57	57011	Teufenbach		S	3	4	11			
+57	57012	Schloss Teufen		S	5	8	18			
+57	57013	Berg		S	1	3	6			
+57	57014	Geissstig		S	2	2	3			
+57	57015	Rüedi		S	4	7	35			
+57	57016	Wohnschule		S	4	2	38			
+57	57017	Eich		S	1	2	2			
+57	57019	Riberg		S	1	1	6			
+57	57020	Säget		S	1	1	3			
+57	57021	Unter-Grüt		S	1	1	6			
+57	57023	Sonnenberg		S	3	3	10			
+57	57399	Personen ohne Siedlungs-Nr. 		R	0	0	26			
+58	58001	Glattfelden (Dorf)		S	633	1’047	2’578			
+58	58002	Neuhus		S	1	1	6			
+58	58003	Rhihof		S	1	2	3			
+58	58004	Schlossacher		S	22	23	70			
+58	58005	Zweidlen-Station		S	54	91	257			
+58	58006	Rheinsfelden (Höfe)		S	8	10	26			
+58	58007	Letten		S	14	58	208			
+58	58009	Laubberg		S	4	3	7			
+58	58010	Zweidlen-Dorf		S	27	41	104			
+58	58014	Aarüti		S	15	21	59			
+58	58019	Berg		S	2	2	3			
+58	58020	Huser		S	1	1	1			
+58	58022	Wölflishalden		S	3	3	8			
+58	58023	Oberholz		S	1	2	3			
+58	58024	Rütifeld		S	1	1	2			
+58	58025	Lerchenhof		S	1	1	3			
+58	58026	Sunnenhof		S	1	1	3			
+58	58027	Hegsten		S	1	1	2			
+58	58028	Lindenhof		S	1	2	6			
+58	58029	Brunnehof		S	1	1	4			
+58	58030	Schachen		S	18	27	67			
+58	58031	Burenwisen		S	1	1	2			
+58	58032	Bildhof		S	1	1	1			
+58	58034	Kreuzstrasse		S	1	1	3			
+58	58399	Personen ohne Siedlungs-Nr. 		R	0	0	118			
+59	59001	Hochfelden (Dorf)		S	310	539	1’442			
+59	59002	Im Hasli		S	1	1	6			
+59	59003	Chalchofen		S	1	1	2			
+59	59005	Willenhof		S	12	14	39			
+59	59007	Im Jakobstal		S	5	18	29			
+59	59009	Im Schindlerbühl		S	4	5	10			
+59	59012	Bachtobel		S	1	1	3			
+59	59399	Personen ohne Siedlungs-Nr. 		R	0	0	48			
+60	60001	End-Höri		S	175	413	1’041			
+60	60002	Nieder-Höri		S	17	21	55			
+60	60003	Bückler-Dörnler		S	47	245	591			
+60	60004	Ober-Höri		S	148	186	523			
+60	60005	Höriberg		S	1	2	5			
+60	60006	Im Seeber		S	1	2	5			
+60	60007	Schoren		S	1	2	9			
+60	60399	Personen ohne Siedlungs-Nr. 		R	0	0	71			
+61	61001	Hüntwangen (Dorf)		S	231	291	705			
+61	61002	Mitzenwinkel		S	1	2	8			
+61	61003	Fuchshof		S	2	2	6			
+61	61004	Ergeten		S	1	6	14			
+61	61005	Bahnhof		S	2	2	6			
+61	61006	Längghof		S	1	2	6			
+61	61007	Raineten		S	2	1	1			
+61	61008	Linde		S	1	2	6			
+61	61009	Eichen		S	1	1	2			
+61	61010	Gentner		S	1	1	5			
+61	61399	Personen ohne Siedlungs-Nr. 		R	0	0	23			
+62	62001	Kloten (Stadt)	Quartiere	Q	1’794	7’868	16’289			
+62	62014	Römerhof-Homberg		S	1	1	6			
+62	62015	Egetswil		S	36	109	275			
+62	62016	Hinter Bänikon		S	1	1	2			
+62	62017	Vorder Bänikon		S	6	7	21			
+62	62018	Gerlisberg		S	23	41	120			
+62	62019	Rank		S	6	10	30			
+62	62020	Eigental		S	5	7	13			
+62	62021	Obholz		S	4	4	14			
+62	62022	Chloos		S	1	1	1			
+62	62023	Erli		S	1	1	1			
+62	62024	Werkhof		S	1	0	134			
+62	62399	Personen ohne Siedlungs-Nr. 		R	0	0	284			
+63	63001	Lufingen (Dorf)		S	69	192	446			
+63	63002	Felistetten		S	1	1	3			
+63	63003	Moosbrunnen		S	2	2	8			
+63	63004	Sandächer		S	2	2	10			
+63	63005	Ziegeleistrasse		S	5	19	47			
+63	63008	Müli		S	16	32	68			
+63	63009	Schärenwis		S	1	1	2			
+63	63010	Juch		S	1	1	2			
+63	63011	Hinter-Marchlen		S	3	4	12			
+63	63012	Gsteig		S	5	5	10			
+63	63013	Vorder-Marchlen		S	2	2	6			
+63	63014	Augwil		S	158	194	450			
+63	63015	Chloosstrasse		S	2	3	10			
+63	63016	Ober-Augwil		S	12	24	66			
+63	63399	Personen ohne Siedlungs-Nr. 		R	0	0	32			
+64	64001	Nürensdorf (Dorf)		S	372	964	2’310			
+64	64002	Tältschenmatt		S	1	1	2			
+64	64003	Breitenloo		S	8	8	20			
+64	64004	Kleinhaus		S	4	4	8			
+64	64005	Oberwil		S	112	168	403			
+64	64006	Lucketen		S	1	1	2			
+64	64007	Rütelen		S	1	2	4			
+64	64008	Breite		S	101	190	450			
+64	64009	Birchwil		S	374	429	1’066			
+64	64010	Erspel		S	1	2	5			
+64	64011	Usseramt		S	1	1	2			
+64	64013	Uttenbüel		S	1	1	5			
+64	64014	Sägete		S	1	2	6			
+64	64015	Hatzenbüel		S	1	1	4			
+64	64017	Hakab		S	13	23	46			
+64	64018	Buchwies		S	1	1	5			
+64	64019	Looren		S	1	2	4			
+64	64020	Fraubüechli		S	3	4	6			
+64	64022	Mittlerzelgli		S	1	1	6			
+64	64399	Personen ohne Siedlungs-Nr. 		R	0	0	121			
+65	65001	Oberembrach (Dorf)		S	178	288	694			
+65	65002	Rebhalde		S	1	2	4			
+65	65003	Trinenmoos		S	2	2	7			
+65	65004	Paradies		S	2	2	3			
+65	65005	Rotenfluh		S	6	10	26			
+65	65006	Unter-Mettmenstetten		S	2	2	5			
+65	65007	Althaus		S	1	2	6			
+65	65008	Ober-Mettmenstetten		S	4	4	12			
+65	65009	Ober-Wagenburg		S	7	13	34			
+65	65010	Stiegenhof		S	3	3	9			
+65	65011	Hellbrunn		S	1	1	3			
+65	65012	Weinberg		S	1	2	3			
+65	65013	Schmärbreiti		S	1	1	3			
+65	65014	Riethof		S	2	3	11			
+65	65016	Looren		S	1	1	2			
+65	65017	Sonnenberg		S	2	3	12			
+65	65018	Hausen		S	4	5	9			
+65	65019	Mühlberg		S	7	10	24			
+65	65020	Unter-Wagenburg		S	3	4	15			
+65	65021	Sonnenbühl		S	5	5	28			
+65	65022	Schauberg		S	1	2	5			
+65	65023	Madlikon		S	2	5	7			
+65	65024	Stürzikon		S	3	6	16			
+65	65025	Bühlhof		S	4	4	13			
+65	65026	Steinmüri		S	1	2	2			
+65	65027	Wildbach		S	1	2	2			
+65	65028	Hueb		S	1	2	6			
+65	65399	Personen ohne Siedlungs-Nr. 		R	0	0	29		
+66	66001	Opfikon		S	159	572	1’277			
+66	66002	Glattbrugg	Quartiere	Q	653	3’864	7’647			
+66	66004	Grossacker/Opfikon		S	326	461	1’076			
+66	66005	Rietgrabenhang		S	55	309	761			
+66	66006	Au		S	12	236	426			
+66	66007	Oberhausen-Böschenwiesen		S	21	64	170			
+66	66008	Oberhauserriet		S	6	3	77			
+66	66009	Leutschenbach		S	2	2	5			
+66	66010	Talacker		S	6	7	18			
+66	66014	Hohenbühl/Bubenholz		S	7	44	66			
+66	66015	Brünnli/Hardacker		S	15	190	370			
+66	66399	Personen ohne Siedlungs-Nr. 		R	0	0	169			
+67	67001	Rafz (Dorf)		S	719	1’205	3’233			
+67	67002	Langenriet		S	2	2	5			
+67	67003	Waldegg		S	1	2	5			
+67	67004	Chalchofen		S	1	1	5			
+67	67005	Blättliacker		S	1	1	5			
+67	67006	Schlossbuck		S	1	1	5			
+67	67008	Waldhof		S	1	1	3			
+67	67009	Eichenrütenen		S	1	1	2			
+67	67011	Adenberg		S	1	1	4			
+67	67012	Sonnenberg		S	6	8	20			
+67	67015	Feldhof		S	2	3	8			
+67	67017	Forenhof		S	2	2	3			
+67	67018	Solgen		S	3	4	10			
+67	67019	Ulmenhof		S	1	2	4			
+67	67020	Zelglihof		S	1	1	2			
+67	67021	Schützenmatt		S	1	2	8			
+67	67024	Gentner		S	1	2	4			
+67	67025	Wiesenthal		S	1	1	1			
+67	67026	Birkenhof		S	1	3	8			
+67	67027	Sommerau		S	1	2	6			
+67	67028	Florhof		S	1	1	3			
+67	67029	Eichrüti		S	1	2	5			
+67	67030	Eichhof		S	1	1	2			
+67	67031	Rütihof		S	1	2	3			
+67	67399	Personen ohne Siedlungs-Nr. 		R	0	0	41			
+68	68001	Rorbas (Dorf)		S	426	742	1’797			
+68	68002	Ausserwiler		S	2	2	5			
+68	68003	Nauen		S	13	18	45			
+68	68004	Au		S	33	54	137			
+68	68005	Mühlehalde		S	1	2	3			
+68	68006	Studerwies		S	1	1	5			
+68	68007	Wagenbreche		S	2	3	8			
+68	68008	Federn		S	1	1	4			
+68	68009	Riet		S	19	63	149			
+68	68010	Bütberg		S	1	1	3			
+68	68011	Riedern		S	1	1	2			
+68	68012	Berghof		S	3	2	4			
+68	68399	Personen ohne Siedlungs-Nr. 		R	0	0	39			
+69	69001	Wallisellen (Dorf)	Quartiere	Q	1’846	5’322	11’705			
+69	69005	Herzogenmühle		S	6	7	34			
+69	69006	Neugut		S	7	8	27			
+69	69007	Schönenhof		S	7	10	41			
+69	69399	Personen ohne Siedlungs-Nr. 		R	0	0	132			
+70	70001	Wasterkingen (Dorf)		S	153	199	521			
+70	70003	Im Büelbrunnen 167		S	1	1	2			
+70	70004	Im Spitz 70		S	1	1	4			
+70	70005	Im Gwand 66		S	1	1	4			
+70	70006	In der Chürzi 179		S	1	2	8			
+70	70007	Zollhaus Wasterkingen		S	1	1	4			
+70	70008	Badener Landstrasse 101		S	1	1	4			
+70	70009	Heiziwies 110		S	1	1	6			
+70	70012	Zum Bergheim 67		S	1	1	2			
+70	70399	Personen ohne Siedlungs-Nr. 		R	0	0	5		
+71	71001	Wil (Dorf)		S	222	304	785			
+71	71002	Buchenloo		S	15	19	46			
+71	71003	Berghof		S	1	1	5			
+71	71004	Wendelbuck		S	15	12	24			
+71	71005	Lirenhof		S	19	20	54			
+71	71006	Felsenegg		S	26	25	66			
+71	71007	Bürgelacker		S	53	53	164			
+71	71008	Hohenstich		S	1	1	2			
+71	71009	Rüti		S	2	3	10			
+71	71011	Hüslihof		S	10	16	54			
+71	71012	Feldhof		S	1	1	6			
+71	71013	Zollamt Wil-Grenze		S	1	2	2			
+71	71014	Haldenhof		S	1	1	4			
+71	71015	Grund		S	9	13	28			
+71	71016	Landbühl		S	4	5	18			
+71	71018	Rugg		S	1	1	2			
+71	71019	Bagöz		S	1	1	4			
+71	71020	Bahnwärterhaus Hard		S	1	1	1			
+71	71021	Frauenacker		S	1	0	1			
+71	71399	Personen ohne Siedlungs-Nr. 		R	0	0	41		
+72	72001	Winkel (Dorf)		S	113	399	869			
+72	72002	Vorderer Rüebisberg		S	1	1	6			
+72	72003	Scheidweg		S	5	6	17			
+72	72004	Bitziberg		S	3	15	32			
+72	72005	Halden		S	21	23	61			
+72	72006	Bützen		S	25	25	69			
+72	72007	Geeren		S	32	34	97			
+72	72008	Bigisrüti		S	1	2	7			
+72	72009	Brütter		S	27	32	78			
+72	72010	Angelrain		S	46	50	139			
+72	72011	Berg		S	1	1	4			
+72	72012	Seeb		S	47	111	251			
+72	72013	Hofacher		S	21	23	64			
+72	72014	Lätten		S	43	48	136			
+72	72015	Seehalden		S	3	6	11			
+72	72016	Lochwis		S	24	31	71			
+72	72017	Grossacher		S	4	4	9			
+72	72018	Huser		S	2	2	6			
+72	72019	Niderrüti		S	23	82	179			
+72	72020	Büelhalden		S	12	15	29			
+72	72021	Loo		S	5	31	64			
+72	72022	Büelhof		S	7	17	42			
+72	72023	Pünten		S	5	7	17			
+72	72024	Büelreben		S	45	52	151			
+72	72025	Chlihölzli		S	21	85	166			
+72	72026	Maas		S	34	114	202			
+72	72027	Oberrüti		S	36	47	118			
+72	72028	Hagenbuechen		S	2	2	8			
+72	72029	Chirchbüel		S	33	60	132			
+72	72030	Hargarten		S	39	40	89			
+72	72032	Wilenhof		S	2	2	7			
+72	72034	Grosswis		S	21	21	68			
+72	72399	Personen ohne Siedlungs-Nr. 		R	0	0	118			
+81	81001	Alt-Bachs		S	67	98	261			
+81	81002	Neu-Bachs		S	35	45	141			
+81	81003	Tal		S	2	2	7			
+81	81004	Thalmühle		S	2	3	8			
+81	81005	Hueb		S	6	7	16			
+81	81006	Rüebisberg		S	5	5	15			
+81	81007	Brämhof		S	3	5	7			
+81	81008	Neumühle		S	1	1	4			
+81	81010	Rotzengrund		S	1	2	5			
+81	81011	Talwishof		S	1	2	8			
+81	81012	Zil		S	1	1	4			
+81	81013	Mulflen		S	6	8	21			
+81	81015	Stampfi		S	1	2	2			
+81	81019	Eichhof		S	1	1	6			
+81	81020	Wingert		S	1	3	9			
+81	81021	Weiherbach		S	2	5	9			
+81	81022	Hochrüti		S	2	2	5			
+81	81023	Tiergarten		S	1	3	11			
+81	81024	Hodleten		S	2	3	8			
+81	81025	Schlatt		S	2	1	2			
+81	81026	Wöllimoos		S	1	2	5			
+81	81027	Flüenen		S	1	1	3			
+81	81399	Personen ohne Siedlungs-Nr. 		R	0	0	20			
+82	82001	Boppelsen (Dorf)		S	288	359	893			
+82	82002	Lägern-Hochwacht		S	1	1	1			
+82	82003	Weid		S	2	3	10			
+82	82004	Bleiki		S	1	1	2			
+82	82005	Neuwies		S	22	31	76			
+82	82006	Rüti		S	3	3	4			
+82	82399	Personen ohne Siedlungs-Nr. 		R	0	0	32			
+83	83001	Buchs	Quartiere	Q	586	1’611	3’883			
+83	83007	Bruderhof		S	1	2	6			
+83	83008	Wolfacker		S	2	2	6			
+83	83009	In der Herzi		S	1	1	1			
+83	83010	Wanne		S	1	1	2			
+83	83011	Im Badweg		S	2	2	3			
+83	83012	Schinhut		S	1	4	8			
+83	83013	Hand		S	1	1	2			
+83	83014	Huebacher		S	4	4	4			
+83	83015	Im Petermoos		S	1	1	2			
+83	83016	Krähstel		S	15	16	38			
+83	83017	Drisgler		S	14	17	40			
+83	83018	Rietwiesen		S	1	2	5			
+83	83023	Im Riet		S	7	26	60			
+83	83024	Furthof		S	2	2	9			
+83	83025	Wiesenhof		S	3	1	5			
+83	83026	Hof		S	1	1	1			
+83	83027	Trübenbach		S	5	7	25			
+83	83029	Kriechenbaum		S	1	1	2			
+83	83399	Personen ohne Siedlungs-Nr. 		R	0	0	80		
+84	84001	Dällikon	Quartiere	Q	448	1’322	3’049			
+84	84003	Brüederhof		S	2	2	5			
+84	84004	Erlenhof		S	1	1	2			
+84	84005	Weid		S	3	3	10			
+84	84006	Riet		S	10	11	21			
+84	84007	Hüttenwiesenstrasse		S	8	11	24			
+84	84009	Langwiesen		S	6	6	14			
+84	84011	Brunnenwiesen		S	1	1	2			
+84	84012	Feldhof		S	5	4	12			
+84	84015	Berghof		S	1	1	3			
+84	84016	Landhof		S	1	1	2			
+84	84017	Chrummwis / Längg		S	2	2	7			
+84	84399	Personen ohne Siedlungs-Nr. 		R	0	0	110			
+85	85001	Dänikon (Dorf)	Quartiere	Q	325	643	1’682			
+85	85006	Rotfluh		S	1	4	8			
+85	85007	Hofacker		S	1	2	4			
+85	85008	Altberg		S	1	1	2			
+85	85009	Geigelmoos		S	1	1	6			
+85	85010	Otelfinger-Str.		S	2	3	6			
+85	85011	Oberwiesenhof		S	1	2	4			
+85	85399	Personen ohne Siedlungs-Nr. 		R	0	0	37			
+86	86001	Dielsdorf (Dorf)		S	761	1’908	4’671			
+86	86004	Berghof		S	1	2	5			
+86	86005	Burghof		S	13	12	64			
+86	86006	Ditikerhof		S	4	5	13			
+86	86008	Rüti		S	1	1	2			
+86	86399	Personen ohne Siedlungs-Nr. 		R	0	0	127			
+87	87001	Hüttikon (Dorf)		S	158	185	480			
+87	87004	Hüttikerberg		S	4	5	14			
+87	87007	Wasenbühl		S	1	2	5			
+87	87399	Personen ohne Siedlungs-Nr. 		R	0	0	34			
+88	88001	Neerach (Dorf)		S	418	594	1’435			
+88	88002	Schlatt		S	1	1	5			
+88	88003	Strick		S	1	2	4			
+88	88004	Heitlig		S	1	2	5			
+88	88005	Im Lenz		S	1	1	5			
+88	88006	Im Juch		S	2	13	34			
+88	88007	Stadlersee		S	1	2	3			
+88	88008	Chernensee		S	1	1	4			
+88	88009	Mannacher		S	1	2	5			
+88	88010	Riedt		S	204	343	811			
+88	88011	Bramen		S	1	1	2			
+88	88012	Langgraben		S	3	4	14			
+88	88013	Neuwis		S	1	1	7			
+88	88014	Thalmann		S	1	1	4			
+88	88399	Personen ohne Siedlungs-Nr. 		R	0	0	28			
+89	89001	Niederglatt (Dorf)	Quartiere	Q	718	1’549	3’632			
+89	89009	Feldhof		S	3	3	10			
+89	89010	Auf dem Bühl		S	2	3	11			
+89	89012	Saali		S	1	1	2			
+89	89013	Kreuzäckern		S	1	2	6			
+89	89399	Personen ohne Siedlungs-Nr. 		R	0	0	76		
+90	90001	Niederhasli	Quartiere	Q	801	2’087	5’310			
+90	90002	Oberhasli	Quartiere	Q	423	603	1’465			
+90	90003	Im Ried		S	1	2	5			
+90	90005	Hundsruggen / Dielsdorferstrasse		S	2	1	2			
+90	90010	Im Hecht		S	1	2	5			
+90	90011	Im Romis		S	3	3	9			
+90	90012	Im Feld		S	2	3	7			
+90	90014	Am See		S	2	2	8			
+90	90016	Kastelhof		S	10	15	37			
+90	90017	Mettmenhasli	Quartiere	Q	52	146	328			
+90	90021	Nassenwil	Quartiere	Q	77	85	227			
+90	90023	Loohof		S	1	1	4			
+90	90026	Rietrain		S	5	5	12			
+90	90027	Wehntalerstrasse		S	1	2	4			
+90	90028	Chutzenmoos		S	2	2	7			
+90	90029	Rütisberg		S	6	9	22			
+90	90032	Rütihof		S	3	3	5			
+90	90033	Weinbach		S	1	2	3			
+90	90034	Säget		S	2	2	7			
+90	90399	Personen ohne Siedlungs-Nr. 		R	0	0	122			
+91	91001	Niederweningen	Quartiere	Q	454	761	1’932			
+91	91003	Unterer Berghof		S	1	2	3			
+91	91006	Station		S	1	1	1			
+91	91010	Murzlen		S	1	1	1			
+91	91012	Surbwiesen		S	12	15	43			
+91	91013	Ob der Müli		S	6	4	12			
+91	91014	Märzenbrunnen		S	1	2	6			
+91	91015	Vorderegg		S	35	38	101			
+91	91016	Steighof		S	1	2	3			
+91	91018	Hintereichen		S	12	12	40			
+91	91022	Stumpen		S	1	1	7			
+91	91023	Surbengraben		S	1	1	6			
+91	91024	Birch		S	1	2	2			
+91	91025	Chüeboden		S	1	2	5			
+91	91026	Birchwald		S	1	2	3			
+91	91027	Riedenhof		S	1	2	6			
+91	91028	Widenhof		S	1	1	3			
+91	91029	Lindenhof		S	1	1	7			
+91	91030	Lütisgrund		S	1	2	4			
+91	91399	Personen ohne Siedlungs-Nr. 		R	0	0	35		
+92	92001	Oberglatt (Dorf)	Quartiere	Q	590	1’593	3’564			
+92	92005	Schopetswil		S	2	2	3			
+92	92006	Forbuck		S	1	1	3			
+92	92007	Hell		S	3	2	4			
+92	92008	Hofstetten		S	123	469	1’115			
+92	92011	Grundbuck-Gässli		S	2	3	8			
+92	92012	Hasliberg		S	60	157	339			
+92	92013	Elektrohof		S	3	1	2			
+92	92399	Personen ohne Siedlungs-Nr. 		R	0	0	82		
+93	93001	Oberweningen (Dorf)		S	206	377	919			
+93	93002	Kirchweg		S	34	37	109			
+93	93003	Tüfwis		S	51	51	162			
+93	93004	Wattenwilerhof		S	2	3	11			
+93	93005	Chalstorf		S	1	1	4			
+93	93006	Feusi		S	1	1	4			
+93	93007	Buck		S	3	4	15			
+93	93008	Grund		S	4	5	10			
+93	93009	Längelen		S	1	1	2			
+93	93010	Steinbrugg		S	1	1	7			
+93	93011	Erlenhof		S	1	2	6			
+93	93012	Weidhof		S	1	1	8			
+93	93013	Breitenhof		S	1	1	3			
+93	93014	Schniderhus		S	1	1	2			
+93	93399	Personen ohne Siedlungs-Nr. 		R	0	0	28			
+94	94001	Otelfingen (Dorf)	Quartiere	Q	409	719	1’808			
+94	94399	Personen ohne Siedlungs-Nr. 		R	0	0	44			
+95	95001	Regensberg (Städtchen)		S	68	156	346			
+95	95002	Staldern / Pünt		S	7	9	25			
+95	95004	Höfli / Halde		S	4	5	12			
+95	95006	Loohof		S	1	3	18			
+95	95008	Hirsmühle		S	10	27	61			
+95	95009	Mötsche		S	1	2	6			
+95	95010	Erlenhof		S	1	2	7			
+95	95399	Personen ohne Siedlungs-Nr. 		R	0	0	12			
+96	96001	Regensdorf (Dorf)	Quartiere	Q	812	3’326	7’531			
+96	96003	Schwenkelberg		S	1	1	3			
+96	96004	Rächenbühl		S	13	14	35			
+96	96005	Strassächer		S	1	3	5			
+96	96006	Sonnhalde		S	87	796	1’984			
+96	96007	Rebrain		S	64	141	342			
+96	96008	Im Lätten		S	21	21	63			
+96	96009	Lleitstrasse		S	28	29	75			
+96	96010	Laubisser		S	223	227	617			
+96	96012	Sandrain		S	10	10	26			
+96	96013	Oberdorf (Watt)		S	15	34	72			
+96	96014	Spannrain		S	60	49	174			
+96	96015	Riedthof		S	3	5	9			
+96	96016	Adlikon		S	96	412	970			
+96	96017	Adliker-Büel		S	1	1	2			
+96	96018	Pächterriet		S	52	84	234			
+96	96019	Trockenloo		S	48	125	289			
+96	96021	Wiesacher Ort		S	15	83	143			
+96	96023	Weingarten		S	1	2	4			
+96	96024	Im Seeholz		S	1	3	6			
+96	96025	Geeren		S	1	1	3			
+96	96028	am Katzensee		S	4	7	19			
+96	96031	Altburg		S	18	39	82			
+96	96032	Folenmoos		S	3	4	13			
+96	96033	Lättenhau		S	1	1	2			
+96	96034	Bühl (Watt)		S	1	1	6			
+96	96035	Bühl (Regensdorf)		S	1	1	1			
+96	96036	Lochäcker		S	3	3	9			
+96	96037	Geissberg		S	2	2	5			
+96	96038	Eichelackerstrasse		S	14	15	50			
+96	96039	Bachtobelstrasse		S	54	56	195			
+96	96040	Murgler		S	1	1	8			
+96	96041	Lindenhof.		S	1	2	7			
+96	96047	Unterdorf		S	34	168	343			
+96	96048	Usserdorf		S	35	115	270			
+96	96049	Sand		S	90	387	879			
+96	96050	Ehrenhau		S	10	10	23			
+96	96051	Wisacher Weid		S	13	105	229			
+96	96399	Personen ohne Siedlungs-Nr. 		R	0	0	370			
+97	97001	Rümlang (Dorf)	Quartiere	Q	783	2’362	5’144			
+97	97005	Schärenwiesen		S	1	1	1			
+97	97007	Looren		S	1	1	6			
+97	97009	Böhli		S	1	1	3			
+97	97010	Industrie Riedmatt		S	1	1	1			
+97	97011	Haselbach		S	1	1	3			
+97	97012	Frohbühl		S	2	2	5			
+97	97013	Mülirain		S	2	3	6			
+97	97014	Stockbrunnen		S	1	2	3			
+97	97015	Heuel		S	3	2	12			
+97	97016	Zwüscheteich		S	1	2	7			
+97	97019	Industriestrasse		S	5	5	13			
+97	97020	Breitenstein		S	1	1	4			
+97	97022	Chilisbäum		S	4	4	9			
+97	97023	Langensteg		S	1	1	6			
+97	97024	Eichhof		S	2	2	5			
+97	97025	Erlenhölzli		S	1	1	5			
+97	97026	Katzenrüti		S	13	25	57			
+97	97027	Brüggeler		S	1	1	1			
+97	97028	Winkel/Katzenrütistrasse		S	1	1	4			
+97	97029	Bärenbohl		S	10	13	42			
+97	97030	Rotgrueb		S	1	1	2			
+97	97031	Kätsch		S	7	7	21			
+97	97032	Käshalden		S	3	4	8			
+97	97033	Altwi		S	3	4	12			
+97	97034	Letten		S	9	12	21			
+97	97036	Tempelhof		S	3	3	11			
+97	97037	Waldegg		S	2	2	6			
+97	97038	Guldenen		S	1	2	5			
+97	97039	Ebnet		S	1	2	4			
+97	97040	Ruebisbach		S	1	1	5			
+97	97041	Bäuler		S	1	1	3			
+97	97043	Nebetsaglen		S	3	3	7			
+97	97399	Personen ohne Siedlungs-Nr. 		R	0	0	110			
+98	98001	Schleinikon (Dorf)		S	55	72	176			
+98	98002	Rüti		S	2	3	8			
+98	98003	Erspel		S	1	1	2			
+98	98004	Wasen (westl. Teil)		S	17	22	48			
+98	98005	Wasen (östl. Teil)		S	16	17	39			
+98	98006	Dachslern		S	80	105	294			
+98	98007	Lengg		S	1	2	8			
+98	98008	Bernalten		S	1	2	6			
+98	98009	Buchenhof		S	1	3	6			
+98	98010	Winteler		S	1	1	2			
+98	98011	Rütenen		S	1	2	4			
+98	98012	Expohof		S	1	1	1			
+98	98013	Alphof		S	1	1	3			
+98	98014	Lägernweid		S	1	1	2			
+98	98015	Langrüti		S	1	1	2			
+98	98399	Personen ohne Siedlungs-Nr. 		R	0	0	36			
+99	99001	Schöfflisdorf	Quartiere	Q	274	417	1’074			
+99	99002	Egghof		S	1	1	3			
+99	99003	Blitzger		S	2	2	4			
+99	99009	Alten		S	1	1	2			
+99	99011	Juchhof		S	1	1	4			
+99	99012	Weidhof		S	1	2	8			
+99	99013	Mösli		S	1	2	8			
+99	99399	Personen ohne Siedlungs-Nr. 		R	0	0	30			
+100	100001	Stadel (Dorf)		S	249	348	875			
+100	100002	Endberg		S	1	1	1			
+100	100003	Aemperg		S	3	4	12			
+100	100004	Schlatti		S	2	1	2			
+100	100005	Sali		S	1	2	8			
+100	100006	Weidhof		S	1	2	5			
+100	100007	Raat		S	45	54	132			
+100	100009	Schleumet		S	1	2	6			
+100	100010	Bäumler		S	1	1	2			
+100	100011	Windlach		S	99	156	366			
+100	100013	Waldhof		S	1	2	6			
+100	100014	Berghof		S	1	2	7			
+100	100015	Sparu		S	1	2	6			
+100	100016	Im Hasli		S	1	2	6			
+100	100017	Im Tobel		S	1	1	4			
+100	100018	Birkenhof		S	1	2	4			
+100	100019	Gibisnüt		S	2	2	4			
+100	100020	Schüpfheim		S	22	22	57			
+100	100021	Stägli		S	42	56	135			
+100	100022	Grund		S	1	2	5			
+100	100023	Chellerloo		S	1	1	5			
+100	100024	Lindenhof		S	1	2	4			
+100	100025	Rotenbrunnen		S	2	1	5			
+100	100026	Letten		S	2	2	7			
+100	100027	Strick		S	1	2	5			
+100	100028	Hau		S	1	3	6			
+100	100029	Brand		S	1	1	6			
+100	100030	Rütenen		S	2	2	6			
+100	100031	Hasligass		S	1	3	8			
+100	100032	Witschgenächer		S	1	1	1			
+100	100399	Personen ohne Siedlungs-Nr. 		R	0	0	43		
+101	101001	Steinmaur (Dorf)	Quartiere	Q	378	599	1’438			
+101	101003	Sünikon		S	72	102	229			
+101	101004	Ankenland		S	2	3	4			
+101	101005	Hinter-Egg		S	3	3	6			
+101	101006	Mittler-Egg		S	3	3	14			
+101	101007	Vorder-Egg		S	5	7	22			
+101	101008	Heitlig		S	1	1	2			
+101	101010	Lätten		S	1	5	10			
+101	101011	Rosenhof		S	1	1	6			
+101	101012	Ruggen		S	1	1	4			
+101	101013	Totenweg		S	2	2	4			
+101	101017	Salen		S	3	5	16			
+101	101018	Ried		S	2	1	2			
+101	101019	Güggel		S	5	4	11			
+101	101020	Chlinge		S	1	1	2			
+101	101021	Ror		S	1	1	1			
+101	101022	Bahnhof		S	8	11	20			
+101	101023	Steinbruch		S	10	17	36			
+101	101024	Schibler		S	62	370	835			
+101	101399	Personen ohne Siedlungs-Nr. 		R	0	0	80			
+102	102001	Weiach (Dorf)	Quartiere	Q	264	353	897			
+102	102004	Hasli		S	4	8	22			
+102	102007	Ofen		S	2	4	13			
+102	102008	Höbrig		S	1	1	2			
+102	102009	Säge		S	1	1	2			
+102	102010	Vorder Berg		S	1	1	4			
+102	102011	Hinder Berg		S	1	2	2			
+102	102013	Steinbruch		S	4	4	9			
+102	102014	Schärerskreuz		S	1	1	1			
+102	102015	Felsenhof		S	1	1	2			
+102	102399	Personen ohne Siedlungs-Nr. 		R	0	0	40			
+111	111001	Bäretswil (Dorf)		S	240	539	1’313			
+111	111002	Hof		S	8	9	33			
+111	111004	Neuthal		S	17	24	67			
+111	111005	Hermetschwändi		S	1	1	4			
+111	111006	Hofschür		S	4	4	7			
+111	111008	Hinterburg		S	17	15	29			
+111	111009	Dunkelwies		S	1	1	2			
+111	111010	Läseten		S	3	2	3			
+111	111011	Bussenthal		S	11	13	31			
+111	111013	Stollen		S	4	2	5			
+111	111014	Josenhof		S	4	4	15			
+111	111015	Weissenbach		S	1	1	3			
+111	111016	Obere Tanne		S	2	2	8			
+111	111017	Tanne		S	5	7	22			
+111	111019	Altegg		S	1	1	4			
+111	111022	Egglen		S	7	5	12			
+111	111023	Waberg		S	9	10	29			
+111	111025	Morglen		S	4	3	12			
+111	111026	Adetswil		S	196	294	716			
+111	111027	Bürgweidli		S	2	2	3			
+111	111028	Erholungshaus		S	4	1	42			
+111	111031	Weid (bei Adetswil)		S	215	239	576			
+111	111035	Laubenfelsen		S	2	1	7			
+111	111037	Rüetswil		S	7	6	31			
+111	111038	Rüeggental		S	7	7	19			
+111	111039	Wirzwil		S	4	5	7			
+111	111040	Sonnenhof		S	1	2	5			
+111	111041	Laupetswil		S	3	5	16			
+111	111042	Burgweid		S	6	7	25			
+111	111045	Tobel		S	2	2	7			
+111	111046	Mühle		S	5	5	12			
+111	111047	Neuegg		S	24	25	78			
+111	111050	Zelg		S	10	11	30			
+111	111051	Allenberg		S	10	8	30			
+111	111054	Weid (Gibswil-Ried)		S	1	1	5			
+111	111055	Matt		S	2	3	5			
+111	111056	Rellsten		S	2	3	9			
+111	111057	Ghöchweid		S	1	1	3			
+111	111058	Schürli		S	13	14	38			
+111	111061	Neuhaus		S	2	2	8			
+111	111064	Stockacher		S	1	2	7			
+111	111065	Bodenacker		S	1	1	2			
+111	111066	Breitenmatt		S	2	2	6			
+111	111067	Oberdorf		S	68	100	289			
+111	111069	Haldengut		S	3	3	9			
+111	111070	Sandbüel		S	2	3	7			
+111	111072	Stöck		S	4	7	16			
+111	111073	Bettswil		S	32	39	119			
+111	111076	Berghof		S	3	2	5			
+111	111077	Ghöch		S	14	13	37			
+111	111079	Fehrenwaltsberg		S	8	9	22			
+111	111081	Steinweid		S	2	2	2			
+111	111082	Hinterberg		S	3	3	7			
+111	111083	Im Chopfholz		S	5	3	7			
+111	111084	Im Sunneberg		S	1	2	4			
+111	111085	Schönau		S	5	6	16			
+111	111086	Grossacker		S	1	2	3			
+111	111087	Tisenwaltsberg		S	19	17	50			
+111	111089	Eichschür		S	1	1	3			
+111	111091	Wässeri		S	2	2	10			
+111	111092	Stockrüti		S	1	2	5			
+111	111093	Wappenswil		S	16	15	49			
+111	111094	Maiwinkel		S	6	8	22			
+111	111095	Schmärschür		S	3	4	6			
+111	111096	Schwarzweid		S	2	2	9			
+111	111097	Platte		S	1	1	6			
+111	111098	Holenstein		S	4	2	7			
+111	111099	Aesch		S	1	1	2			
+111	111101	Haberacher		S	1	1	2			
+111	111103	Hütten		S	2	2	5			
+111	111104	Kleinbäretswil		S	12	12	33			
+111	111106	Mittler-Sädel		S	8	9	29			
+111	111108	Gubel		S	2	2	9			
+111	111110	Im Carol		S	1	1	6			
+111	111399	Personen ohne Siedlungs-Nr. 		R	0	0	90			
+112	112001	Bubikon (Dorf)	Quartiere	Q	419	800	2’052			
+112	112008	Fuchsbühl		S	3	3	9			
+112	112009	Mürg		S	3	3	4			
+112	112010	Wändhüslen		S	7	14	35			
+112	112011	Neuhaus bei Wändhüslen		S	2	2	8			
+112	112012	Feissi		S	6	7	19			
+112	112013	Brach		S	6	10	23			
+112	112014	Friedheim		S	7	2	14			
+112	112015	Gstein		S	5	5	19			
+112	112016	Platte		S	10	5	74			
+112	112017	Tafleten		S	19	22	55			
+112	112018	Landsacker		S	11	14	28			
+112	112019	Wanne		S	9	10	27			
+112	112021	Sennschür		S	9	10	17			
+112	112023	Unter-Wechsel		S	3	1	3			
+112	112024	Brandlen		S	2	3	9			
+112	112025	Rutschberg		S	4	5	12			
+112	112026	Laufenriet		S	4	4	11			
+112	112027	Knebel		S	3	4	7			
+112	112028	Hinteracker		S	2	2	5			
+112	112030	Schürwies		S	2	3	6			
+112	112031	Reitbach		S	3	7	14			
+112	112032	Bürgstrasse		S	1	1	2			
+112	112033	Ritterhof		S	1	2	6			
+112	112034	Ritterhaus		S	4	5	12			
+112	112035	Oele		S	1	3	5			
+112	112036	Loo		S	1	1	1			
+112	112037	Neuacker		S	4	5	12			
+112	112038	Ober-Mettlen		S	1	1	2			
+112	112039	Bürg		S	8	11	23			
+112	112040	Oberbösch		S	7	6	13			
+112	112041	Talhof		S	1	2	3			
+112	112042	Vorder-Dienstbach		S	3	9	15			
+112	112043	Unterbösch		S	2	2	7			
+112	112044	Engelberg		S	5	5	9			
+112	112045	Homberg		S	2	2	4			
+112	112046	Schlossberg		S	2	2	3			
+112	112047	Hinter-Dienstbach		S	2	1	3			
+112	112048	Schwarz		S	3	14	33			
+112	112049	Bühl		S	2	1	5			
+112	112050	Wolfhausen	Quartiere	Q	584	899	2’402			
+112	112062	Hüsli		S	7	8	17			
+112	112063	Kämmoos		S	4	5	14			
+112	112064	Sonnenhof		S	1	1	2			
+112	112065	Widenswil		S	12	15	29			
+112	112066	Zell		S	5	4	14			
+112	112067	Lochrüti		S	3	1	21			
+112	112068	Weisshalde		S	1	3	8			
+112	112069	Grundtal		S	3	4	7			
+112	112070	Widerzell		S	1	2	6			
+112	112071	Barenberg		S	9	13	43			
+112	112072	Sonnental		S	12	13	40			
+112	112073	Unter-Rennweg		S	3	5	14			
+112	112074	Berlikon		S	11	17	43			
+112	112075	Hinter-Rüteli		S	1	1	2			
+112	112076	Neuhaus (bei Wolfhausen)		S	6	8	13			
+112	112077	Rüeggshausen		S	7	8	21			
+112	112078	Vorder-Rüteli		S	5	5	7			
+112	112399	Personen ohne Siedlungs-Nr. 		R	0	0	112			
+113	113001	Dürnten (Dorf)		S	241	394	1’032			
+113	113002	Tann (Dorf)	Quartiere	Q	564	1’286	3’034			
+113	113006	Rotenstein (südöstl. Teil)		S	2	2	6			
+113	113007	Tammel		S	4	4	9			
+113	113008	Sennweid		S	2	3	4			
+113	113009	Edikon		S	9	8	33			
+113	113010	Fabrik (bei Edikon)		S	1	1	6			
+113	113011	Maihof		S	1	2	4			
+113	113012	Schönbühl		S	1	1	4			
+113	113013	Ober-Edikon		S	3	2	5			
+113	113014	Frohbühl		S	1	1	2			
+113	113015	Rosenau		S	2	6	14			
+113	113017	Kammern		S	2	3	6			
+113	113019	Felsenhof		S	3	4	10			
+113	113020	Grüt		S	1	1	2			
+113	113022	Regletsmoos		S	1	1	5			
+113	113023	Schlieren		S	2	3	9			
+113	113024	Absägeten		S	1	2	5			
+113	113025	Ghangetwies		S	3	1	9			
+113	113026	Ornberg		S	4	3	8			
+113	113027	Hasenstrickrain		S	4	5	16			
+113	113028	Tumlen		S	2	2	3			
+113	113030	Beerenbach		S	1	2	7			
+113	113031	Rothaus		S	31	26	82			
+113	113032	Zihl		S	2	4	7			
+113	113037	Rebschacker (östl. Teil)		S	2	4	12			
+113	113038	Landetspiel		S	2	2	5			
+113	113040	Ober-Dürnten		S	135	208	534			
+113	113041	Leebern		S	4	4	13			
+113	113042	Langacker		S	8	10	24			
+113	113043	Angel		S	1	2	8			
+113	113045	Bodmen		S	3	5	14			
+113	113046	Mannenrain		S	4	5	11			
+113	113047	Breitenmatt		S	234	235	650			
+113	113049	Hubacker		S	2	2	7			
+113	113050	Hüslen		S	3	3	5			
+113	113051	Obere Looren		S	5	8	15			
+113	113052	Untere Looren		S	3	4	8			
+113	113053	Lettenmoos		S	16	16	42			
+113	113054	Aarain		S	4	5	14			
+113	113056	Feldhof		S	1	0	3			
+113	113057	Gerblen		S	1	1	3			
+113	113059	Wurstbrunnen		S	3	4	9			
+113	113061	Ettenbohl		S	4	5	21			
+113	113063	Letten		S	1	1	3			
+113	113064	Dachsloch		S	1	1	4			
+113	113065	Garwied		S	17	16	39			
+113	113066	Rössli		S	1	1	4			
+113	113067	Binzberg		S	3	3	14			
+113	113070	Vorder-Pilgersteg		S	4	7	12			
+113	113071	Frohberg		S	2	2	6			
+113	113072	Schlehbühl		S	1	1	2			
+113	113073	Hinter-Pilgersteg		S	1	4	5			
+113	113074	Töbeli		S	8	10	31			
+113	113075	Tannägerten		S	3	4	12			
+113	113076	Winterhalden		S	3	3	14			
+113	113078	Greinsberg		S	2	2	2			
+113	113081	Halden		S	1	1	4			
+113	113082	Tannertobel		S	4	5	68			
+113	113085	Grundtal		S	1	5	8			
+113	113086	Oberberg		S	3	4	10			
+113	113087	Bannholz		S	1	2	5			
+113	113088	Pünt		S	1	1	3			
+113	113399	Personen ohne Siedlungs-Nr. 		R	0	0	116			
+114	114002	Charershörnli		S	1	1	2			
+114	114004	Tanzplatz		S	2	1	3			
+114	114006	Hinterhörnli		S	5	4	9			
+114	114007	Althörnli		S	3	2	2			
+114	114008	Oberrohr		S	2	2	3			
+114	114011	Rohr		S	7	7	11			
+114	114014	Lenzen		S	24	28	68			
+114	114015	Ennerlenzen		S	5	3	4			
+114	114016	Leiacker		S	1	2	5			
+114	114017	Oberwis		S	1	1	1			
+114	114019	Orflen		S	2	2	12			
+114	114020	Aeschacker		S	5	5	11			
+114	114021	Aesch		S	32	43	128			
+114	114023	Steg		S	18	28	79			
+114	114024	Roswisli		S	2	2	5			
+114	114025	Fischbach		S	1	2	8			
+114	114026	Schürli		S	1	2	9			
+114	114027	Risigrund		S	1	1	3			
+114	114028	Chlital		S	2	1	5			
+114	114029	Fuchsloch		S	5	1	4			
+114	114030	Waldberg		S	3	2	11			
+114	114031	Rütiwis		S	5	3	11			
+114	114032	Oberbräch		S	1	1	4			
+114	114034	Boden		S	36	56	135			
+114	114035	Vorderegg		S	1	1	2			
+114	114036	Schmittenbach		S	36	51	117			
+114	114037	Wil		S	1	1	2			
+114	114038	Hinterlanzenmoos		S	5	2	9			
+114	114039	Halden		S	1	1	3			
+114	114040	Breitenmatt		S	1	2	6			
+114	114041	Neuschwändi		S	21	23	68			
+114	114042	Eggli		S	2	2	3			
+114	114043	Altschwändi		S	2	4	8			
+114	114044	Schwarzengrund		S	3	2	3			
+114	114045	Brütten		S	3	2	8			
+114	114046	Feuerschwand		S	2	1	4			
+114	114047	Uerchen		S	4	2	4			
+114	114048	Oberreinsberg		S	3	2	10			
+114	114049	Neuhaus		S	4	1	6			
+114	114050	Unterreinsberg		S	1	1	4			
+114	114052	Vorderlanzenmoos		S	1	1	1			
+114	114053	Bodmen		S	18	20	51			
+114	114054	Hegisau		S	1	1	2			
+114	114055	Oberschwändi		S	1	2	3			
+114	114056	Ohrüti		S	4	5	12			
+114	114059	Vorderbleichi		S	1	2	5			
+114	114060	Strick		S	2	2	6			
+114	114061	Unterberg		S	1	1	5			
+114	114063	Eggwegwald		S	1	1	3			
+114	114064	Leutobel		S	5	1	2			
+114	114065	Ragenbuch		S	1	1	2			
+114	114067	Mühlebach		S	23	44	98			
+114	114069	Würz		S	3	4	10			
+114	114070	Chleger		S	1	1	5			
+114	114071	Widenreiti		S	3	2	3			
+114	114073	Grundbach		S	1	1	1			
+114	114074	Fischenthal (Dorf)		S	56	71	215			
+114	114075	Schönau		S	1	1	3			
+114	114076	Schuchtann		S	1	1	2			
+114	114077	Bärloch		S	1	1	2			
+114	114078	Hüsli		S	7	7	41			
+114	114080	Langenberg		S	1	1	3			
+114	114081	Tannen		S	2	3	11			
+114	114082	Vorder-Strahlegg		S	6	5	19			
+114	114083	Rütwisli		S	1	2	3			
+114	114084	Fistel		S	30	32	84			
+114	114086	Mühle		S	2	3	8			
+114	114089	Hinter-Strahlegg		S	3	5	14			
+114	114090	Tierhag		S	1	1	3			
+114	114091	Sack		S	2	1	2			
+114	114092	Brand		S	1	1	7			
+114	114093	Unteraurüti		S	7	7	24			
+114	114094	Oberaurüti		S	4	4	14			
+114	114096	Löchern		S	2	1	2			
+114	114099	Rietli		S	1	3	11			
+114	114100	Stein		S	8	5	12			
+114	114101	Langwisli		S	1	1	10			
+114	114102	Hinteraurüti		S	1	1	6			
+114	114103	Lee		S	2	4	10			
+114	114104	Seelisberg		S	1	1	2			
+114	114105	Chriesihölzli		S	1	1	2			
+114	114106	Huebrain		S	1	1	1			
+114	114108	Leeberg		S	1	1	4			
+114	114109	Gibswil		S	57	86	216			
+114	114110	Auen		S	1	2	6			
+114	114111	Obermoos		S	1	1	2			
+114	114112	Untermoos		S	2	2	9			
+114	114113	Rosenberg		S	1	1	2			
+114	114114	Geeren		S	2	12	27			
+114	114115	Hinterbleichi		S	3	2	4			
+114	114116	Burgböl		S	1	1	8			
+114	114117	Weid		S	1	1	2			
+114	114118	Bruggen		S	1	1	2			
+114	114119	Matisen		S	1	1	4			
+114	114121	Grossegg		S	2	1	5			
+114	114123	Vorderfuchsloch		S	5	5	14			
+114	114124	Oberfuchsloch		S	2	2	5			
+114	114127	Eggweg		S	1	2	4			
+114	114134	Fröschau		S	1	1	3			
+114	114135	Leebergboden		S	1	1	2			
+114	114137	Stierweid		S	1	1	4			
+114	114138	Ghogg		S	2	1	5			
+114	114139	Hintergrund		S	1	1	5			
+114	114140	Station		S	4	6	12			
+114	114399	Personen ohne Siedlungs-Nr. 		R	0	0	106			
+115	115001	Gossau (Dorf)		S	768	1’734	4’287			
+115	115002	Rebacher		S	2	1	1			
+115	115003	Steinacher		S	1	1	5			
+115	115005	Oberwis		S	1	1	2			
+115	115007	Hungerbüel		S	61	60	186			
+115	115008	Tueweid		S	2	2	6			
+115	115009	Männetsriet		S	36	37	77			
+115	115010	Bertschikon		S	156	200	534			
+115	115011	Neuhof (bei Bertschikon)		S	2	2	8			
+115	115012	Freihof		S	3	3	13			
+115	115014	Rain		S	1	1	3			
+115	115015	Bäumligacher		S	1	1	4			
+115	115017	Langfuhr		S	6	6	24			
+115	115018	Freiwis		S	1	1	1			
+115	115019	Sandgrueb		S	1	1	4			
+115	115020	Benklen		S	2	2	4			
+115	115021	Sunnenberg		S	1	1	6			
+115	115022	Oberriet		S	1	1	2			
+115	115023	Weid (bei Gossau)		S	2	2	5			
+115	115024	Frohe Aussicht		S	2	2	8			
+115	115026	Talacher		S	1	1	2			
+115	115027	Heizibüel		S	1	1	5			
+115	115028	Chrummacker		S	2	2	5			
+115	115033	Neuhof (bei Gossau)		S	1	1	2			
+115	115036	Gotthard		S	1	3	5			
+115	115037	Waldhof (bei Grüt)		S	1	1	4			
+115	115038	Rinderbrunnen		S	19	107	249			
+115	115039	Prampel		S	3	4	7			
+115	115042	Grüt		S	388	592	1’565			
+115	115043	Bönler		S	56	59	153			
+115	115044	Weid (bei Grüt)		S	1	1	1			
+115	115045	Allenberg		S	5	4	14			
+115	115052	Berghof		S	1	2	7			
+115	115053	Allenwinden		S	10	10	20			
+115	115054	Frohbach		S	1	2	10			
+115	115055	Hundsrüggen		S	9	10	18			
+115	115056	Hinter-Goldacher		S	2	1	2			
+115	115058	Schwobshof		S	2	4	14			
+115	115059	Hinterzelg		S	1	1	1			
+115	115060	Hessenwis		S	1	1	6			
+115	115062	Au		S	4	3	14			
+115	115064	Rebrain		S	1	1	2			
+115	115065	Gfeller		S	1	1	2			
+115	115067	Leihalden		S	2	2	3			
+115	115068	Strick		S	12	26	63			
+115	115069	Drisgi		S	1	1	4			
+115	115070	Hasenacher		S	8	10	21			
+115	115071	Brüschweid		S	14	13	37			
+115	115072	Nasswis		S	2	3	5			
+115	115073	Talgüetli		S	1	1	4			
+115	115074	Zil		S	4	4	14			
+115	115075	Hellberg		S	22	32	94			
+115	115076	Leerütiacher		S	1	1	1			
+115	115077	Leerüti		S	6	10	34			
+115	115078	Jungholz		S	3	3	9			
+115	115079	Tägernau		S	7	8	27			
+115	115080	Breiti		S	1	2	7			
+115	115081	Weidli (bei Ottikon)		S	1	1	3			
+115	115082	Schönau		S	5	6	14			
+115	115083	Chindismüli		S	15	24	47			
+115	115084	Wiberg		S	2	2	3			
+115	115085	Hartmis		S	2	2	6			
+115	115087	Unter-Ottikon		S	63	91	251			
+115	115088	Ober-Ottikon		S	48	82	204			
+115	115089	Silberberg		S	2	2	4			
+115	115090	Felsen		S	4	4	13			
+115	115091	Pünt		S	2	2	12			
+115	115092	Brüschägerten		S	2	0	25			
+115	115093	Rifacher		S	2	2	7			
+115	115094	Tobel		S	1	1	1			
+115	115095	Hanfgarten		S	11	9	23			
+115	115096	Glattacher		S	1	1	3			
+115	115097	Saren		S	1	1	1			
+115	115098	Grund		S	1	1	4			
+115	115099	Zweibollen		S	1	1	2			
+115	115100	Sibleten		S	3	3	10			
+115	115102	Schönbüel		S	1	1	2			
+115	115103	Ermisriet		S	5	5	10			
+115	115105	Herschmettlen		S	47	73	202			
+115	115106	Fuchsrüti		S	9	10	23			
+115	115107	Hinter-Fuchsrüti		S	4	5	11			
+115	115108	Vorder-Goldacher		S	2	2	5			
+115	115399	Personen ohne Siedlungs-Nr. 		R	0	0	188		
+116	116001	Grüningen (Stedtli)		S	51	81	185			
+116	116002	Binzikon		S	361	635	1’854			
+116	116003	Bächelsrüti		S	17	15	40			
+116	116004	Villberg		S	1	1	3			
+116	116005	Niggenberg		S	6	7	17			
+116	116006	Roggesbüel		S	1	2	5			
+116	116007	Büel		S	16	23	46			
+116	116008	Mattenhof		S	1	1	2			
+116	116009	Oberhof		S	2	2	6			
+116	116011	Trottacher		S	2	3	10			
+116	116012	Zelgli		S	1	1	2			
+116	116013	Langmatt		S	4	5	15			
+116	116014	Rohracher		S	1	1	5			
+116	116015	Lindist		S	3	3	11			
+116	116016	Schoren		S	2	2	8			
+116	116017	Näsplen		S	5	5	16			
+116	116018	Buechholz		S	8	7	20			
+116	116019	Auf der Büechlen		S	2	2	4			
+116	116020	Tränkibach		S	2	3	12			
+116	116021	Talacher-Haufland		S	59	70	214			
+116	116022	Bürglen		S	35	43	105			
+116	116023	Rebacher		S	3	6	10			
+116	116025	Itzikon		S	83	100	258			
+116	116026	Brugglen		S	2	2	2			
+116	116027	Ammentännli		S	1	2	9			
+116	116028	Rietli		S	3	3	10			
+116	116029	Hinterbrugglen		S	1	1	3			
+116	116030	Holzhusen		S	8	10	20			
+116	116031	Heispel		S	5	5	11			
+116	116032	Heggen		S	3	4	13			
+116	116033	Wiesental		S	1	2	2			
+116	116034	Tannsberg		S	1	2	6			
+116	116036	Spilhalden		S	2	2	5			
+116	116038	Adletshausen		S	15	18	43			
+116	116039	Reipen		S	4	4	13			
+116	116040	Neuweid		S	2	2	9			
+116	116041	Richttanne		S	1	2	4			
+116	116042	Hinderholz		S	1	1	4			
+116	116399	Personen ohne Siedlungs-Nr. 		R	0	0	90			
+117	117001	Hinwil (Dorf)		S	1’039	2’324	5’488			
+117	117002	Bossikon		S	30	31	73			
+117	117003	Wil		S	1	1	1			
+117	117004	Unter-Erlosen		S	14	16	42			
+117	117005	Schulhaus Erlosen		S	4	4	9			
+117	117006	Stocken		S	5	14	30			
+117	117007	Wiesental (bei Bossikon)		S	10	11	24			
+117	117008	Ober-Erlosen		S	20	22	52			
+117	117009	Flurhof		S	1	1	2			
+117	117011	Kreuzplatz		S	6	10	28			
+117	117012	Bergli		S	1	1	2			
+117	117013	Bodenhaus		S	1	1	5			
+117	117014	Schönwies		S	1	2	7			
+117	117015	Boden (bei Ringwil)		S	10	8	56			
+117	117017	Platten (bei Ringwil)		S	1	1	4			
+117	117018	Chopfholz		S	6	8	16			
+117	117019	Tüelen		S	2	2	3			
+117	117020	Rüti		S	2	2	9			
+117	117021	Ringwil		S	71	75	200			
+117	117022	Winkel (bei Ringwil)		S	1	1	3			
+117	117023	Nübruch		S	8	5	8			
+117	117024	Breite		S	1	1	3			
+117	117025	Unter-Bernegg		S	1	2	5			
+117	117026	Balzenbüel		S	2	1	1			
+117	117027	Ehretstock		S	5	5	11			
+117	117028	Hinter-Triemen		S	2	2	14			
+117	117029	Triemen		S	5	4	7			
+117	117030	Girenbad		S	44	57	156			
+117	117031	Ober-Bernegg		S	4	3	11			
+117	117032	Vorder-Bernegg		S	3	6	19			
+117	117033	Girriet		S	2	2	6			
+117	117034	Boden (bei Girenbad)		S	3	5	11			
+117	117035	Bodenacker		S	3	2	4			
+117	117036	Schaugen		S	5	5	14			
+117	117037	Langmatt		S	10	11	26			
+117	117038	Chilchriet		S	2	2	4			
+117	117039	Grund		S	1	1	1			
+117	117040	Allmen		S	2	4	13			
+117	117041	Schufelberg		S	5	4	16			
+117	117042	Egg		S	1	1	2			
+117	117043	Niderhus		S	2	2	6			
+117	117044	Bettschwändi		S	1	1	5			
+117	117045	Affeltrangen		S	8	6	12			
+117	117046	Betzholz		S	10	13	40			
+117	117047	Wolfacker		S	1	1	2			
+117	117048	Rotenstein (nordwestl. Teil)		S	15	15	42			
+117	117049	Oberhof		S	9	10	25			
+117	117050	Hagenholz		S	1	2	3			
+117	117051	Schweipel		S	1	1	5			
+117	117052	Hüssenbüel		S	28	45	137			
+117	117053	Breitacker		S	10	8	28			
+117	117054	Loch		S	8	14	32			
+117	117055	Friedheim		S	2	3	6			
+117	117056	Betzikon		S	1	1	4			
+117	117057	Blatten		S	10	10	25			
+117	117058	Hueb		S	3	2	10			
+117	117059	Hadlikon		S	346	518	1’321			
+117	117060	Maistock		S	1	1	1			
+117	117061	Hadlikerrain		S	4	6	18			
+117	117062	Obere Birch		S	3	3	7			
+117	117063	Chatzentobel		S	2	2	6			
+117	117064	Sack		S	6	7	22			
+117	117065	Wernetshausen		S	186	231	571			
+117	117066	Tarn		S	1	1	2			
+117	117067	Looren (bei Wernetshausen)		S	2	4	10			
+117	117068	Stampf		S	3	3	10			
+117	117070	Neubrunnen		S	10	8	22			
+117	117071	Balmacker		S	1	1	2			
+117	117072	Wissenbach		S	4	6	11			
+117	117073	Breitenriet		S	1	1	1			
+117	117074	Balm		S	1	1	3			
+117	117075	Spiegelberg		S	3	1	5			
+117	117076	Moos (bei Wernetshausen)		S	3	2	4			
+117	117077	Schwändiweid		S	1	1	5			
+117	117078	Schwändi		S	8	5	15			
+117	117079	Gammetswil		S	3	2	5			
+117	117080	Tannweid		S	1	1	1			
+117	117081	Ober-Orn		S	7	7	23			
+117	117082	Nieder-Orn		S	4	3	8			
+117	117084	Ebnet		S	1	1	2			
+117	117085	Breitlen		S	2	1	2			
+117	117087	Sagenberg		S	1	1	3			
+117	117088	Schulhaus Unterbach		S	2	2	7			
+117	117089	Sagen		S	6	3	8			
+117	117090	Unterhus		S	6	5	17			
+117	117091	Waid		S	1	2	6			
+117	117092	Obere Höhe		S	1	1	2			
+117	117399	Personen ohne Siedlungs-Nr. 		R	0	0	269		
+118	118001	Rüti (Dorf)	Quartiere	Q	1’780	4’086	9’576			
+118	118005	Rosenburg		S	1	1	1			
+118	118006	Pilgersteg		S	2	3	5			
+118	118007	Pilgerhof		S	76	240	552			
+118	118008	Gmeindrüti		S	4	4	10			
+118	118009	Neu-York		S	2	2	7			
+118	118010	Unter-Fägswil		S	63	79	221			
+118	118011	Ober-Fägswil		S	17	21	48			
+118	118013	Sonnenberg		S	1	1	4			
+118	118015	Schlad		S	1	1	2			
+118	118016	Riederen		S	1	2	5			
+118	118018	Bühl		S	1	1	2			
+118	118019	Oberwies		S	3	5	14			
+118	118021	Weierbach		S	1	1	2			
+118	118022	Chüeweid		S	1	1	5			
+118	118025	Ober-Moos		S	11	11	27			
+118	118026	Matten		S	4	2	5			
+118	118027	Unter-Moos		S	9	11	31			
+118	118032	Langacher		S	1	2	7			
+118	118033	Hüllistein		S	7	10	27			
+118	118034	Weid		S	3	2	7			
+118	118035	Hofacher		S	12	14	34			
+118	118036	Waldau		S	6	8	16			
+118	118399	Personen ohne Siedlungs-Nr. 		R	0	0	196			
+119	119001	Seegräben (Dorf)		S	55	77	203			
+119	119002	Ottenhausen		S	15	23	74			
+119	119003	Wagenburg		S	11	17	44			
+119	119004	Unter-Aahtal		S	10	61	144			
+119	119005	Etstel		S	9	11	19			
+119	119006	Steinberg		S	3	4	14			
+119	119008	Ober-Aahtal		S	15	37	70			
+119	119009	Grossweid		S	103	106	314			
+119	119010	Villa RA		S	5	8	29			
+119	119011	Sack		S	32	54	119			
+119	119012	Robänkli		S	49	49	149			
+119	119014	Aretshalden		S	15	27	61			
+119	119399	Personen ohne Siedlungs-Nr. 		R	0	0	39			
+120	120001	Wald (Dorf)		S	583	1’258	3’061			
+120	120002	Nasen		S	1	1	4			
+120	120003	Amslen		S	2	2	8			
+120	120004	Blegi		S	1	1	5			
+120	120005	Oberbüel		S	4	5	16			
+120	120006	Büel		S	8	9	31			
+120	120007	Wasseracher		S	1	1	3			
+120	120008	Tanneregg		S	1	1	5			
+120	120009	Riet		S	18	21	79			
+120	120010	Neutal		S	5	19	46			
+120	120011	Breiten		S	3	4	10			
+120	120012	Hinter-Aatal		S	8	9	20			
+120	120013	Raad		S	21	19	48			
+120	120014	Huebhansen		S	4	3	9			
+120	120015	Ämet		S	1	1	5			
+120	120016	Ober-Raad		S	2	2	3			
+120	120017	Beizi		S	3	2	10			
+120	120018	Schürli (bei Raad)		S	1	1	2			
+120	120019	Eggschwändi		S	3	2	4			
+120	120020	Steinchramen		S	4	4	6			
+120	120021	Loch		S	2	3	11			
+120	120022	Scheidegg		S	1	1	2			
+120	120023	Hinter Sennenberg		S	3	4	13			
+120	120024	Vorder Sennenberg		S	6	8	21			
+120	120025	Sännweid (bei Hinter Sennenberg)		S	1	1	5			
+120	120026	Frohberg		S	1	1	2			
+120	120027	Gass (bei Büel)		S	5	6	15			
+120	120028	Alpenblick		S	1	5	9			
+120	120029	Hueb		S	12	18	49			
+120	120030	Uf Rüti		S	2	3	12			
+120	120031	Aatal		S	9	14	30			
+120	120032	Mülrüti		S	4	3	6			
+120	120033	Jonatal		S	18	38	96			
+120	120034	Grosswis		S	2	4	10			
+120	120036	Haltbergholz		S	5	5	12			
+120	120037	Hischwil		S	15	12	30			
+120	120038	Hinter Erli		S	3	3	11			
+120	120039	Vorder Erli		S	5	5	16			
+120	120040	Fälmis		S	4	6	13			
+120	120041	Gheist		S	2	2	7			
+120	120042	Unterbach		S	4	4	16			
+120	120043	Unterhueb		S	6	17	30			
+120	120044	Wissgass		S	1	1	2			
+120	120045	Dieterswil		S	9	11	29			
+120	120046	Haberrüti		S	1	2	6			
+120	120047	Halden		S	1	1	2			
+120	120048	Hirschlen		S	2	2	6			
+120	120049	Badstock		S	6	8	15			
+120	120050	Rietwis		S	5	9	30			
+120	120051	Mettlen (bei Brüglen)		S	1	2	7			
+120	120052	Unter Haltberg		S	9	8	27			
+120	120053	Ober Haltberg		S	2	4	11			
+120	120054	Lueget		S	3	2	6			
+120	120055	Hüebli		S	9	12	27			
+120	120056	Hirschacher		S	1	1	3			
+120	120057	Oh		S	9	8	28			
+120	120058	Tüfi		S	2	2	3			
+120	120059	Niederholz		S	6	6	18			
+120	120060	Steinweid		S	2	2	5			
+120	120061	Steingass		S	2	1	2			
+120	120062	Bodenmüli		S	9	7	18			
+120	120063	Forhalden		S	8	3	10			
+120	120064	Gerstacher		S	1	2	6			
+120	120065	Rickenbach		S	2	3	8			
+120	120066	Blattenbach		S	12	12	26			
+120	120067	Grund		S	2	4	8			
+120	120068	Stockenmatt		S	2	2	7			
+120	120069	Tännler		S	5	4	8			
+120	120070	Ferch		S	61	61	168			
+120	120071	Ober-Feld		S	10	12	32			
+120	120072	Hinter Tännler		S	1	1	2			
+120	120073	Binzholz		S	1	1	1			
+120	120074	Binzholz		S	107	115	310			
+120	120075	Feisterbach		S	3	3	8			
+120	120076	Ferchacher		S	22	21	61			
+120	120077	Feld		S	1	2	5			
+120	120078	Schürli (bei Wald)		S	1	2	2			
+120	120079	Farnboden		S	1	1	2			
+120	120080	Sack (Bürgerasyl)		S	2	4	65			
+120	120081	Brüglen		S	14	67	132			
+120	120082	Elba		S	7	7	18			
+120	120083	Hömel		S	67	127	305			
+120	120084	Vorderwald		S	5	6	21			
+120	120085	Heferen		S	63	64	155			
+120	120086	Silmatt		S	3	3	5			
+120	120087	Chilacher		S	2	2	4			
+120	120088	Hittenberg		S	15	18	48			
+120	120089	Lauf		S	2	2	5			
+120	120090	Faltigberg		S	10	30	95			
+120	120091	Chrinnen		S	4	3	12			
+120	120092	Grundtal		S	11	8	10			
+120	120093	Grundhalde		S	1	1	3			
+120	120096	Tonacher		S	2	4	18			
+120	120097	Wellenwog		S	1	3	5			
+120	120098	Strickenberg		S	1	1	4			
+120	120099	Felsenkeller		S	33	53	151			
+120	120100	Nüholz		S	3	2	4			
+120	120101	Hinternord		S	94	175	440			
+120	120102	Steigweg		S	2	1	1			
+120	120103	Brugglen		S	29	44	94			
+120	120104	Dreilinden		S	5	42	95			
+120	120105	Neuhus		S	28	113	339			
+120	120106	Stigweid		S	17	17	40			
+120	120107	Steig		S	3	3	7			
+120	120108	Rotwasser		S	3	3	6			
+120	120109	Hofacher		S	6	7	16			
+120	120110	Ober-Laupen		S	33	34	86			
+120	120111	Nahren		S	4	5	17			
+120	120112	Morgen		S	1	2	5			
+120	120113	Huebwis		S	33	62	151			
+120	120114	Ober-Morgen		S	2	2	3			
+120	120115	Bebikon		S	4	7	15			
+120	120116	Diezikon		S	10	7	17			
+120	120117	Töbeli		S	4	4	7			
+120	120118	Diezikon		S	24	30	74			
+120	120119	Hubacher		S	4	7	24			
+120	120120	Ober-Tobel		S	1	2	5			
+120	120121	Strickel		S	2	2	9			
+120	120122	Dachsegg		S	3	4	12			
+120	120123	Weier		S	1	1	4			
+120	120125	Batzberg		S	1	1	6			
+120	120126	Mettlen (bei Güntisberg)		S	10	13	34			
+120	120128	Gart		S	1	2	6			
+120	120129	Hüttenrain		S	1	1	3			
+120	120130	Rossweid		S	1	1	4			
+120	120131	Güntisberg		S	16	16	41			
+120	120132	Tannenboden		S	2	1	3			
+120	120133	Hiltisberg		S	19	12	30			
+120	120134	Chefi		S	10	11	31			
+120	120137	Unterer Chapf		S	1	1	2			
+120	120138	Chapf		S	1	2	5			
+120	120139	Laupen		S	109	220	574			
+120	120140	Ziegelhütte		S	3	2	3			
+120	120141	Farnweid		S	1	1	2			
+120	120142	Wili		S	3	3	10			
+120	120143	Winkel		S	19	24	62			
+120	120144	Bär		S	6	5	9			
+120	120145	Altweid		S	3	4	6			
+120	120146	Au		S	15	16	55			
+120	120147	Untere Scheidegg		S	1	1	1			
+120	120148	Brand		S	18	18	58			
+120	120149	Rigi		S	13	12	36			
+120	120150	Berg-Dieterswil		S	1	2	6			
+120	120152	Hundsruggen		S	1	1	6			
+120	120153	Tüfenhof		S	1	3	3			
+120	120154	Stampf		S	2	2	13			
+120	120156	Hagenacher		S	1	1	6			
+120	120158	Boden		S	2	3	8			
+120	120159	Hinderwald		S	4	2	6			
+120	120160	Buacher		S	1	1	2			
+120	120161	Neuguet		S	1	2	7			
+120	120399	Personen ohne Siedlungs-Nr. 		R	0	0	156			
+121	121001	Wetzikon (Dorf)	Quartiere	Q	1’710	5’743	12’969			
+121	121005	Summerau		S	67	75	197			
+121	121006	Sporrweggli		S	3	3	8			
+121	121007	Leisihalden		S	102	98	294			
+121	121008	Burg		S	9	9	26			
+121	121009	Eichholz		S	5	5	12			
+121	121010	Burgweid		S	2	3	6			
+121	121011	Müli		S	10	20	60			
+121	121012	Oberkempten		S	185	345	900			
+121	121013	Harlachen		S	19	20	54			
+121	121014	Emmetschloo		S	54	55	144			
+121	121015	Herrenweidli		S	1	3	5			
+121	121016	Cherschiben		S	2	5	8			
+121	121017	Linggenberg		S	17	21	46			
+121	121018	Robank		S	19	25	65			
+121	121019	Flos		S	4	10	29			
+121	121020	Zil		S	9	32	76			
+121	121021	Nübruch		S	17	23	60			
+121	121022	Grossenstein		S	2	2	6			
+121	121023	Sänggelen		S	2	2	3			
+121	121024	Neugrund		S	2	2	9			
+121	121026	Medikon		S	68	84	315			
+121	121027	Froberg		S	38	45	105			
+121	121028	Sandbüel		S	82	107	272			
+121	121029	Rötel		S	36	37	100			
+121	121030	Pfruendweid		S	13	15	119			
+121	121031	Moos		S	12	12	26			
+121	121032	Ettenhausen (Dorf)		S	75	91	200			
+121	121034	Hochrüti		S	4	4	10			
+121	121035	Ober-Emmetschloo		S	2	1	4			
+121	121036	Steinacher		S	1	2	5			
+121	121037	Morgen		S	120	191	492			
+121	121038	Tannenrain		S	23	51	131			
+121	121039	Allenberg		S	3	3	4			
+121	121040	Husbüel		S	2	1	3			
+121	121041	Hännen		S	5	5	19			
+121	121043	Schwändi		S	3	3	5			
+121	121044	Wisental		S	1	1	3			
+121	121045	Bächelacher		S	3	4	8			
+121	121046	Neuwis		S	7	6	13			
+121	121047	Bergli (bei Ettenhausen)		S	1	1	4			
+121	121048	Rosen		S	1	2	3			
+121	121050	Widum		S	126	344	705			
+121	121051	Müliwisen		S	60	66	169			
+121	121399	Personen ohne Siedlungs-Nr. 		R	0	0	437			
+131	131001	Adliswil (Stadt)		Q	1’987	7’137	15’230			
+131	131015	Rebegg		S	1	1	1			
+131	131017	Tüfi		S	3	4	13			
+131	131018	Grüt		S	10	20	62			
+131	131019	Sunnau		S	2	3	5			
+131	131020	Moos		S	18	28	65			
+131	131021	Letten		S	24	86	164			
+131	131022	Hinter-Stieg		S	1	1	1			
+131	131023	Vorder-Stieg		S	3	3	8			
+131	131024	Landolt		S	3	3	5			
+131	131025	Junker		S	1	1	2			
+131	131026	Rossweg		S	1	1	2			
+131	131027	Hermen		S	2	2	2			
+131	131029	Vögeli		S	2	2	9			
+131	131030	Aetzern		S	1	2	4			
+131	131031	Waldi		S	5	4	11			
+131	131032	Obstgarten		S	1	1	3			
+131	131033	Chüeacher		S	1	1	2			
+131	131035	Chöpfweid		S	1	1	2			
+131	131036	Weier		S	3	3	5			
+131	131399	Personen ohne Siedlungs-Nr. 		R	0	0	226			
+132	132001	Hirzel-Kirche (Dorf)		S	55	126	322			
+132	132002	Eschtürli		S	1	1	2			
+132	132003	Chüeweidli		S	1	1	1			
+132	132004	Simismoos		S	2	2	7			
+132	132006	Zimmerberg		S	7	13	39			
+132	132007	Widenbach		S	5	5	16			
+132	132008	Chieleren		S	1	1	4			
+132	132009	Harüti		S	5	8	23			
+132	132010	Neuhus		S	4	6	9			
+132	132011	Widenhüsli		S	2	5	11			
+132	132012	Sunnenrich		S	1	1	2			
+132	132013	Unteri Chaseren		S	1	1	1			
+132	132014	Alter Hirschen		S	2	3	8			
+132	132015	Strickler		S	6	6	18			
+132	132017	Oberi Chaseren		S	4	4	6			
+132	132018	Lindengüetli		S	1	1	5			
+132	132019	Chaserenhüsli		S	1	1	3			
+132	132020	Vorderi Chaseren		S	2	1	4			
+132	132021	Harhalden		S	1	1	2			
+132	132022	Lerch		S	1	1	2			
+132	132023	Forenmoos		S	1	1	3			
+132	132024	Neuhalden		S	1	2	4			
+132	132025	Heichel		S	1	1	1			
+132	132026	Wolfisbüel		S	4	6	10			
+132	132027	Oberes Dürenmoos		S	5	2	6			
+132	132028	Höchi		S	6	8	19			
+132	132029	Dürenmoos		S	5	9	24			
+132	132030	Vorderes Dürenmoos		S	1	1	5			
+132	132031	Unteres Dürenmoos		S	1	1	5			
+132	132032	An der Strass		S	2	3	6			
+132	132033	Müsegg		S	2	2	7			
+132	132034	Rüebgarten		S	2	2	6			
+132	132035	Tobelmüli		S	2	3	5			
+132	132036	Moosacher		S	4	3	10			
+132	132037	Unteri Siten		S	9	12	20			
+132	132039	Oberi Siten		S	1	1	3			
+132	132040	Jegerhus		S	1	1	4			
+132	132041	Fänser		S	5	5	18			
+132	132042	Kirchrain		S	33	78	191			
+132	132043	Vorderi Siten		S	53	89	245			
+132	132044	Geeristeg		S	2	3	11			
+132	132045	Sihlbrugg (nordöstl. Teil)		S	4	9	25			
+132	132046	Vorderi Höchi		S	7	14	51			
+132	132047	Chalbisau		S	6	8	20			
+132	132048	Chlus		S	2	2	2			
+132	132049	Brestenegg		S	2	3	11			
+132	132050	Heerenrainli		S	11	13	31			
+132	132051	Rennweg		S	3	4	16			
+132	132052	Nägelihus		S	2	4	8			
+132	132053	Chelen		S	4	5	13			
+132	132054	Brämenhalden		S	8	8	24			
+132	132055	Drei Eichen		S	1	1	2			
+132	132056	Aegerten		S	1	2	6			
+132	132058	Cholgrueb		S	2	4	7			
+132	132059	Bruederhus		S	2	4	7			
+132	132060	Oberi Chelen		S	3	3	8			
+132	132061	Gschättli		S	2	3	12			
+132	132062	Gumpi		S	1	1	4			
+132	132063	Schiffli		S	4	2	17			
+132	132064	Mettel		S	1	0	1			
+132	132065	Chelengüetli		S	1	1	2			
+132	132066	Feldstrasse		S	5	8	17			
+132	132067	Rothus		S	1	1	1			
+132	132068	Spitzenmatte		S	52	83	231			
+132	132069	Zugerstrasse		S	1	2	6			
+132	132070	Mülibüel		S	1	1	1			
+132	132071	Chronerain		S	16	19	52			
+132	132072	Boden		S	2	4	12			
+132	132073	Erni		S	1	1	5			
+132	132074	Föxen		S	1	2	3			
+132	132075	Sprümüli		S	2	3	12			
+132	132076	Tischmacherhüsli		S	1	1	2			
+132	132077	Spitzenrain		S	3	1	5			
+132	132078	Spitzenbüel		S	1	1	4			
+132	132079	Bächenmoos		S	7	9	27			
+132	132080	Sihlmatt		S	4	4	15			
+132	132081	Hinter Bächenmoos		S	1	1	2			
+132	132082	Brunnen		S	1	2	8			
+132	132083	Äbnet		S	1	1	5			
+132	132084	Neubrunnen		S	1	1	1			
+132	132085	Brunnenhüsli		S	1	1	2			
+132	132086	Vorder Bächenmoos		S	15	15	46			
+132	132399	Personen ohne Siedlungs-Nr. 		R	0	0	88			
+133	133001	Horgen (Dorf)		Q	2’251	7’117	15’973			
+133	133006	Werkplatz Sihlwald		S	3	12	21			
+133	133007	Sihlwald		S	2	2	5			
+133	133008	Forsthaus Sihlwald		S	2	2	5			
+133	133009	Sihlboden		S	2	3	8			
+133	133010	Schüeppenloch		S	1	1	5			
+133	133011	Hinteres Maurenmoos		S	1	1	4			
+133	133012	Sonnenheim		S	1	1	4			
+133	133013	Vorderes Maurenmoos		S	2	4	6			
+133	133014	Stengelen		S	1	2	7			
+133	133015	Boden		S	1	1	1			
+133	133016	Oberhof		S	12	14	32			
+133	133017	Moorschwand		S	18	24	68			
+133	133018	Büel		S	4	6	14			
+133	133019	Tableten		S	3	5	11			
+133	133020	Binzboden		S	1	1	2			
+133	133021	Mürg		S	2	2	6			
+133	133022	Stockacker		S	3	3	6			
+133	133023	Feld		S	2	2	7			
+133	133024	Wührenbach		S	14	22	54			
+133	133025	Fischenrüti		S	2	2	4			
+133	133026	Unterwerk Sihlbrugg		S	1	2	5			
+133	133027	Sihlbrugg (Station)		S	5	5	12			
+133	133028	Unterhaus		S	6	8	23			
+133	133029	Eschtürli		S	2	2	6			
+133	133030	Bruppacher		S	7	6	12			
+133	133031	Alt-Unterhaus		S	1	1	2			
+133	133032	Sonnenberg		S	1	2	3			
+133	133033	Hüsliweber		S	2	3	6			
+133	133034	Näf		S	2	3	6			
+133	133035	Hinter-Klausen		S	5	10	18			
+133	133036	Vorder-Klausen		S	14	17	48			
+133	133037	Melchgaden		S	1	1	3			
+133	133038	Grindel		S	1	1	2			
+133	133039	Bocken		S	7	11	24			
+133	133040	Schlitten		S	2	3	12			
+133	133041	Kniebreche		S	4	5	7			
+133	133042	Gwandlen		S	2	1	1			
+133	133043	Bätpur		S	32	49	109			
+133	133044	Rietli		S	1	3	8			
+133	133045	Risi		S	3	9	29			
+133	133046	Badenmatt		S	1	1	2			
+133	133047	Katzenholz		S	2	2	3			
+133	133049	Neumatt		S	9	9	17			
+133	133050	Neuhof		S	3	3	6			
+133	133051	Gottshalden		S	4	4	11			
+133	133052	Sonnau		S	2	1	2			
+133	133053	Längeberg		S	2	4	10			
+133	133054	Waid		S	3	3	12			
+133	133055	Hintere Rietwies		S	8	11	27			
+133	133056	Mittlere Rietwies		S	3	5	16			
+133	133057	Äussere Rietwies		S	4	4	10			
+133	133058	Matte		S	1	2	5			
+133	133059	Arn		S	71	129	326			
+133	133060	Unterer Widenbach		S	2	2	6			
+133	133061	Widenbach		S	1	1	6			
+133	133062	Obere Hinterrüti		S	2	4	12			
+133	133063	Untere Hinterrüti		S	1	1	2			
+133	133064	Hasenacker		S	1	1	3			
+133	133066	Neuhaus		S	1	1	1			
+133	133067	Untere Hanegg		S	6	7	20			
+133	133068	Hanegg		S	1	1	1			
+133	133069	Obere Hanegg		S	3	3	7			
+133	133070	Rank		S	1	1	3			
+133	133071	Waldhof		S	3	6	13			
+133	133072	Sonnenhof		S	1	1	1			
+133	133073	Kräh		S	1	2	4			
+133	133074	Zuger-Hütten-Str.		S	1	1	3			
+133	133075	Waldegg		S	2	3	11			
+133	133076	Pappelweg		S	4	4	10			
+133	133077	Harüti		S	1	2	5			
+133	133399	Personen ohne Siedlungs-Nr. 		R	0	0	298			
+134	134001	Hütten (Dorf)		S	117	171	451			
+134	134002	Neugut		S	1	2	7			
+134	134003	Segel		S	12	14	35			
+134	134004	Obere Hengerten		S	3	3	12			
+134	134005	Untere Hengerten		S	1	2	9			
+134	134006	Waldheim		S	1	2	8			
+134	134007	Obere Laubegg		S	1	1	1			
+134	134008	Untere Laubegg		S	2	4	9			
+134	134009	Obere Laubegg		S	2	4	13			
+134	134010	Böschen		S	3	5	9			
+134	134011	Moos		S	2	2	9			
+134	134012	Schafrain		S	1	3	6			
+134	134014	Frohe Aussicht		S	2	5	7			
+134	134016	Bergli		S	5	3	5			
+134	134017	Finsterseehalden		S	5	6	14			
+134	134018	Ziegelhüsli		S	1	1	5			
+134	134019	Tannenhof		S	1	2	4			
+134	134020	Knäus		S	5	6	15			
+134	134021	Frohberg		S	1	1	2			
+134	134022	Freihof		S	4	4	15			
+134	134023	Hinter-Langmoos		S	9	8	18			
+134	134024	Käserei Langmoos		S	1	1	2			
+134	134025	Vorder-Langmoos		S	8	11	28			
+134	134026	Au		S	12	15	43			
+134	134027	Ober Rebgarten		S	1	3	8			
+134	134028	Unter Rebgarten		S	1	1	4			
+134	134029	Sihlwehr		S	1	1	5			
+134	134030	Säge		S	2	2	2			
+134	134031	Boden		S	2	2	9			
+134	134033	Heiten		S	1	1	5			
+134	134034	Sihlau		S	2	3	7			
+134	134035	Schmitten		S	3	2	10			
+134	134036	Unter Oerischwand		S	3	5	18			
+134	134037	Hinter-Schönau		S	2	2	12			
+134	134039	Hinter-Mistlibühl		S	2	2	4			
+134	134040	Gschwendboden		S	2	3	12			
+134	134042	Ober Oerischwand		S	2	2	6			
+134	134044	Halden		S	1	1	2			
+134	134399	Personen ohne Siedlungs-Nr. 		R	0	0	29			
+135	135001	Kilchberg (Dorf)	Quartiere	Q	1’276	3’206	6’511			
+135	135009	Lätten		S	55	54	171			
+135	135010	Sanitas		S	5	17	131			
+135	135011	Brölberg		S	10	19	41			
+135	135013	Ghei		S	7	8	27			
+135	135014	Bänklen		S	12	85	196			
+135	135015	Hohenrain		S	5	8	23			
+135	135399	Personen ohne Siedlungs-Nr. 		R	0	0	97			
+136	136001	Langnau (Dorf)	Quartiere	Q	782	2’098	4’745			
+136	136002	Waldi		S	22	27	60			
+136	136003	Hasengarten		S	1	3	9			
+136	136004	Langenberg		S	1	1	2			
+136	136007	Rinderweid		S	3	4	10			
+136	136008	Unter-Albis		S	30	29	63			
+136	136009	Mühlehalde		S	310	514	1’220			
+136	136013	Striempel		S	36	35	104			
+136	136017	Kniebreche		S	3	3	10			
+136	136018	Büelweid		S	1	1	2			
+136	136019	Hinter-Albis		S	8	9	21			
+136	136020	Weid		S	15	18	31			
+136	136021	Ober-Albis		S	22	27	61			
+136	136022	Ober-Rengg		S	10	14	45			
+136	136023	Rengg		S	1	4	12			
+136	136024	Tobel		S	3	3	9			
+136	136025	Vorder-Risleten		S	3	5	9			
+136	136027	Sihlhof		S	1	1	1			
+136	136028	Mittelalbis		S	4	5	10			
+136	136399	Personen ohne Siedlungs-Nr. 		R	0	0	171		
+137	137001	Oberrieden (Dorf)	Quartiere	Q	799	2’005	4’413			
+137	137003	Risi		S	4	6	15			
+137	137005	In der Weid		S	7	8	21			
+137	137399	Personen ohne Siedlungs-Nr. 		R	0	0	134			
+138	138001	Richterswil (Dorf)		Q	1’388	3’102	7’103			
+138	138009	Schönau		S	7	12	32			
+138	138010	Mülenen		S	12	22	49			
+138	138011	Waldhüsli		S	1	1	2			
+138	138012	Untermatt		S	2	3	11			
+138	138013	Unter-Schwanden		S	44	143	331			
+138	138014	Obermatt		S	6	5	18			
+138	138015	Mittler-Schwanden		S	37	39	143			
+138	138016	Neuhus		S	4	5	13			
+138	138017	Ober-Schwanden		S	8	9	33			
+138	138018	Schönrain		S	3	3	9			
+138	138019	Frohe Aussicht		S	1	2	6			
+138	138020	Sennhütten		S	1	1	4			
+138	138021	Frohberg		S	28	37	108			
+138	138022	Neuhusrain		S	3	3	7			
+138	138023	Moos		S	2	3	9			
+138	138024	Geisser		S	2	2	7			
+138	138025	Weid		S	4	5	17			
+138	138026	Grüenfeld		S	100	103	284			
+138	138028	Specki		S	1	1	3			
+138	138029	Chalchbüel		S	1	1	3			
+138	138030	Vorder-Egg		S	11	11	27			
+138	138031	Rain		S	1	1	2			
+138	138032	Rees		S	7	10	26			
+138	138033	Gerlisberg		S	3	4	9			
+138	138034	Obstgarten		S	17	24	60			
+138	138035	Sagen		S	11	41	100			
+138	138036	Sternen		S	2	2	7			
+138	138037	Neuheim		S	1	2	2			
+138	138038	Walder		S	1	0	1			
+138	138039	Hügsam		S	45	162	376			
+138	138040	Löchli		S	1	1	4			
+138	138041	Unter-Schürli		S	1	1	3			
+138	138042	Haslen		S	14	16	47			
+138	138043	Dürsenen		S	13	38	78			
+138	138044	Ober-Schürli		S	2	2	5			
+138	138045	Am Bach		S	4	6	14			
+138	138046	Samstagern		S	94	258	653			
+138	138047	Stollenrain		S	1	1	2			
+138	138048	Holz		S	3	6	10			
+138	138049	Haslenzopf		S	80	144	416			
+138	138050	Langrain		S	3	3	7			
+138	138051	Seeben		S	2	2	8			
+138	138052	Fälmis		S	16	24	65			
+138	138053	Mittler-Weberrüti		S	3	2	7			
+138	138054	Oberholz		S	1	1	5			
+138	138055	Oberrüti		S	1	2	5			
+138	138056	Ober-Weberrüti		S	1	3	6			
+138	138057	Seeli		S	5	7	30			
+138	138058	Bellen		S	6	9	21			
+138	138059	Spitzrain		S	2	2	8			
+138	138060	Neuhof		S	4	6	13			
+138	138061	Neuweid		S	1	1	1			
+138	138062	Gerlisbergstrasse		S	1	1	3			
+138	138399	Personen ohne Siedlungs-Nr. 		R	0	0	141			
+139	139001	Rüschlikon (Dorf)		Q	889	2’095	4’653			
+139	139028	Hinter Längimoos		S	1	2	7			
+139	139029	Riemen		S	1	1	2			
+139	139030	Vorder Längimoos		S	2	3	9			
+139	139399	Personen ohne Siedlungs-Nr. 		R	0	0	187			
+140	140001	Schönenberg (Dorf)		S	97	175	468			
+140	140002	Rechberg		S	6	7	20			
+140	140003	Moos		S	1	1	7			
+140	140004	Risi		S	1	2	9			
+140	140005	Kaltenboden		S	1	1	2			
+140	140006	Unter-Mittelberg		S	4	5	15			
+140	140007	Brunnehüsli		S	1	1	2			
+140	140008	Nussbäumen		S	5	6	14			
+140	140009	Müsli		S	5	10	25			
+140	140010	Hintere Stollen		S	8	13	30			
+140	140011	Bubenwies		S	4	5	19			
+140	140012	Mittelberg		S	3	5	15			
+140	140013	Tannenhof		S	2	3	5			
+140	140014	Tanne		S	13	24	47			
+140	140015	Untere Tanne		S	2	4	12			
+140	140016	Erniweg		S	2	4	9			
+140	140017	Weisserlen		S	1	1	3			
+140	140018	Ober-Weisserlen		S	1	2	6			
+140	140019	Aesch		S	6	7	15			
+140	140020	Hinterberg		S	1	1	2			
+140	140021	Au		S	3	4	6			
+140	140022	Stollen		S	11	15	45			
+140	140023	Stollenweid		S	1	2	29			
+140	140024	Hintere Fernegg		S	1	1	3			
+140	140025	Fernegg		S	55	56	160			
+140	140026	Täglischür		S	4	7	17			
+140	140027	Zweierhof		S	23	24	65			
+140	140028	Gehrensteg		S	2	2	6			
+140	140029	Mühlestalden		S	12	15	38			
+140	140030	Hintere Egg		S	3	3	8			
+140	140031	Egg		S	7	10	27			
+140	140032	Suhner		S	2	2	10			
+140	140033	Gubel		S	1	2	3			
+140	140035	Neubad		S	7	7	29			
+140	140036	Sonnenrain		S	4	5	9			
+140	140037	Sonnenblick		S	17	17	52			
+140	140038	Palmisacker		S	31	33	96			
+140	140039	Humbel		S	7	16	47			
+140	140042	Matte		S	24	26	66			
+140	140043	Unter-Neugut		S	1	1	1			
+140	140044	Hohenberg		S	1	2	5			
+140	140045	Külpen		S	6	6	22			
+140	140046	Ober-Külpen		S	1	2	8			
+140	140047	Unter-Rotenblatt		S	1	1	2			
+140	140048	Rotenblatt		S	4	4	11			
+140	140049	Haldenmattli		S	2	4	9			
+140	140050	Bubheini		S	1	1	3			
+140	140051	Säge		S	8	13	32			
+140	140052	Schützenmatt		S	1	1	2			
+140	140053	Neumatt		S	1	2	3			
+140	140054	Mittlere Langwies		S	9	12	27			
+140	140055	Vordere Langwies		S	1	1	2			
+140	140056	Gisihegi		S	5	7	17			
+140	140057	Ober-Neugut		S	2	2	6			
+140	140059	Buchen		S	4	4	13			
+140	140060	Unter-Wolfbühl		S	2	3	9			
+140	140061	Ober-Rotenblatt		S	2	2	8			
+140	140062	Rain		S	3	5	14			
+140	140063	Neuhaus		S	1	1	2			
+140	140064	Am Rain		S	2	3	9			
+140	140065	Gschwend		S	4	5	17			
+140	140066	Neuhof		S	2	2	2			
+140	140067	Gschwendmatt		S	1	2	2			
+140	140068	Oberhüsli		S	1	1	1			
+140	140069	Ober-Wolfbühl		S	1	2	7			
+140	140070	Mittler-Wolfbühl		S	3	4	10			
+140	140071	Schanz		S	2	3	8			
+140	140072	Waldrain		S	1	1	4			
+140	140073	Festig		S	2	2	7			
+140	140074	Waldhalde		S	1	1	2			
+140	140075	Wald		S	3	3	7			
+140	140076	Thor		S	1	1	5			
+140	140077	Haslaub		S	9	12	40			
+140	140078	Bolet		S	1	1	3			
+140	140079	Haslaubstrasse		S	1	2	8			
+140	140399	Personen ohne Siedlungs-Nr. 		R	0	0	31			
+141	141001	Thalwil (Dorf)	Quartiere	Q	2’004	6’336	13’296			
+141	141006	Chalchofen		S	2	1	2			
+141	141007	Sihlhalde		S	3	4	11			
+141	141008	Boden		S	2	2	5			
+141	141009	Brand		S	1	1	1			
+141	141010	Gattikon		S	237	1’030	2’142			
+141	141012	Unterwerk		S	7	6	16			
+141	141013	Hohlgass		S	22	65	142			
+141	141014	Vogelsang		S	1	1	3			
+141	141015	Schweikrüti		S	1	1	4			
+141	141017	Vorderes Mettli		S	1	1	4			
+141	141399	Personen ohne Siedlungs-Nr. 		R	0	0	179			
+142	142001	Wädenswil (Stadt)	Quartiere	Q	1’997	5’917	13’269			
+142	142002	Au	Quartiere	Q	689	2’170	4’844			
+142	142012	Halbinsel Au		S	5	5	14			
+142	142014	Brunnenacher		S	2	3	8			
+142	142015	Allenwinden		S	5	7	20			
+142	142016	Dächenwis		S	1	2	2			
+142	142017	Hegimoos		S	4	4	12			
+142	142018	Mittler-Rüti		S	2	2	5			
+142	142019	Ober-Rüti		S	1	2	2			
+142	142020	Vorder-Rüti		S	3	4	10			
+142	142022	Aamüli		S	1	1	1			
+142	142023	Strasshus		S	6	12	24			
+142	142025	Frohbüel		S	1	1	1			
+142	142026	Luggenbüel		S	3	2	12			
+142	142028	Unter-Chalchtaren		S	2	4	8			
+142	142029	Gulmenhof		S	1	2	9			
+142	142030	Burstel		S	2	3	10			
+142	142031	Chüefer		S	1	2	5			
+142	142032	Stocken		S	7	6	16			
+142	142033	Ober-Chalchtaren		S	1	1	3			
+142	142034	Unter-Oedischwänd		S	2	2	6			
+142	142035	Bachgaden		S	9	10	29			
+142	142036	Chotten		S	2	2	9			
+142	142037	Waggitalstrasse		S	1	2	7			
+142	142038	Ober-Oedischwänd		S	5	5	13			
+142	142039	Neuhof		S	2	3	10			
+142	142040	Furthof		S	3	3	13			
+142	142041	Sennhusrain		S	1	1	3			
+142	142042	Sennhus		S	4	8	30			
+142	142043	Mugeren		S	1	2	6			
+142	142044	Aeppli		S	1	1	4			
+142	142045	Aahalden		S	2	3	9			
+142	142046	Waggital		S	7	8	26			
+142	142047	Widen		S	3	3	8			
+142	142048	Hinter-Widen		S	1	1	3			
+142	142049	Vorder-Widen		S	1	2	6			
+142	142050	Herrlisberg		S	19	27	77			
+142	142051	Grundhof		S	1	1	2			
+142	142052	Halden		S	1	2	4			
+142	142054	Mugerenrain		S	1	1	2			
+142	142057	Hessen		S	1	2	5			
+142	142058	Ober-Schluchtal		S	3	7	26			
+142	142059	Schluchtal		S	1	1	4			
+142	142060	Ober-Gisenrüti		S	5	6	18			
+142	142061	Gisibach		S	1	2	6			
+142	142062	Langrüti		S	5	6	28			
+142	142063	Wändel		S	5	6	17			
+142	142064	Feld		S	9	12	30			
+142	142065	Neuhus		S	1	2	4			
+142	142066	Unter-Feld		S	4	9	17			
+142	142067	Hänsital		S	1	3	6			
+142	142068	Gerenau		S	1	1	4			
+142	142069	Zollingerhüser		S	4	7	21			
+142	142070	Felsen		S	8	14	35			
+142	142071	Eichmüli		S	5	12	27			
+142	142072	Buechhof		S	4	4	10			
+142	142073	Unter-Gisenrüti		S	8	12	32			
+142	142074	Grindel		S	2	6	11			
+142	142075	Weienschür		S	2	3	8			
+142	142076	Grossengaden		S	1	5	11			
+142	142077	Hofacher		S	1	1	5			
+142	142078	Neuguet		S	2	2	8			
+142	142079	Steinweid		S	3	4	6			
+142	142080	Mosli		S	2	3	10			
+142	142081	Unter-Himmeri		S	3	6	10			
+142	142082	Ober-Himmeri		S	4	6	20			
+142	142083	Beichlen		S	7	12	24			
+142	142084	Unter-Beichlen		S	1	1	2			
+142	142086	Sennweid		S	1	1	4			
+142	142087	Neuhusrain		S	1	1	2			
+142	142088	Niedersaum		S	5	6	17			
+142	142089	Chliweid		S	1	1	7			
+142	142091	Erni		S	3	3	8			
+142	142092	Sunft		S	2	2	10			
+142	142093	Brüsch		S	2	1	2			
+142	142094	Vordere Au		S	4	5	12			
+142	142095	Hintere Au		S	1	1	4			
+142	142097	Bachgaden Weiher		S	1	2	5			
+142	142098	Hinter Mugern		S	3	3	12			
+142	142099	Vorder Mugern		S	2	3	14			
+142	142100	Mittelberg		S	1	1	4			
+142	142399	Personen ohne Siedlungs-Nr. 		R	0	0	416			
+151	151001	Erlenbach	Quartiere	Q	1’024	1’972	4’519			
+151	151399	Personen ohne Siedlungs-Nr. 		R	0	0	90		
+152	152001	Herrliberg (Dorf)		S	1’212	2’203	5’025			
+152	152006	Kittenmühle		S	4	3	4			
+152	152007	Sennhof		S	2	2	8			
+152	152008	Paschi		S	1	1	2			
+152	152009	Biswind		S	4	5	11			
+152	152010	Blüemlisalp		S	1	1	3			
+152	152012	Ob dem Hof		S	6	8	22			
+152	152013	Hof		S	4	5	10			
+152	152014	Schürwis		S	1	1	2			
+152	152015	Wetzwil (Kirche)		S	2	2	6			
+152	152016	Rütibühl		S	4	3	31			
+152	152017	Busenharder		S	3	3	5			
+152	152018	Wetzwil (Dorf)		S	31	51	132			
+152	152019	Zelg		S	3	3	6			
+152	152021	Rütihof		S	9	9	24			
+152	152022	Fröschgüllen		S	3	3	9			
+152	152023	Mühlacher		S	2	1	2			
+152	152024	Gugen		S	2	1	2			
+152	152025	Schmitteneich		S	2	2	5			
+152	152026	Vorrain		S	1	1	4			
+152	152027	Holzboden		S	1	1	1			
+152	152029	Hasenacher		S	4	4	10			
+152	152030	Felsengrund		S	2	2	10			
+152	152031	Schönalp		S	1	1	1			
+152	152033	Sunnerai		S	1	2	4			
+152	152399	Personen ohne Siedlungs-Nr. 		R	0	0	160			
+153	153001	Hombrechtikon (Dorf)	Quartiere	Q	733	1’923	4’767			
+153	153010	Gerenstöck		S	1	1	2			
+153	153011	Rietlen		S	1	1	2			
+153	153012	Frauwis		S	4	4	9			
+153	153013	Dändlikon		S	10	12	29			
+153	153014	Niggberg		S	1	2	5			
+153	153015	Neuguet		S	2	2	6			
+153	153017	Herrgass		S	11	10	26			
+153	153018	Hueb		S	8	10	19			
+153	153019	Hasel		S	4	4	14			
+153	153020	Richttann		S	1	1	2			
+153	153021	Zelg		S	1	1	4			
+153	153022	Scherlang		S	1	1	4			
+153	153023	Brunisberg		S	5	6	33			
+153	153024	Gunten		S	5	13	25			
+153	153025	Ufgent		S	1	1	1			
+153	153026	Uetzikon		S	18	20	48			
+153	153027	Chüeweid		S	4	4	12			
+153	153028	Hinderwald		S	3	4	14			
+153	153029	Rain		S	6	5	11			
+153	153031	Hochgass		S	3	3	9			
+153	153032	Tannweid		S	1	2	3			
+153	153033	Seeweid		S	2	3	9			
+153	153034	Seeweidhöchi		S	1	1	1			
+153	153035	Langacher		S	14	13	29			
+153	153036	Vorderwald		S	2	2	9			
+153	153037	Breitacher		S	6	5	11			
+153	153038	Buen		S	7	6	16			
+153	153040	Lutikon		S	7	10	29			
+153	153041	Lützelsee		S	11	11	44			
+153	153043	Rebrain		S	7	8	18			
+153	153045	Ghei		S	26	24	81			
+153	153046	Obertili		S	1	1	2			
+153	153047	Wisental		S	62	62	168			
+153	153048	Blumenberg		S	46	44	123			
+153	153049	Neuhus		S	3	3	6			
+153	153050	Stämpfi		S	3	3	11			
+153	153053	Reben		S	1	1	2			
+153	153055	Laufenbach		S	6	7	22			
+153	153056	Wigarten		S	8	6	12			
+153	153057	Widmen		S	16	25	60			
+153	153058	Lüeholz		S	2	3	7			
+153	153059	Grütrain		S	5	4	8			
+153	153060	Hasenweid		S	1	1	4			
+153	153061	Holflüe		S	1	1	4			
+153	153062	Hinderholz		S	3	3	6			
+153	153063	Holgass		S	68	110	266			
+153	153064	Eichhöchi		S	19	20	59			
+153	153065	Inner-Langenriet		S	44	55	120			
+153	153066	Garstlig		S	21	33	85			
+153	153067	Eichwis		S	54	67	168			
+153	153068	Schleipfi		S	10	11	22			
+153	153069	Holzschlag		S	6	5	10			
+153	153070	Obere Chlausstrasse		S	1	1	3			
+153	153071	Hinderschlatt		S	4	7	18			
+153	153072	Grosswis		S	1	1	2			
+153	153073	Schönenberg		S	1	1	5			
+153	153074	Felsengrund		S	5	4	14			
+153	153075	Ob Dorf		S	1	1	3			
+153	153076	Schlatt		S	17	15	35			
+153	153077	Hochwacht		S	3	4	6			
+153	153078	Zopf		S	5	2	2			
+153	153079	Uf Dorf		S	6	7	23			
+153	153080	Büel		S	2	2	6			
+153	153081	Schwösterrain		S	4	5	18			
+153	153082	Hotwiel		S	4	4	9			
+153	153083	Wellenberg		S	17	18	40			
+153	153084	Grüt		S	10	10	21			
+153	153085	Aegerten		S	4	4	13			
+153	153086	Gibisnüt		S	4	4	10			
+153	153087	Brunegg		S	5	6	31			
+153	153088	Usser-Langenriet		S	19	19	49			
+153	153089	Rietwis		S	2	2	2			
+153	153090	Morgensunn		S	2	2	9			
+153	153091	Sandhof		S	1	2	6			
+153	153092	Tal		S	6	7	20			
+153	153094	Eggrüti		S	3	3	9			
+153	153095	Goldenberg		S	2	1	2			
+153	153096	Sunnenberg		S	19	22	57			
+153	153097	Gamsten		S	1	1	2			
+153	153098	Ober-Schirmensee		S	10	11	32			
+153	153099	Unter-Schirmensee		S	7	7	22			
+153	153100	Feldbach	Quartiere	Q	61	92	205			
+153	153107	Hubschberg		S	1	1	2			
+153	153110	Seeguet		S	1	1	3			
+153	153111	Hintere Gamsten		S	1	1	4			
+153	153112	Felsbach		S	3	4	6			
+153	153113	Ober Rain		S	3	1	2			
+153	153114	Langgass		S	1	2	6			
+153	153115	Hinter Holzschlag		S	1	1	1			
+153	153399	Personen ohne Siedlungs-Nr. 		R	0	0	91		
+154	154001	Küsnacht	Quartiere	Q	2’474	5’321	11’525			
+154	154009	Wolenberen		S	1	2	6			
+154	154010	Schmalzgrueb		S	16	21	62			
+154	154011	Tobelmüli		S	2	7	11			
+154	154012	Limberg		S	23	32	73			
+154	154013	Wis		S	1	1	5			
+154	154014	Waidhof		S	3	6	10			
+154	154015	Forch (südl. Teil)		S	83	127	284			
+154	154016	Schulhaus Limberg		S	4	6	16			
+154	154018	Wangen		S	15	15	33			
+154	154019	Kaltenstein		S	16	17	54			
+154	154020	Wiserholz		S	7	7	27			
+154	154021	Neuhus		S	2	3	10			
+154	154022	Bunzenhalden		S	2	3	7			
+154	154023	Langacker		S	1	2	5			
+154	154024	Hohrüti		S	2	2	3			
+154	154025	Arenenberg		S	1	1	2			
+154	154026	In der Letzi		S	1	1	4			
+154	154027	Sportplatz Fallacher		S	1	3	8			
+154	154028	Spitzacher		S	2	2	8			
+154	154399	Personen ohne Siedlungs-Nr. 		R	0	0	331			
+155	155001	Männedorf (Dorf)		Q	1’431	3’558	7’951			
+155	155010	Appisberg		S	5	4	25			
+155	155011	Stocken		S	1	1	2			
+155	155012	Obere Bühlen		S	10	30	68			
+155	155013	Löneren		S	1	2	6			
+155	155014	Ammenacher		S	1	2	4			
+155	155016	Pfarrhüsli		S	1	1	2			
+155	155017	Brähen		S	1	1	2			
+155	155018	Widenbad		S	5	5	13			
+155	155019	Widenrain		S	5	7	14			
+155	155020	Tanneggli		S	1	1	1			
+155	155021	Berg		S	3	4	4			
+155	155023	Ober-Allenberg		S	3	2	6			
+155	155024	Chäsrain		S	2	3	15			
+155	155025	Gugger		S	2	2	3			
+155	155026	Im Russer		S	1	2	6			
+155	155399	Personen ohne Siedlungs-Nr. 		R	0	0	226			
+156	156001	Feldmeilen	Quartiere	Q	718	1’712	3’732			
+156	156028	Stöckenweid		S	1	0	14			
+156	156029	Schoris		S	1	1	2			
+156	156030	Büelen		S	3	4	10			
+156	156033	Sunnenberg		S	1	1	1			
+156	156035	Tannacher		S	2	5	7			
+156	156041	Luft		S	2	3	5			
+156	156042	Meilen (Dorf)	Quartiere	Q	921	2’013	4’419			
+156	156046	Hinterburg		S	2	2	6			
+156	156069	Bannholz		S	2	2	4			
+156	156080	Obermeilen	Quartiere	Q	506	1’319	2’871			
+156	156107	Arbach		S	1	2	3			
+156	156108	Zelg		S	3	3	8			
+156	156110	Warzhalden		S	3	3	7			
+156	156112	Rinderweid		S	1	1	3			
+156	156113	Toggwil		S	6	7	19			
+156	156117	Steinacher		S	1	1	7			
+156	156122	Weieracher		S	1	1	4			
+156	156128	Spitzacher		S	1	1	3			
+156	156132	Breiti		S	3	4	8			
+156	156133	Steigelacher		S	1	1	4			
+156	156136	Neuacher		S	2	2	7			
+156	156138	Buechstud		S	1	1	5			
+156	156139	Langjoch		S	2	2	6			
+156	156140	Banacher		S	2	2	6			
+156	156141	Erlen		S	3	3	10			
+156	156142	Engelbirg		S	2	2	6			
+156	156145	Bezibüel		S	3	4	10			
+156	156147	Haltenacher		S	3	2	6			
+156	156148	Hinterer Pfannenstiel		S	4	5	13			
+156	156149	Roren		S	2	1	15			
+156	156150	Bundi		S	3	5	8			
+156	156152	Chilchbüel		S	2	2	6			
+156	156154	Vorder Pfannenstiel		S	2	3	8			
+156	156157	Pünten		S	1	2	5			
+156	156158	Schumbel		S	1	1	3			
+156	156159	Hindermuren		S	1	1	3			
+156	156168	Fuchsloch		S	4	9	15			
+156	156399	Personen ohne Siedlungs-Nr. 		R	0	0	211			
+157	157001	Oetwil (Dorf)	Quartiere	Q	444	1’161	2’945			
+157	157017	Bäpur		S	22	17	37			
+157	157018	Oberror		S	6	3	6			
+157	157019	Rorbüel		S	1	1	4			
+157	157020	Betti		S	1	3	4			
+157	157022	Felsengrund		S	4	9	19			
+157	157023	Etzikon		S	9	7	16			
+157	157024	Rinderweid		S	6	7	18			
+157	157025	Summerau		S	3	3	6			
+157	157026	Gartenacker		S	2	2	7			
+157	157027	Auee		S	6	4	10			
+157	157028	Hinteres Chloster		S	3	2	4			
+157	157029	Gusch		S	26	62	152			
+157	157030	Paradis		S	2	1	2			
+157	157031	Under-Frobüel		S	4	2	11			
+157	157032	Glärnischstrasse		S	70	180	477			
+157	157033	Nidertal		S	28	24	67			
+157	157034	Stubenloo		S	5	6	15			
+157	157035	Ober-Frobüel		S	3	4	12			
+157	157036	Neuguet		S	4	4	10			
+157	157037	Bodenacher		S	3	2	4			
+157	157038	Hochstrass		S	3	3	7			
+157	157040	Riet		S	9	7	15			
+157	157041	Unter-Chrüzlen		S	6	8	20			
+157	157042	Waldheim		S	2	2	4			
+157	157043	Neuegg		S	8	62	126			
+157	157044	Schachen		S	8	4	13			
+157	157045	Burst		S	1	2	4			
+157	157046	Ober-Chrüzlen		S	10	10	31			
+157	157047	Aegertenwis		S	4	3	7			
+157	157048	Schachenweid		S	3	2	7			
+157	157049	Eichholz		S	6	8	17			
+157	157050	Reben		S	2	1	2			
+157	157051	Holzhusen		S	4	6	15			
+157	157052	Neuhus		S	7	3	10			
+157	157053	Stäckenacher		S	1	1	3			
+157	157055	Willikon		S	25	40	127			
+157	157056	Buacher		S	1	2	5			
+157	157057	Goldrain		S	3	2	7			
+157	157058	Horüti		S	2	1	2			
+157	157059	Rebrain		S	1	1	2			
+157	157060	Obere Beichlen		S	1	1	1			
+157	157061	Beichlen		S	1	1	3			
+157	157062	Sigmund		S	1	1	8			
+157	157063	Grossweid		S	2	2	6			
+157	157064	Geerenstöck		S	3	3	5			
+157	157399	Personen ohne Siedlungs-Nr. 		R	0	0	102			
+158	158001	Stäfa (Dorf)		S	1’052	2’587	5’737			
+158	158002	Dorf		S	291	553	1’226			
+158	158003	Kehlhof		S	98	263	596			
+158	158004	Uerikon		S	411	741	1’794			
+158	158005	Mülihölzli		S	1	1	4			
+158	158006	Schöni		S	1	1	3			
+158	158007	Hunert		S	3	4	8			
+158	158008	Wanne		S	4	4	5			
+158	158009	Dachsleren		S	4	5	11			
+158	158010	Zaniken		S	25	41	97			
+158	158011	Hinterer Püntacher		S	13	11	41			
+158	158012	Vorderer Püntacher		S	15	18	51			
+158	158013	Bauertacher		S	18	20	47			
+158	158014	Rank		S	1	1	2			
+158	158017	Usserfeld		S	2	1	4			
+158	158018	Sonnental		S	1	2	6			
+158	158019	Mutzmalen		S	8	10	28			
+158	158020	Wiesengrund		S	2	4	10			
+158	158021	Echtlen		S	4	3	17			
+158	158022	Echtlenweg		S	2	3	6			
+158	158023	Uelikon		S	116	228	497			
+158	158027	Binz		S	45	99	231			
+158	158028	Aberen		S	3	5	9			
+158	158029	Redlikon		S	13	17	59			
+158	158032	Rhyner		S	3	4	11			
+158	158033	Sennhütte Redlikon		S	1	1	1			
+158	158034	Lattenberg		S	5	6	11			
+158	158036	Frohberg		S	1	2	4			
+158	158037	Furen		S	1	1	4			
+158	158038	Dorfhalden		S	10	13	30			
+158	158039	Ober-Hüttenacher		S	3	3	10			
+158	158040	Hüttenacher		S	1	1	2			
+158	158041	Rütihof		S	38	43	109			
+158	158042	Torlen		S	2	6	14			
+158	158044	Ranghusen		S	8	10	31			
+158	158045	Riet		S	34	84	206			
+158	158046	Laubisrüti		S	5	4	9			
+158	158047	Eich		S	16	41	90			
+158	158048	Fangen		S	40	54	135			
+158	158049	Töbeli		S	3	3	11			
+158	158050	Mockenwis		S	53	54	166			
+158	158051	Schirmensee		S	3	1	2			
+158	158053	Forchbüel		S	1	1	2			
+158	158054	Egghäldeli		S	1	1	1			
+158	158399	Personen ohne Siedlungs-Nr. 		R	0	0	229			
+159	159001	Uetikon (Dorf)	Quartiere	Q	520	1’468	3’431			
+159	159015	Breiti		S	1	1	2			
+159	159016	Heiriberg		S	1	1	4			
+159	159017	Bergli		S	1	1	5			
+159	159019	Speckli		S	4	7	14			
+159	159020	Hohbrunnen		S	1	1	5			
+159	159021	Chnolli		S	7	9	17			
+159	159022	Rüti		S	1	1	3			
+159	159023	Oberer Brand		S	1	1	3			
+159	159024	Esslinger		S	22	20	47			
+159	159025	Gibisnüd		S	4	4	9			
+159	159026	Tüfleten		S	22	23	57			
+159	159027	Grüt		S	7	21	40			
+159	159028	Bolteracher		S	12	12	26			
+159	159029	Älpli		S	12	11	37			
+159	159030	Schwändi		S	1	1	2			
+159	159031	Rundi		S	8	9	24			
+159	159032	Haslibach		S	4	5	15			
+159	159033	Bergheim		S	7	8	161			
+159	159034	Rundihalde		S	21	23	56			
+159	159035	Strick		S	8	8	56			
+159	159036	Brandrain		S	22	22	50			
+159	159037	Forbüel		S	37	44	135			
+159	159038	Stötzli		S	3	3	5			
+159	159039	Furen		S	22	21	61			
+159	159040	Talweg		S	47	68	178			
+159	159041	Binzhalden		S	11	11	44			
+159	159042	Binziger		S	47	47	140			
+159	159044	Untere Tuntelen		S	5	9	20			
+159	159045	Weid		S	1	2	6			
+159	159046	Müliweid		S	15	23	61			
+159	159047	Müli		S	13	20	56			
+159	159048	Rotholz		S	3	3	14			
+159	159049	Chrüzstein		S	6	14	53			
+159	159050	Büel		S	18	19	35			
+159	159052	Chessler		S	1	1	2			
+159	159053	Brand		S	4	4	10			
+159	159054	Haslihalde		S	56	61	180			
+159	159399	Personen ohne Siedlungs-Nr. 		R	0	0	146			
+160	160001	Zumikon (Dorf)		Q	889	1’966	4’424			
+160	160021	Hohfurren		S	1	1	2			
+160	160022	Letzi		S	1	1	2			
+160	160023	Rietacher		S	2	2	4			
+160	160024	Juch		S	1	1	4			
+160	160025	Ifang		S	1	2	4			
+160	160026	Mülackerweg		S	1	1	1			
+160	160399	Personen ohne Siedlungs-Nr. 		R	0	0	109			
+161	161001	Zollikon (Dorf)		S	1’247	2’748	5’812			
+161	161002	Rebwies		S	98	427	897			
+161	161003	Zollikerberg		S	518	2’068	4’187			
+161	161004	Zelgli		S	3	16	30			
+161	161005	Trichtenhausen		S	2	3	7			
+161	161006	Resirain		S	5	8	19			
+161	161007	Bergwies		S	1	1	2			
+161	161008	Sennhof-Oberhub		S	90	125	296			
+161	161009	Eichäcker		S	1	2	4			
+161	161010	Kaltenstein		S	1	1	2			
+161	161011	Wildenberg		S	1	1	2			
+161	161012	Tal		S	4	6	9			
+161	161399	Personen ohne Siedlungs-Nr. 		R	0	0	395			
+171	171001	Bauma (Dorf)		S	220	440	1’029			
+171	171002	Wald		S	4	3	6			
+171	171003	Unter-Wald		S	1	1	4			
+171	171004	Homberg		S	20	21	58			
+171	171005	Saland		S	132	196	526			
+171	171006	Laubberg		S	17	19	47			
+171	171007	Linden		S	1	1	2			
+171	171008	Auwis		S	36	35	117			
+171	171009	Juckeren		S	97	113	346			
+171	171010	Blitterswil		S	33	29	74			
+171	171011	Esterli		S	2	2	4			
+171	171012	Uerschen		S	4	4	18			
+171	171013	Sülch		S	2	3	10			
+171	171014	Schürli		S	1	1	4			
+171	171015	Widenwald		S	1	2	10			
+171	171016	Undalen		S	25	26	49			
+171	171017	Dillhaus		S	47	47	153			
+171	171018	Haselhalden		S	16	21	74			
+171	171019	Ramsel		S	3	3	10			
+171	171020	Rittweg		S	9	11	37			
+171	171021	Chämmerli		S	1	1	5			
+171	171022	Held		S	1	2	2			
+171	171023	Riset		S	2	3	13			
+171	171024	Musterplatz		S	1	1	6			
+171	171025	Bächi		S	8	8	19			
+171	171026	Fälmis		S	13	13	30			
+171	171028	Neugut		S	1	3	5			
+171	171029	Fluh		S	9	9	19			
+171	171030	Schindlet		S	12	15	36			
+171	171031	Heiletsegg		S	3	3	7			
+171	171032	Nideltobel		S	3	3	6			
+171	171033	Niderdürstelen		S	10	13	37			
+171	171034	Grube		S	1	1	4			
+171	171035	Widen		S	12	15	31			
+171	171036	Wilen		S	4	11	31			
+171	171037	Altlandenberg		S	140	186	517			
+171	171038	Sonnenrain		S	15	11	36			
+171	171039	Schulhaus Altlandenberg		S	3	4	9			
+171	171040	Weid		S	1	1	3			
+171	171041	Sommerau		S	2	2	3			
+171	171042	Schönegg		S	1	1	1			
+171	171043	Hörnen		S	24	28	64			
+171	171044	Bergli		S	1	1	2			
+171	171045	Akau		S	1	1	3			
+171	171046	Hinter-Tiefenbach		S	7	8	16			
+171	171047	Böndler		S	2	3	47			
+171	171048	Weidli		S	1	1	2			
+171	171049	Höhle		S	13	11	84			
+171	171050	Schwendi		S	3	5	17			
+171	171051	Sunnehalde		S	5	5	15			
+171	171052	Blacketen		S	1	1	5			
+171	171053	Vorder-Tiefenbach		S	5	6	17			
+171	171054	Seewadel		S	20	30	61			
+171	171055	Wellenau		S	23	28	80			
+171	171056	Bliggenswil		S	18	18	45			
+171	171057	Höckler		S	10	11	26			
+171	171058	Hinterwis		S	7	5	8			
+171	171059	Vorder-Lüwis		S	4	4	8			
+171	171060	Hinter-Lüwis		S	6	5	14			
+171	171061	Schwandelbach		S	2	2	4			
+171	171062	Boden		S	3	3	7			
+171	171063	Rösli		S	3	2	6			
+171	171064	Silisegg		S	8	9	22			
+171	171065	Grueholz		S	1	2	8			
+171	171066	Erlen		S	2	3	8			
+171	171067	Loch		S	1	2	6			
+171	171068	Hinter-Bad		S	1	1	2			
+171	171069	Vorder-Bad		S	4	4	8			
+171	171070	Unter-Wolfensberg		S	3	4	13			
+171	171071	Mittler-Wolfensberg		S	1	1	4			
+171	171072	Ober-Wolfensberg		S	3	3	6			
+171	171073	Halden		S	1	1	2			
+171	171074	Allenwil		S	5	5	18			
+171	171075	Niderau		S	2	2	6			
+171	171076	Schlössli		S	1	1	3			
+171	171077	Unter-Bräch		S	1	1	3			
+171	171078	Lipperschwendi		S	26	31	110			
+171	171079	Vorder-Bräch		S	1	1	4			
+171	171085	Schwendibach		S	3	6	12			
+171	171089	Hinterboden		S	1	1	5			
+171	171092	Akauberg		S	1	1	4			
+171	171095	Pünt		S	2	2	3			
+171	171399	Personen ohne Siedlungs-Nr. 		R	0	0	83			
+172	172001	Fehraltorf (Dorf)		S	526	1’573	3’767			
+172	172002	Mesikon		S	8	11	35			
+172	172003	Ziegelhütte		S	2	3	11			
+172	172004	Reitenbach		S	3	5	11			
+172	172005	Brand		S	2	2	6			
+172	172006	Säustel		S	1	3	7			
+172	172007	Ehrenbühl		S	1	2	5			
+172	172008	Wiesengrund		S	1	3	6			
+172	172009	Bad		S	2	2	9			
+172	172010	Rüti		S	13	33	94			
+172	172011	Friedliweid		S	2	2	9			
+172	172012	Heiget		S	3	21	54			
+172	172013	Buchhalde		S	1	2	7			
+172	172014	Tuschacher		S	1	1	4			
+172	172015	Frankenbüel		S	1	1	3			
+172	172016	Talhof		S	1	1	5			
+172	172017	Burenbühl		S	2	2	8			
+172	172018	Feld		S	1	1	5			
+172	172019	Speckhof		S	2	2	4			
+172	172020	Speck		S	3	7	17			
+172	172021	Barmatt		S	1	2	8			
+172	172022	Ilgenhalde		S	1	2	36			
+172	172023	Chriesbaumweid		S	162	166	460			
+172	172025	Rumpis		S	7	7	21			
+172	172026	Petsersbüel		S	1	1	1			
+172	172027	Im Feld		S	1	1	5			
+172	172399	Personen ohne Siedlungs-Nr. 		R	0	0	89			
+173	173001	Hittnau	Quartiere	Q	402	602	1’567			
+173	173010	Fischbach		S	4	4	10			
+173	173011	Trogacher		S	1	2	3			
+173	173012	Schönau		S	19	25	76			
+173	173013	Lindenhof		S	1	1	5			
+173	173014	Hasel		S	36	50	123			
+173	173015	Jos		S	1	1	3			
+173	173016	Isikon		S	65	69	186			
+173	173017	Ober-Zelg		S	1	1	4			
+173	173018	Eichhof		S	1	2	6			
+173	173019	Sunnenhof		S	1	1	2			
+173	173020	Lupsi		S	1	2	13			
+173	173021	Balchenstal		S	3	3	14			
+173	173022	Knup		S	2	1	4			
+173	173023	Sunnenhalden		S	1	1	6			
+173	173024	Nauen		S	2	1	4			
+173	173026	Dürstelen		S	43	51	153			
+173	173028	Längi		S	1	3	6			
+173	173029	Mitsal		S	2	2	4			
+173	173030	Breiti		S	1	1	2			
+173	173031	Obermatt		S	1	1	2			
+173	173032	Wildenwis		S	2	3	7			
+173	173033	Bollacher		S	2	2	7			
+173	173034	Oberhittnau		S	146	207	551			
+173	173035	Loch		S	2	2	6			
+173	173036	Golfhaus, Restaurant		S	1	1	2			
+173	173037	Furt		S	1	1	2			
+173	173038	Haselweid		S	1	1	5			
+173	173039	Langägerten		S	1	1	3			
+173	173040	Waldhof		S	1	2	10			
+173	173041	Ghangetriet		S	1	2	7			
+173	173042	Beierschen		S	3	3	6			
+173	173043	Buen		S	3	4	10			
+173	173044	Wilen		S	7	7	19			
+173	173045	Owachs		S	3	4	4			
+173	173046	Platten		S	2	4	18			
+173	173047	Hofhalden		S	12	13	28			
+173	173048	Oberwilen		S	1	1	1			
+173	173050	Halden		S	3	3	5			
+173	173051	Lärchenhof		S	1	2	5			
+173	173399	Personen ohne Siedlungs-Nr. 		R	0	0	76			
+174	174001	Effretikon (Dorf)	Quartiere	Q	1’265	4’833	10’119			
+174	174007	Untere Höfe	Loorenhof	S	2	3	9			
+174	174009	Neumühle-Kempttal		S	3	5	7			
+174	174011	Ober-Kempttal		S	9	17	26			
+174	174014	Bietenholz		S	13	20	49			
+174	174016	Bisikon		S	112	153	385			
+174	174018	Untere Höfe	Talacher	S	1	2	7			
+174	174019	Untere Höfe	Grüthof	S	1	2	7			
+174	174020	Kemleten		S	4	4	9			
+174	174021	Obere Höfe	Widmenhof	S	1	1	3			
+174	174022	Obere Höfe	Grüze	S	1	1	3			
+174	174023	Obere Höfe	Rothenfluh	S	1	2	6			
+174	174024	Billikon		S	2	2	4			
+174	174025	Ottikon	Grubental	S	2	3	14			
+174	174026	Obere Höfe	Buech	S	1	1	3			
+174	174027	Ottikon	Alpenblick	S	6	6	20			
+174	174028	Obere Höfe	Erli	S	1	1	5			
+174	174029	Obere Höfe	Tränketrog	S	1	1	2			
+174	174030	First		S	17	17	34			
+174	174032	Ottikon	Ottikon	S	115	144	382			
+174	174033	Obere Höfe	Altenchrist	S	1	2	4			
+174	174034	Ottikon	Birch	S	1	1	5			
+174	174035	Ottikon	Brunnacher	S	3	3	9			
+174	174036	Obere Höfe	Wolfacher	S	1	2	5			
+174	174038	Agasul		S	15	19	58			
+174	174039	Luckhausen		S	7	7	24			
+174	174041	Schömlet		S	2	3	7			
+174	174042	Guggenbühl		S	3	3	14			
+174	174043	Illnau (Dorf)	Quartiere	Q	756	1’195	2’964			
+174	174046	Horben	Prstberg	S	1	1	1			
+174	174047	Horben	Hagenbuech	S	2	1	1			
+174	174048	Horben	Homberg	S	1	1	2			
+174	174049	Horben	Morgenhof	S	1	2	5			
+174	174050	Horben	Horben	S	16	18	41			
+174	174051	Mesikon		S	12	13	29			
+174	174053	Untere Höfe	Talmaz	S	1	2	4			
+174	174054	Obere Höfe	Chausacher	S	1	2	8			
+174	174055	Im Langhag		S	2	3	10			
+174	174399	Personen ohne Siedlungs-Nr. 		R	0	0	206			
+175	175001	Kyburg (Dorf)		S	55	70	197			
+175	175002	Mühlau		S	5	9	30			
+175	175004	Loo		S	1	2	7			
+175	175005	Seemerrüti		S	4	4	13			
+175	175006	Billikon		S	16	24	66			
+175	175007	Ettenhausen		S	8	9	22			
+175	175008	Stampfental		S	2	3	7			
+175	175009	Vogelsang		S	1	1	4			
+175	175010	Brünggen		S	13	18	29			
+175	175011	Neu-Brünggen		S	3	3	8			
+175	175012	Weissental		S	3	3	11			
+175	175399	Personen ohne Siedlungs-Nr. 		R	0	0	2			
+176	176001	Lindau (Dorf)		S	196	271	710			
+176	176002	Eschikon		S	19	20	101			
+176	176003	Kleinikon		S	9	11	29			
+176	176004	Bläsihof		S	5	5	20			
+176	176005	Winterberg		S	207	270	694			
+176	176006	Schintenächer		S	28	37	83			
+176	176007	Bachwis		S	1	1	5			
+176	176008	Kapf		S	1	1	2			
+176	176009	Schürliacher		S	2	2	3			
+176	176010	Berghof		S	1	2	5			
+176	176011	Sägissen		S	1	8	23			
+176	176013	Altes Sekundarschulhaus		S	2	2	7			
+176	176014	Grafstal		S	121	173	501			
+176	176015	Kempttal		S	14	20	169			
+176	176016	Lättenhof		S	2	3	4			
+176	176017	Hinterwis		S	1	1	4			
+176	176018	Vorderwis		S	1	3	8			
+176	176019	Birchhof		S	1	1	6			
+176	176020	Tagelswangen		S	287	644	1’606			
+176	176021	Schoren		S	1	2	3			
+176	176022	Lindengüetli		S	1	1	2			
+176	176023	Rigacher		S	4	2	5			
+176	176024	Tennenberg		S	2	2	7			
+176	176025	Spiegelhof		S	1	1	3			
+176	176026	Neuhof		S	1	3	7			
+176	176399	Personen ohne Siedlungs-Nr. 		R	0	0	65			
+177	177001	Pfäffikon (Dorf)	Quartiere	Q	1’289	3’288	7’994			
+177	177002	Hermatswil		S	34	40	111			
+177	177003	Ravensbühl		S	7	8	19			
+177	177004	Grüter		S	1	1	3			
+177	177005	Auenfeld		S	1	1	4			
+177	177006	Seiler		S	6	6	17			
+177	177007	Auenfeld		S	1	1	6			
+177	177008	Unter-Sulzberg		S	7	7	19			
+177	177009	Ober-Sulzberg		S	5	5	17			
+177	177010	Unter-Rick		S	2	2	3			
+177	177011	Ober-Rick		S	3	3	6			
+177	177012	Humbel		S	9	12	34			
+177	177013	Schür		S	5	9	16			
+177	177014	Feld		S	1	1	2			
+177	177015	Bergwis		S	1	1	3			
+177	177016	Mittelried		S	3	2	7			
+177	177017	Forrenacker		S	1	1	4			
+177	177018	Arenenberg		S	1	1	3			
+177	177020	Wallikon		S	15	21	57			
+177	177022	Witzberg		S	10	12	28			
+177	177024	Wiesengrund		S	1	2	2			
+177	177025	Weid		S	8	8	46			
+177	177026	Berg		S	115	120	337			
+177	177027	Pfaffberg		S	1	1	2			
+177	177028	Leweid		S	1	1	2			
+177	177032	Schanz		S	7	6	24			
+177	177033	Frohmatt		S	3	2	7			
+177	177034	Boden		S	2	2	4			
+177	177035	Faichrüti		S	9	10	22			
+177	177036	Höchweid		S	1	1	2			
+177	177037	Holzweid		S	2	2	2			
+177	177038	Rutschberg		S	11	14	31			
+177	177039	Talhof		S	1	1	2			
+177	177040	Baumen		S	1	3	4			
+177	177041	In der Tharn		S	1	2	3			
+177	177042	Neuhof		S	2	2	6			
+177	177043	Brand		S	3	3	7			
+177	177044	Grund		S	2	3	6			
+177	177046	Seehof		S	1	2	4			
+177	177047	Kastellhof		S	1	3	6			
+177	177048	Bühlweid		S	1	3	8			
+177	177049	Heiligeneich		S	1	1	2			
+177	177050	Sitzbühl		S	7	5	12			
+177	177053	Schibler		S	2	2	6			
+177	177054	Unter-Balm		S	19	19	49			
+177	177055	Auslikon		S	102	121	331			
+177	177056	Rümbeli		S	1	1	1			
+177	177058	Schöpli		S	5	3	4			
+177	177059	Sonnengrund		S	1	1	6			
+177	177060	Unterwis		S	1	1	4			
+177	177061	Ober-Balm		S	27	41	97			
+177	177062	Rappenholz		S	2	4	7			
+177	177063	Freudenberg		S	3	3	8			
+177	177064	Loowies		S	1	1	1			
+177	177065	Zelg		S	2	2	3			
+177	177067	Lirenagel		S	4	4	15			
+177	177068	Girhalden		S	1	1	4			
+177	177399	Personen ohne Siedlungs-Nr. 		R	0	0	162			
+178	178001	Russikon (Dorf)		S	543	906	2’415			
+178	178002	Schürhof		S	3	3	12			
+178	178003	Balmwies		S	33	38	94			
+178	178005	Berg Madetswil		S	63	67	184			
+178	178006	Madetswil		S	57	69	164			
+178	178007	Ludetswil		S	9	10	27			
+178	178008	Bläsimühle		S	5	5	17			
+178	178009	Rumlikon		S	138	151	403			
+178	178010	Waldegg		S	2	1	3			
+178	178012	Rennweg		S	2	2	8			
+178	178013	Burghalde		S	1	2	7			
+178	178014	Obermoos		S	2	2	13			
+178	178015	Surebaum		S	3	4	10			
+178	178016	Schützenhof		S	2	3	11			
+178	178017	Holenrain		S	1	1	2			
+178	178018	Gündisau		S	26	33	103			
+178	178019	Buchweid		S	22	15	98			
+178	178020	Guggu		S	1	2	7			
+178	178021	Wilhof		S	59	68	189			
+178	178022	Unter-Wilhof		S	1	1	2			
+178	178023	Buechlen		S	2	2	6			
+178	178024	Sennhof		S	20	18	57			
+178	178025	Bürgli		S	2	2	4			
+178	178026	Hochtanne		S	1	1	2			
+178	178027	Dunkelbach		S	3	2	3			
+178	178028	Sommerau		S	6	5	10			
+178	178029	Gentenwies		S	3	3	11			
+178	178030	Scheur		S	1	1	2			
+178	178031	Erlen		S	6	3	5			
+178	178033	Mühlehof		S	1	1	3			
+178	178399	Personen ohne Siedlungs-Nr. 		R	0	0	80			
+179	179001	Sternen		S	8	5	13			
+179	179002	Ussermatt		S	1	1	2			
+179	179003	Untere Matt		S	1	1	4			
+179	179004	Matt		S	7	4	9			
+179	179005	Unter Bogen		S	1	1	1			
+179	179006	Bogen		S	3	3	9			
+179	179007	Mattschür		S	3	4	8			
+179	179009	Spältrüti		S	2	2	8			
+179	179010	Buech		S	2	2	4			
+179	179011	Wald		S	1	1	6			
+179	179012	Unterer Steinshof		S	3	2	2			
+179	179013	Stockwies		S	1	1	3			
+179	179014	Schürli		S	2	1	8			
+179	179015	Kohlwies		S	3	3	9			
+179	179016	Aespen		S	3	3	8			
+179	179018	Ziegelhus		S	2	1	2			
+179	179019	Felsenegg		S	1	1	4			
+179	179020	Zapfen		S	2	2	5			
+179	179022	Neugüetli		S	1	1	2			
+179	179023	Wolfen		S	2	1	2			
+179	179024	Gerster		S	3	1	4			
+179	179025	Kohlboden		S	2	1	2			
+179	179027	Sülchböl		S	1	2	7			
+179	179028	Ruchwies		S	2	2	4			
+179	179029	Vordertobel		S	3	3	10			
+179	179030	Bauegg		S	2	2	8			
+179	179031	Oberwald		S	2	2	3			
+179	179032	Steinshof		S	7	6	15			
+179	179033	Hinterberg		S	5	4	6			
+179	179034	Sunnebad		S	2	0	6			
+179	179035	Untersternen		S	1	1	2			
+179	179036	Rossweid		S	4	3	7			
+179	179037	Rietwies		S	1	1	2			
+179	179038	Rietli		S	2	2	6			
+179	179039	Steig		S	7	5	11			
+179	179040	Hintere Rossweid		S	4	4	10			
+179	179041	Langfurri		S	2	1	2			
+179	179042	Wies		S	2	2	2			
+179	179043	Ebni		S	2	1	4			
+179	179044	Tiefmoos		S	3	3	11			
+179	179045	Lindenhof		S	1	1	2			
+179	179046	Aeberliswald		S	2	3	10			
+179	179047	Höchstock		S	4	1	1			
+179	179048	Gfell		S	12	14	47			
+179	179049	Gfellacher		S	1	1	3			
+179	179050	Obergfell		S	2	4	9			
+179	179051	Schwendi		S	1	1	2			
+179	179052	Wolfenzädel		S	2	2	3			
+179	179053	Obere Langfurri		S	3	2	3			
+179	179054	Rietrüti		S	3	2	3			
+179	179055	Hintertobel		S	2	1	3			
+179	179056	Untere Bruechegg		S	2	2	6			
+179	179059	Obere Heurüti		S	1	1	2			
+179	179060	Untere Heurüti		S	1	1	3			
+179	179061	Musterplatz		S	1	1	2			
+179	179399	Personen ohne Siedlungs-Nr. 		R	0	0	19			
+180	180001	Weisslingen (Dorf)		S	511	745	1’975			
+180	180002	Schwändi		S	10	10	28			
+180	180003	Tieracher		S	1	9	18			
+180	180004	Vorderzelgli		S	1	1	2			
+180	180005	Dettenried		S	40	40	108			
+180	180006	Hünegg		S	1	1	3			
+180	180007	Dicki		S	1	1	8			
+180	180008	Feld (bei Weisslingen)		S	1	1	2			
+180	180009	Langächer		S	4	2	8			
+180	180010	Maienbüel		S	3	2	7			
+180	180011	Chalcheren		S	1	2	7			
+180	180012	Hänkirain		S	2	1	5			
+180	180013	Lindenberg		S	2	1	3			
+180	180014	Tollen		S	1	1	3			
+180	180015	Feld (bei Neschwil)		S	2	3	9			
+180	180016	Neschwil		S	50	52	141			
+180	180017	Hard		S	2	2	2			
+180	180018	Brauerei		S	1	1	3			
+180	180019	Farzel		S	2	2	7			
+180	180020	Himmelreich		S	1	1	3			
+180	180021	Theilingen		S	71	95	236			
+180	180023	Rebbberg		S	1	1	1			
+180	180024	Lendikon		S	29	28	73			
+180	180025	Leisibüel		S	35	34	75			
+180	180026	Sägel		S	2	2	7			
+180	180027	Froacher		S	1	1	3			
+180	180028	Schwemmrüti		S	1	1	1			
+180	180029	Hagenacher		S	2	1	7			
+180	180030	Moos		S	1	1	2			
+180	180032	Tarain		S	2	2	4			
+180	180399	Personen ohne Siedlungs-Nr. 		R	0	0	76			
+181	181001	Wila (Dorf)		S	369	564	1’387			
+181	181002	Loch		S	7	7	19			
+181	181003	Burg		S	1	1	5			
+181	181004	Espi		S	1	1	2			
+181	181005	Rosenberg		S	4	6	23			
+181	181006	Ghöngg		S	3	4	5			
+181	181007	Wiesental		S	2	2	9			
+181	181008	Sommerau		S	1	2	5			
+181	181009	Boden		S	1	1	2			
+181	181011	Säge		S	4	5	8			
+181	181012	Strick		S	3	4	7			
+181	181013	Jakobsbrunnen		S	8	9	21			
+181	181014	Vorder-Aegetswil		S	5	8	22			
+181	181015	Aegetswil		S	2	3	9			
+181	181016	Scheurerhaus		S	1	1	1			
+181	181017	Hofstetten		S	2	3	8			
+181	181018	Waldweid		S	1	1	2			
+181	181019	Rosengarten		S	2	3	8			
+181	181020	Sengi		S	2	2	6			
+181	181021	Tannau		S	1	1	4			
+181	181022	Talau		S	1	1	4			
+181	181023	Pfaffenberg		S	3	3	9			
+181	181024	Thalgarten		S	1	2	5			
+181	181025	Brenggau		S	2	4	8			
+181	181026	Hinzenberg		S	2	4	9			
+181	181027	Ottenhub		S	5	5	14			
+181	181028	Vorder-Auli		S	2	2	5			
+181	181029	Hinter-Auli		S	2	2	6			
+181	181030	Wilhelmshaus		S	1	1	1			
+181	181031	Sennenhaus		S	1	1	4			
+181	181032	Bogenhaus		S	2	1	5			
+181	181033	Steinen		S	7	8	21			
+181	181034	Au		S	14	17	44			
+181	181035	Girentobel		S	1	2	7			
+181	181036	Vorder-Eich		S	1	1	7			
+181	181037	Schuppis		S	6	7	21			
+181	181038	Hinter-Eich		S	1	2	5			
+181	181039	Rouss		S	1	2	7			
+181	181040	Manzenhub		S	7	7	22			
+181	181041	Lochweidli		S	1	1	4			
+181	181043	Brunnacher		S	1	2	7			
+181	181399	Personen ohne Siedlungs-Nr. 		R	0	0	29			
+182	182001	Wildberg (Dorf)		S	107	124	344			
+182	182003	Neubruch		S	1	1	1			
+182	182004	Drifurri		S	1	1	3			
+182	182005	Campingplatz		S	1	1	4			
+182	182006	Mülau		S	1	1	6			
+182	182007	Tössegg		S	4	8	16			
+182	182008	Schöngut		S	2	1	1			
+182	182009	Ehrikon		S	56	92	234			
+182	182010	Wenk		S	1	2	6			
+182	182011	Staffel		S	1	2	8			
+182	182012	Bühl		S	1	2	9			
+182	182013	Freudenberg		S	3	5	10			
+182	182014	Bläsimühle		S	1	1	2			
+182	182015	Steinland		S	3	3	11			
+182	182016	Untere Luegeten		S	3	3	8			
+182	182017	Obere Luegeten		S	3	1	2			
+182	182018	Ober-Neuhof		S	1	3	9			
+182	182021	Mühlewies		S	1	1	2			
+182	182022	Schalchen		S	41	48	130			
+182	182023	Neuhof		S	4	3	9			
+182	182024	Schöntal		S	3	3	5			
+182	182025	Neuhaus		S	1	1	5			
+182	182026	Sonnenberg		S	2	2	6			
+182	182027	Breite		S	10	9	24			
+182	182028	Frohwies		S	2	2	3			
+182	182031	Langenmatt		S	1	2	6			
+182	182032	Eschenhof		S	1	2	7			
+182	182399	Personen ohne Siedlungs-Nr. 		R	0	0	11			
+191	191001	Stettbach	Quartiere	Q	55	97	231			
+191	191004	Chämmeten		S	4	2	11			
+191	191005	Waldegg		S	2	1	7			
+191	191006	Dübendorf	Quartiere	Q	2’522	9’645	19’882			
+191	191032	Fallmen		S	17	20	57			
+191	191076	Gockhausen	Quartiere	Q	457	588	1’411			
+191	191080	Geeren		S	8	10	25			
+191	191081	Dübelstein		S	7	5	14			
+191	191082	Schlossbreiti		S	2	2	4			
+191	191083	Loren		S	4	5	12			
+191	191084	Wisbach		S	1	1	1			
+191	191085	Hermikon	Schachen	S	1	1	4			
+191	191086	Hermikon	Hermikon-Süd	S	7	6	14			
+191	191087	Hermikon	Hermikon-Nord	S	12	12	36			
+191	191088	Waldishuser		S	1	1	2			
+191	191399	Personen ohne Siedlungs-Nr. 		R	0	0	505			
+192	192001	Egg (Dorf)		S	747	1’657	4’003			
+192	192002	Hinteregg		S	210	447	1’107			
+192	192003	Esslingen		S	320	511	1’203			
+192	192004	Neuhus (bei Hinteregg)		S	19	44	103			
+192	192005	Bonacher		S	2	1	3			
+192	192006	Stifelacher		S	2	3	7			
+192	192007	Eichholz		S	8	9	22			
+192	192008	Stifelwis		S	22	22	70			
+192	192009	Güetli		S	2	2	4			
+192	192010	Neuguet		S	1	1	2			
+192	192011	Ober Halden		S	3	3	85			
+192	192012	Eggbüel		S	2	2	4			
+192	192013	Unter Halden		S	5	5	18			
+192	192015	Rällikon		S	10	10	25			
+192	192016	Iserig		S	1	2	3			
+192	192017	Vorder-Guldenen		S	6	6	18			
+192	192018	Bollerrain		S	4	4	14			
+192	192020	Bächelacher		S	2	2	4			
+192	192022	Grossacher		S	1	1	4			
+192	192023	Maienrain		S	2	3	9			
+192	192024	Breitacher		S	1	1	2			
+192	192025	Hostig		S	3	3	10			
+192	192026	Haslen		S	4	6	14			
+192	192028	Tannacher		S	1	1	2			
+192	192029	Lätten		S	6	6	19			
+192	192030	Lesirain		S	2	3	10			
+192	192031	Rotblatt		S	5	5	18			
+192	192032	Sagenacher		S	3	3	7			
+192	192033	Tüfental		S	1	2	4			
+192	192034	Sandgrueb		S	2	4	6			
+192	192035	Lurwis		S	1	2	4			
+192	192036	Froberg		S	1	3	6			
+192	192037	Ellenwis		S	6	5	12			
+192	192038	Blatten		S	1	2	6			
+192	192039	Oberschaubigen		S	3	2	5			
+192	192040	Schaubigen		S	7	6	13			
+192	192041	Hochwacht		S	1	1	2			
+192	192042	Vorderer-Radrain		S	2	2	3			
+192	192043	Husacher		S	2	1	4			
+192	192044	Zelg		S	2	2	6			
+192	192045	Fischer		S	1	2	3			
+192	192046	Mittlisberg		S	1	1	1			
+192	192047	Inner-Vollikon		S	11	13	33			
+192	192048	Lee		S	21	31	76			
+192	192050	Ämet		S	9	11	33			
+192	192051	Asp		S	4	5	18			
+192	192052	Leihalden		S	4	4	16			
+192	192053	Linden		S	1	3	6			
+192	192054	Leihalde		S	4	4	11			
+192	192055	Im mittleren Ämet		S	5	4	11			
+192	192056	Drittenberg		S	1	2	7			
+192	192057	Im usseren Ämet		S	2	2	7			
+192	192058	Loo		S	5	12	88			
+192	192059	Mülirain		S	1	1	4			
+192	192060	Erzacher		S	1	1	4			
+192	192061	Niederesslingen		S	8	10	25			
+192	192062	Lieburg		S	8	8	18			
+192	192064	Hottental		S	2	2	3			
+192	192065	Lurweid		S	2	3	9			
+192	192066	Rohr		S	6	7	17			
+192	192067	Usser-Vollikon		S	21	22	51			
+192	192069	Buhalden		S	1	1	2			
+192	192071	Sunnenberg		S	5	8	13			
+192	192072	Balmholz		S	1	1	1			
+192	192073	Unterneuhus		S	3	4	7			
+192	192075	Wolfenriet		S	4	4	13			
+192	192076	Sportplatz		S	1	1	4			
+192	192077	Engel		S	2	2	5			
+192	192078	Lindenhof		S	2	3	4			
+192	192399	Personen ohne Siedlungs-Nr. 		R	0	0	104			
+193	193001	Fällanden (Dorf)		S	325	959	2’100			
+193	193002	Morglen		S	2	0	6			
+193	193003	Bollenrüti		S	2	3	11			
+193	193004	Schärler		S	2	2	9			
+193	193005	Zelg		S	3	3	8			
+193	193006	Bruggacher		S	4	4	12			
+193	193007	Zil		S	2	3	8			
+193	193008	Industriestrasse		S	18	18	43			
+193	193009	Geren		S	5	12	23			
+193	193010	Pfaffhausen		S	408	762	1’684			
+193	193012	Mülibächli		S	2	3	11			
+193	193013	Bergstrasse		S	19	24	59			
+193	193014	Stocklen		S	1	1	1			
+193	193015	Neuhaus		S	34	87	237			
+193	193016	Langäri		S	51	68	181			
+193	193018	Untere Halden		S	1	1	1			
+193	193019	Rohr		S	1	1	2			
+193	193020	Benglen		S	314	805	1’937			
+193	193021	Rohrbuck		S	1	1	2			
+193	193022	Schönau		S	2	2	3			
+193	193023	Schüracker		S	1	2	3			
+193	193025	Leibacher		S	1	2	4			
+193	193027	Huebwis		S	1	1	2			
+193	193028	Rohrbach		S	1	1	1			
+193	193399	Personen ohne Siedlungs-Nr. 		R	0	0	75				
+194	194002	Greifensee	Quartiere	Q	519	2’077	5’032			
+194	194020	Freizeitzentrum Migros		S	1	1	2			
+194	194022	Baumgarten-Sandbüel		S	1	0	1			
+194	194023	Furen		S	2	1	1			
+194	194025	Wildsberg		S	42	53	122			
+194	194026	Spitz		S	6	6	13			
+194	194028	Seehalden		S	1	0	2			
+194	194399	Personen ohne Siedlungs-Nr. 		R	0	0	69			
+195	195001	Maur (Dorf)	Quartiere	Q	387	579	1’423			
+195	195002	Halde		S	31	62	122			
+195	195003	Ebmatingen (Dorf)	Quartiere	Q	542	962	2’278			
+195	195013	Wassberg		S	10	10	32			
+195	195014	Bunt		S	32	32	80			
+195	195015	Aesch		S	362	707	1’717			
+195	195016	Eggenberg		S	24	24	76			
+195	195017	Scheuren		S	164	345	707			
+195	195020	Binz		S	263	689	1’601			
+195	195021	Hasenbühl		S	1	1	2			
+195	195022	Stuelen		S	15	18	43			
+195	195023	Wolfgalgen		S	3	3	10			
+195	195024	Aschbach		S	13	5	14			
+195	195026	Süssplätz		S	3	4	7			
+195	195027	Rüti		S	2	2	5			
+195	195028	Looren		S	9	11	21			
+195	195029	Wölfern		S	3	1	3			
+195	195030	Platte		S	8	8	20			
+195	195031	Halden		S	2	2	10			
+195	195032	Feld		S	3	2	3			
+195	195033	Brügglen		S	3	3	8			
+195	195034	Berg		S	6	5	14			
+195	195035	Ifang		S	4	4	9			
+195	195036	Schifflände		S	2	6	8			
+195	195037	Weid (bei Maur)		S	1	1	6			
+195	195038	Kreuzbühl		S	2	2	9			
+195	195040	Fluh		S	2	2	7			
+195	195041	Guldenenstrasse		S	15	15	45			
+195	195043	Sponstürli		S	1	2	5			
+195	195044	Hell		S	2	2	8			
+195	195045	Hintere Wannwis		S	6	7	21			
+195	195046	Bachlen		S	3	2	6			
+195	195047	Steindrüsen		S	4	5	13			
+195	195048	Schibändler		S	1	1	2			
+195	195049	Uessikon		S	22	19	55			
+195	195052	Stiefelacher		S	2	3	5			
+195	195053	Heuberg		S	5	6	13			
+195	195054	Vordere Wannwis		S	7	9	17			
+195	195055	Neugut		S	4	4	17			
+195	195056	Grueben		S	2	2	4			
+195	195057	Letzi		S	5	5	13			
+195	195059	Breite		S	1	1	5			
+195	195061	Dürgli		S	1	1	3			
+195	195063	Ifang		S	1	1	3			
+195	195064	Campingplatz		S	1	0	1			
+195	195399	Personen ohne Siedlungs-Nr. 		R	0	0	206		
+196	196001	Mönchaltorf (Dorf)	Quartiere	Q	594	1’148	2’779			
+196	196011	Wüeri		S	10	11	28			
+196	196012	Breitacher		S	3	3	9			
+196	196013	Lindhof		S	13	18	56			
+196	196014	Seehof		S	1	2	6			
+196	196016	Mattenhof		S	1	1	5			
+196	196017	Lindenmatt		S	2	3	8			
+196	196018	Chislig		S	1	3	7			
+196	196019	Feldhof		S	1	1	1			
+196	196020	Widenriet		S	2	2	4			
+196	196022	Chilchli		S	2	2	4			
+196	196023	Hänsler		S	2	2	7			
+196	196024	Heinacher		S	1	2	4			
+196	196025	Eichhof		S	1	1	4			
+196	196026	Weid		S	3	3	6			
+196	196027	Waldau		S	1	1	3			
+196	196028	Neumüli		S	1	1	2			
+196	196029	Buchholz		S	2	2	5			
+196	196030	Tobel		S	1	2	6			
+196	196032	Heidihof		S	2	2	3			
+196	196033	Wihalden		S	7	23	40			
+196	196034	Himendal		S	2	2	4			
+196	196035	Unterer Brand		S	13	15	36			
+196	196036	Brand		S	1	1	4			
+196	196037	Burg		S	6	6	16			
+196	196038	Oberer Brand		S	4	4	13			
+196	196039	Usser Brand		S	1	1	6			
+196	196040	Obere Burg		S	1	2	5			
+196	196041	Massholdern		S	1	1	6			
+196	196042	Gibel		S	2	3	5			
+196	196043	Heusberg		S	12	14	40			
+196	196044	Heiwinkel		S	1	2	6			
+196	196399	Personen ohne Siedlungs-Nr. 		R	0	0	55			
+197	197001	Schwerzenbach (Dorf)	Quartiere	Q	515	1’821	4’180			
+197	197009	Heidenried		S	3	3	7			
+197	197010	Eichhof		S	2	2	7			
+197	197011	Rütihof		S	1	1	4			
+197	197012	Hanfländer		S	2	2	4			
+197	197013	Eigenacker		S	1	1	1			
+197	197014	Leigrueb		S	1	1	4			
+197	197015	Engelrüti		S	1	1	3			
+197	197016	Holzacker		S	2	2	4			
+197	197399	Personen ohne Siedlungs-Nr. 		R	0	0	42			
+198	198001	Uster (Stadt)	Quartiere	Q	3’604	10’213	23’279			
+198	198016	Freudwil		S	40	21	73			
+198	198018	Grossriet		S	4	3	10			
+198	198020	Nänikon	Quartiere	Q	294	626	1’560			
+198	198026	Tämbrig		S	6	1	1			
+198	198027	Tumiger		S	5	18	27			
+198	198028	Bösch		S	5	4	12			
+198	198029	Glattenried		S	2	1	2			
+198	198030	Werrikon		S	27	40	95			
+198	198032	Winikon		S	9	15	44			
+198	198033	Gutschür		S	1	1	3			
+198	198034	Mühleholz		S	1	1	2			
+198	198035	Wermatswil		S	262	286	774			
+198	198040	Steinbruch (bei Werrikon)		S	3	3	5			
+198	198048	Seefeld		S	1	2	3			
+198	198049	Zelg		S	1	1	2			
+198	198053	Spinnerei Trümpler		S	1	4	8			
+198	198055	Hütten		S	3	2	3			
+198	198056	Riedikon		S	109	207	516			
+198	198057	Hämmigächer		S	2	3	37			
+198	198060	Sunnenberg		S	1	1	4			
+198	198062	Verenenrain		S	1	1	3			
+198	198063	Neufuhr		S	4	3	7			
+198	198065	In der Hub		S	2	1	1			
+198	198066	Landgricht		S	2	1	2			
+198	198068	Kies		S	4	2	6			
+198	198072	Eicheracker		S	8	4	14			
+198	198074	Reiti		S	1	1	2			
+198	198076	Kluszelg		S	2	1	1			
+198	198078	Rotenrain		S	1	2	5			
+198	198080	Sulzbach		S	115	68	163			
+198	198081	Spitzacker		S	3	2	6			
+198	198082	Trimuelen		S	2	2	7			
+198	198086	Buechholz		S	3	3	7			
+198	198399	Personen ohne Siedlungs-Nr. 		R	0	0	1’887			
+199	199001	Volketswil	Volketswil (Dorf)	S	580	1’134	2’723			
+199	199002	Kindhausen	Bietenholz	S	1	1	5			
+199	199003	Kindhausen	Kindhausen (Dorf)	S	309	408	1’107			
+199	199006	Kindhausen	Gärtnerei Leimgruber	S	2	2	4			
+199	199007	Volketswil	Langacher	S	2	3	10			
+199	199008	Hegnau	Schützenstr./Talmatt	S	1	0	10			
+199	199009	Volketswil	Rüti	S	1	2	6			
+199	199010	Volketswil	Sunnehalde	S	1	2	5			
+199	199011	Volketswil	Neuhof	S	2	1	2			
+199	199012	Hegnau	Erdbeerirain	S	1	1	4			
+199	199013	Volketswil	Rütihof	S	1	1	5			
+199	199014	Volketswil	Brugglen	S	2	3	9			
+199	199015	Hegnau	Quartiere	Q	374	2’040	4’895			
+199	199016	Volketswil	Zelglihof	S	1	1	4			
+199	199017	Hegnau	Gfenn	S	10	9	18			
+199	199018	Hegnau	Oetenbüel	S	15	31	101			
+199	199019	Gutenswil	Waldhof	S	1	2	5			
+199	199022	Hegnau	Maiacher	S	10	54	116			
+199	199023	Gutenswil	Sunnehof	S	1	1	2			
+199	199025	Gutenswil	Aebnet	S	1	1	6			
+199	199026	Hegnau	Dammboden-Grindel	S	391	1’256	2’817			
+199	199028	Gutenswil	Neurüti	S	1	2	6			
+199	199029	Gutenswil	Gutenswil	S	303	482	1’188			
+199	199031	Gutenswil	Pfäffikerstrasse	S	3	6	15			
+199	199037	Zimikon	Chalberweidli	S	5	5	12			
+199	199038	Zimikon	Zimikon (Dorf)	S	37	75	194			
+199	199039	Zimikon	Industriegebiet	S	6	7	12			
+199	199040	Zimikon	Pumpwerk	S	1	1	2			
+199	199041	Gutenswil	Bröchli	S	1	2	3			
+199	199042	Zimikon	In der Höh	S	4	21	51			
+199	199043	Zimikon	Rütiwies	S	39	251	518			
+199	199399	Personen ohne Siedlungs-Nr. 		R	0	0	215			
+200	200001	Wangen		S	490	809	2’015			
+200	200004	Brüttisellen (Dorf)		S	517	1’514	3’697			
+200	200005	Wärterhaus SBB		S	1	1	4			
+200	200006	Halde		S	4	6	12			
+200	200007	Hinter-Rüti		S	2	3	10			
+200	200008	Ried		S	1	2	6			
+200	200009	Altwiesenstrasse		S	5	6	20			
+200	200010	Weidli		S	4	8	15			
+200	200011	Rütihof		S	3	3	9			
+200	200012	Birch		S	2	2	6			
+200	200013	Flugplatz		S	1	1	2			
+200	200014	Roswies		S	10	13	28			
+200	200015	Steigliächer		S	1	2	7			
+200	200017	Früeächer		S	1	1	4			
+200	200018	Öniken		S	1	1	5			
+200	200019	Stiegenhof		S	1	1	5			
+200	200399	Personen ohne Siedlungs-Nr. 		R	0	0	133			
+211	211001	Altikon (Dorf)	Quartiere	Q	134	168	447			
+211	211002	Talbach		S	1	1	2			
+211	211003	Steinighof		S	1	1	5			
+211	211004	Thurhof		S	1	1	6			
+211	211005	Neufeld		S	1	1	2			
+211	211006	Rütihof		S	1	1	3			
+211	211007	Gillhof		S	1	1	4			
+211	211008	Bühlhüsli		S	1	1	3			
+211	211009	Schneit		S	3	3	10			
+211	211011	Mühle		S	2	4	5			
+211	211012	Feldi		S	9	10	38			
+211	211013	Forenhof		S	1	1	2			
+211	211014	Weid		S	1	2	5			
+211	211016	Berg		S	3	4	9			
+211	211018	Binz		S	1	1	1			
+211	211020	Kellerhöfli		S	2	2	6			
+211	211022	Weierwies		S	1	1	6			
+211	211023	Unterherten		S	11	11	29			
+211	211024	Oberherten		S	7	6	15			
+211	211025	Guldital		S	1	1	2			
+211	211399	Personen ohne Siedlungs-Nr. 		R	0	0	13			
+212	212001	Bertschikon		S	26	31	104			
+212	212002	Buechli		S	1	1	3			
+212	212003	Kefikon (westl. Teil)		S	10	14	52			
+212	212004	Wagenstoss		S	12	14	43			
+212	212005	Haselhof		S	1	1	6			
+212	212006	Neuhof		S	1	1	4			
+212	212007	Lerchenhof		S	1	1	3			
+212	212010	Pünt		S	2	2	3			
+212	212011	Hofacker		S	54	61	193			
+212	212012	Gundetswil		S	28	34	90			
+212	212015	Usserbreiten		S	36	37	110			
+212	212016	Heligsbüel		S	2	3	5			
+212	212017	Grundstein		S	1	1	1			
+212	212018	Eigensinn		S	1	1	2			
+212	212020	Hellen		S	3	3	8			
+212	212022	Meisberg		S	8	9	22			
+212	212023	Büel (bei Gundetswil)		S	1	1	3			
+212	212024	Haldenhof		S	1	1	2			
+212	212025	Waldhof		S	1	1	4			
+212	212026	Weidhof (bei Bertschikon)		S	1	1	5			
+212	212027	Zelgli		S	1	2	7			
+212	212028	Liebensberg		S	16	21	60			
+212	212029	Weidhof (bei Liebensberg)		S	1	1	2			
+212	212033	Ober-Bertschikon		S	11	16	31			
+212	212034	Büel (bei Gündlikon)		S	1	1	5			
+212	212035	Talwieshof		S	1	1	5			
+212	212036	Stegen		S	6	7	21			
+212	212037	Sammelsgrüt		S	1	2	7			
+212	212038	Bewangen		S	5	4	9			
+212	212039	Gündlikon		S	17	19	72			
+212	212043	Zünikon		S	32	32	81			
+212	212045	Im Peter		S	1	2	3			
+212	212399	Personen ohne Siedlungs-Nr. 		R	0	0	19			
+213	213001	Brütten (Dorf)		S	425	648	1’556			
+213	213002	Ober-Eich		S	1	1	1			
+213	213003	Unter-Eich		S	5	5	16			
+213	213004	Birch		S	2	3	5			
+213	213005	Strubikon		S	11	18	43			
+213	213006	Chrumbüel		S	1	2	3			
+213	213007	Eichhölzli		S	1	2	8			
+213	213008	Geretwinkel		S	1	1	6			
+213	213009	Forbüel		S	1	2	6			
+213	213010	Chapf		S	1	1	4			
+213	213011	Sigiloch		S	2	2	6			
+213	213012	Huebacher		S	1	1	3			
+213	213013	Buchsächer		S	1	1	3			
+213	213014	Blätzwisen		S	2	1	3			
+213	213015	Buechli		S	2	2	7			
+213	213016	Buechmes		S	3	4	8			
+213	213017	Ifang		S	1	1	4			
+213	213018	Moos		S	2	4	13			
+213	213019	Steighof		S	3	2	3			
+213	213020	Steigacher		S	1	1	5			
+213	213021	Eichacker		S	1	1	6			
+213	213022	Feldenmoos		S	1	2	6			
+213	213023	Höhi		S	1	2	7			
+213	213399	Personen ohne Siedlungs-Nr. 		R	0	0	52			
+214	214001	Dägerlen (Dorf)		S	17	20	55			
+214	214002	Wil		S	1	2	4			
+214	214003	Herti		S	1	1	3			
+214	214004	Oberwil		S	72	82	243			
+214	214005	Eichhof		S	1	2	5			
+214	214006	Rütibühl		S	1	2	6			
+214	214007	Lindenhof		S	1	3	9			
+214	214008	Breiten		S	1	1	1			
+214	214009	Berg		S	43	53	179			
+214	214010	Weiher		S	1	1	2			
+214	214011	Muggen		S	1	1	6			
+214	214012	Lagerhaus		S	1	2	7			
+214	214013	Rutschwil		S	63	72	194			
+214	214014	Wisler		S	1	1	2			
+214	214015	Bänk		S	38	40	111			
+214	214016	Bodenacker		S	1	2	3			
+214	214017	Altwingert		S	1	2	7			
+214	214399	Personen ohne Siedlungs-Nr. 		R	0	0	22			
+215	215001	Dättlikon (Dorf)		S	127	154	414			
+215	215003	Im Boden		S	2	2	3			
+215	215004	Eule		S	1	1	2			
+215	215005	Vorder-Kalkhof		S	1	1	8			
+215	215006	Berghof		S	3	4	10			
+215	215007	Steindler		S	1	1	4			
+215	215009	Weinberg		S	1	3	6			
+215	215010	Blumetshalde		S	20	23	56			
+215	215012	Hinterer Kalkhof		S	1	1	5			
+215	215013	Haldenrain		S	1	1	2			
+215	215399	Personen ohne Siedlungs-Nr. 		R	0	0	19			
+216	216001	Ausser-Dinhard		S	163	206	522			
+216	216003	Längerenrüti		S	12	12	25			
+216	216004	Eschlikon		S	39	43	103			
+216	216005	Eichwisen		S	1	2	4			
+216	216006	Sunnenhof		S	1	1	1			
+216	216007	Vorder-Grüt		S	26	34	105			
+216	216008	Buck		S	1	2	10			
+216	216009	Giselstuden		S	2	2	8			
+216	216010	Welsikon		S	119	129	357			
+216	216011	Neuwisen		S	3	5	17			
+216	216012	Ziegelhof		S	2	2	5			
+216	216013	Kirch-Dinhard		S	26	30	73			
+216	216014	Forrenhof		S	1	1	7			
+216	216015	Weidhof		S	1	2	8			
+216	216016	Müli		S	3	2	7			
+216	216017	Solwisen		S	1	1	3			
+216	216018	Tannenhof		S	1	1	1			
+216	216019	Eichhof		S	2	2	6			
+216	216020	Rietmüli		S	5	6	11			
+216	216399	Personen ohne Siedlungs-Nr. 		R	0	0	28			
+217	217001	Elgg	Quarteire	Q	766	1’349	3’282			
+217	217003	Sonnenhof		S	2	2	6			
+217	217005	Wiesengrund		S	1	1	3			
+217	217006	Birmenstal		S	2	2	5			
+217	217008	Freihof		S	2	2	4			
+217	217009	Berghof		S	1	1	4			
+217	217010	Giesental		S	3	4	11			
+217	217011	Aathal		S	1	1	2			
+217	217012	Büchlerhof		S	1	1	2			
+217	217013	Römerhof		S	1	1	2			
+217	217014	Baumgarten		S	1	2	6			
+217	217015	Ettenbühl		S	1	2	6			
+217	217016	Feldheim		S	1	1	2			
+217	217017	Landihof		S	1	3	6			
+217	217018	Aadorferfeld		S	7	13	35			
+217	217019	Hohbühl		S	3	5	14			
+217	217020	Bruggwingert		S	1	1	3			
+217	217021	Rehweid		S	1	2	7			
+217	217022	Haggenbergstrasse		S	4	5	9			
+217	217023	Oberhof		S	4	5	12			
+217	217024	Humberg		S	1	1	1			
+217	217025	Haggenberg		S	1	2	5			
+217	217026	Fahrenhof		S	2	2	6			
+217	217027	Riethof		S	1	2	4			
+217	217028	Kellerhof		S	1	1	1			
+217	217029	Schloss Elgg		S	2	1	2			
+217	217030	Horben		S	2	2	3			
+217	217031	Burghof		S	3	4	11			
+217	217032	Blankenmoos		S	1	1	6			
+217	217033	Sennhof		S	5	7	17			
+217	217034	Guwilmühle		S	1	0	1			
+217	217036	Rappenstein		S	1	2	12			
+217	217037	Heurüti		S	4	5	14			
+217	217038	Chatzenacker		S	1	2	8			
+217	217399	Personen ohne Siedlungs-Nr. 		R	0	0	81			
+218	218001	Ellikon (Dorf)		S	125	181	477			
+218	218002	Untergris		S	2	2	7			
+218	218003	Thuracher		S	2	3	4			
+218	218004	Langbreiten		S	2	3	12			
+218	218005	Eichbrücke		S	1	1	1			
+218	218006	Gärtnerei		S	1	12	40			
+218	218007	Mattenhof		S	2	3	10			
+218	218009	Müracker		S	1	1	1			
+218	218010	Eichi		S	1	2	5			
+218	218011	Räuchler		S	2	4	11			
+218	218012	Wald		S	6	7	20			
+218	218013	Loos		S	1	1	5			
+218	218014	Dunaspi		S	39	41	102			
+218	218015	Langfurri		S	1	2	6			
+218	218016	Eigi		S	1	1	1			
+218	218017	Schillrüti		S	1	1	6			
+218	218018	Heuler		S	1	2	3			
+218	218019	Grundstein		S	1	2	3			
+218	218020	Chrümiswis		S	1	2	8			
+218	218399	Personen ohne Siedlungs-Nr. 		R	0	0	20			
+219	219001	Elsau-Räterschen	Quartiere	Q	360	550	1’395			
+219	219005	Rümikon		S	230	266	675			
+219	219006	Infang		S	1	2	6			
+219	219007	Schluck		S	1	1	1			
+219	219008	Sunnenberg		S	1	1	2			
+219	219009	Oberelsau		S	1	2	8			
+219	219010	Summerhalden		S	1	2	8			
+219	219011	Schnasberg		S	13	16	28			
+219	219012	Fulau		S	7	10	26			
+219	219016	Frohberg		S	2	1	2			
+219	219018	Blumenau		S	1	1	2			
+219	219021	Schottikon		S	205	240	658			
+219	219022	Bettlihof		S	1	1	1			
+219	219023	Neuguet		S	3	2	4			
+219	219024	Tolhusen		S	5	6	22			
+219	219399	Personen ohne Siedlungs-Nr. 		R	0	0	62			
+220	220001	Hagenbuch (Dorf)		S	196	298	757			
+220	220002	Flachrüti		S	1	1	7			
+220	220004	Chrüzacker		S	1	3	7			
+220	220005	Kappel		S	11	12	33			
+220	220006	Oberschneit		S	25	36	90			
+220	220011	Mittelschneit		S	7	7	17			
+220	220014	Unterschneit		S	8	7	27			
+220	220015	Schneitberg		S	5	5	19			
+220	220016	Egghof		S	9	9	24			
+220	220018	Hagenstal		S	14	11	41			
+220	220020	Aathal		S	1	1	2			
+220	220399	Personen ohne Siedlungs-Nr. 		R	0	0	61			
+221	221001	Hettlingen (Dorf)	Quartiere	Q	596	853	2’221			
+221	221005	Obere Steigen		S	2	1	3			
+221	221006	Seglen		S	1	1	3			
+221	221007	Kohlgrub		S	2	1	8			
+221	221008	Küchliberg		S	2	1	2			
+221	221009	Lohhof		S	1	1	3			
+221	221010	Guggenbühl		S	1	1	2			
+221	221011	Uf Steigen		S	1	1	6			
+221	221012	Vorloch		S	1	2	6			
+221	221013	Burgstel		S	1	2	5			
+221	221014	Eichmühle		S	2	2	12			
+221	221015	Sonnenberg		S	1	1	2			
+221	221016	Worbig		S	2	2	4			
+221	221017	Brüggli		S	1	1	3			
+221	221018	Freudenhalden		S	1	1	4			
+221	221019	Mittelfeld		S	1	1	4			
+221	221020	Halden		S	2	2	6			
+221	221021	Rebhof		S	1	1	3			
+221	221022	Ruchriet		S	3	3	6			
+221	221023	Riet		S	1	1	4			
+221	221024	Holzwis		S	1	2	6			
+221	221399	Personen ohne Siedlungs-Nr. 		R	0	0	70		
+222	222001	Hofstetten (Dorf)		S	18	21	52			
+222	222002	Dickbuch		S	43	47	128			
+222	222003	Wiesental		S	3	3	5			
+222	222004	Morgental		S	1	1	5			
+222	222005	Jakobstal		S	5	7	21			
+222	222006	Sonnental		S	2	2	7			
+222	222007	Neubruch		S	1	1	6			
+222	222009	Wenzikon		S	12	14	42			
+222	222010	Steig		S	5	7	20			
+222	222011	Scheunberg		S	4	5	12			
+222	222012	Stoss		S	1	1	1			
+222	222013	Geretswil		S	5	5	13			
+222	222014	Tiefenstein		S	5	6	21			
+222	222015	Ristall		S	2	2	4			
+222	222016	Unter-Hüttstall		S	1	2	3			
+222	222017	Huggenberg		S	13	19	49			
+222	222018	Hüttstall		S	1	0	1			
+222	222019	Buchenhof		S	1	2	7			
+222	222020	Weidhof		S	2	1	5			
+222	222021	Bodenacker		S	1	1	5			
+222	222399	Personen ohne Siedlungs-Nr. 		R	0	0	12			
+223	223001	Neftenbach	Dorf Neftenbach	S	730	1’218	3’171			
+223	223010	Breiten		S	2	3	6			
+223	223011	Im Rüetschen		S	1	1	6			
+223	223012	Schänkbrunnen		S	1	2	7			
+223	223013	Letzbach		S	1	1	7			
+223	223014	Geissacker		S	1	1	2			
+223	223015	Dorf Hünikon		S	51	62	153			
+223	223016	Andliker		S	1	1	4			
+223	223017	Buck		S	2	1	1			
+223	223018	Asp		S	1	2	7			
+223	223019	Schili		S	1	1	4			
+223	223020	Leigenrüti		S	1	2	6			
+223	223021	Oberwingert		S	1	2	3			
+223	223022	Wingert		S	1	2	6			
+223	223023	Schäppi		S	1	1	4			
+223	223024	Himmerich		S	1	1	4			
+223	223025	Dorf Aesch		S	74	149	341			
+223	223026	Heerenweg		S	3	3	5			
+223	223027	Wüerlen		S	1	1	5			
+223	223028	Lantwis		S	1	2	6			
+223	223029	Burg		S	1	1	2			
+223	223030	Kehlhof		S	6	8	18			
+223	223031	Hinterhueb		S	7	8	16			
+223	223032	Mittlerhueb		S	4	6	19			
+223	223033	Oedenhof		S	4	4	8			
+223	223034	Steig		S	1	1	2			
+223	223035	Hüdel		S	1	1	1			
+223	223036	Oschwang		S	1	2	6			
+223	223037	Hofstetten		S	1	1	2			
+223	223039	Dorf Riet		S	36	49	130			
+223	223040	Oberfeld		S	1	1	7			
+223	223041	Juch		S	1	2	5			
+223	223042	Neuwingert		S	5	5	12			
+223	223043	Unterhueb		S	1	2	2			
+223	223045	Wartguet		S	7	11	26			
+223	223047	Rosacker		S	1	1	1			
+223	223048	Franken		S	1	1	2			
+223	223050	Ziegelhütten		S	8	9	32			
+223	223051	Tössallmänt		S	85	138	349			
+223	223052	Pünt		S	1	1	1			
+223	223054	Fuchsbüel		S	1	2	4			
+223	223055	Bruppach		S	2	2	3			
+223	223399	Personen ohne Siedlungs-Nr. 		R	0	0	108			
+224	224001	Pfungen (Dorf)		S	532	1’007	2’369			
+224	224002	Bruni		S	4	4	16			
+224	224004	Rissorta		S	1	2	6			
+224	224005	Waldi		S	1	1	7			
+224	224007	Stubenwis		S	2	2	7			
+224	224008	Berghof		S	1	1	1			
+224	224009	Salhof		S	2	2	5			
+224	224010	Rumstal		S	3	4	14			
+224	224399	Personen ohne Siedlungs-Nr. 		R	0	0	61			
+225	225001	Rickenbach (Dorf)	Quartiere	Q	203	267	705			
+225	225004	Sulz	Quartiere	Q	431	523	1’244			
+225	225012	Hinter-Grüt		S	7	11	26			
+225	225013	Greisler		S	1	1	6			
+225	225014	Rubi		S	1	2	8			
+225	225015	Mottli		S	2	3	8			
+225	225016	Hofwiesen		S	1	2	4			
+225	225017	Römerhof		S	2	2	8			
+225	225399	Personen ohne Siedlungs-Nr. 		R	0	0	18			
+226	226001	Berg Waltenstein		S	14	17	48			
+226	226002	Heidertal		S	3	3	8			
+226	226003	Im Schäfer		S	1	1	7			
+226	226004	Jakobstal		S	1	1	3			
+226	226005	Johannestal		S	2	2	8			
+226	226006	Nussberg		S	26	32	82			
+226	226007	Oberschlatt		S	35	41	105			
+226	226008	Rüteren		S	3	4	11			
+226	226009	Schwändi		S	2	1	4			
+226	226011	Strick		S	1	2	3			
+226	226013	Unterschlatt		S	62	60	174			
+226	226014	Waltenstein		S	32	41	118			
+226	226015	Schüracher Waltenstein		S	11	12	27			
+226	226399	Personen ohne Siedlungs-Nr. 		R	0	0	12			
+227	227001	Seuzach (Dorf)	Quartiere	Q	1’176	2’215	5’388			
+227	227002	Heimenstein		S	5	4	12			
+227	227003	Baumschuel		S	2	3	10			
+227	227004	Hummel		S	1	1	2			
+227	227005	Riet		S	3	4	18			
+227	227006	Wiesental		S	7	20	42			
+227	227007	Rainbuck		S	3	6	14			
+227	227008	Unter-Ohringen		S	37	50	140			
+227	227009	Rossacker		S	1	1	2			
+227	227010	Ober-Ohringen		S	232	286	700			
+227	227011	Asp-Mettlen		S	12	15	32			
+227	227012	Rüti		S	1	1	1			
+227	227014	Steinbüel		S	3	3	5			
+227	227015	Eichbüel		S	8	9	23			
+227	227016	Forrenberg		S	10	9	29			
+227	227018	Habermark		S	3	4	7			
+227	227019	Schlingg		S	1	2	6			
+227	227020	Chüeweg		S	1	1	7			
+227	227026	Brunnenwis		S	2	4	7			
+227	227028	Bahnwärterhaus		S	1	1	3			
+227	227399	Personen ohne Siedlungs-Nr. 		R	0	0	110			
+228	228001	Turbenthal (Dorf)		S	648	1’159	3’109			
+228	228002	Rüetschberg		S	1	1	2			
+228	228003	Seelmatten		S	27	33	87			
+228	228004	Girenbad		S	2	6	13			
+228	228005	Neugrüt		S	2	3	6			
+228	228006	Schnurberg		S	1	1	6			
+228	228007	Unter-Spitzwies		S	3	3	9			
+228	228008	Berberg		S	1	1	4			
+228	228009	Ramsberg		S	6	6	20			
+228	228011	Neubrunn		S	28	46	123			
+228	228015	Rossweid		S	2	2	8			
+228	228016	Oberhofen		S	41	45	119			
+228	228017	Lehrüti		S	1	1	4			
+228	228018	Schürli		S	3	3	6			
+228	228019	Rengerswil		S	3	2	8			
+228	228020	Ämmerwies		S	1	1	5			
+228	228021	Ebnet		S	1	1	4			
+228	228022	Unter-Schreizen		S	1	1	4			
+228	228025	Sack		S	1	1	3			
+228	228026	Breitenlandenberg		S	2	1	5			
+228	228027	Chümberg		S	1	1	6			
+228	228028	Ober-Schreizen		S	1	1	4			
+228	228029	Sitzberg		S	12	11	28			
+228	228030	Bühl		S	6	5	17			
+228	228031	Hofstetten		S	1	1	3			
+228	228032	Ruppen		S	4	3	9			
+228	228033	Berg		S	7	11	30			
+228	228034	Ober-Spitzwies		S	3	3	7			
+228	228035	Schochen		S	1	1	2			
+228	228036	Schmidrüti		S	13	12	37			
+228	228037	Hinter-Schmidrüti		S	1	3	7			
+228	228038	Chäfer		S	5	8	26			
+228	228039	Fräkmünd		S	3	3	6			
+228	228040	Tablat		S	29	30	89			
+228	228041	Gosswil		S	9	8	18			
+228	228042	Chellersacher		S	4	4	10			
+228	228043	Kapell		S	1	1	2			
+228	228044	Chalchegg		S	17	19	63			
+228	228045	Truben		S	2	3	7			
+228	228046	Weid		S	1	2	5			
+228	228047	Furrershus		S	2	2	5			
+228	228048	Zelgli		S	1	1	2			
+228	228049	Wilden		S	1	2	5			
+228	228050	Ger		S	5	8	17			
+228	228052	Krinnensberg		S	2	1	3			
+228	228399	Personen ohne Siedlungs-Nr. 		R	0	0	138			
+229	229001	Wiesendangen	Quartiere	Q	1’020	1’486	3’671			
+229	229009	Menzengrüt		S	18	21	57			
+229	229010	Rütihof		S	1	1	4			
+229	229011	Im Giger		S	1	1	6			
+229	229012	Attikon		S	33	40	89			
+229	229013	Sonnenhof		S	1	1	4			
+229	229014	Hinteregg		S	3	3	12			
+229	229015	Wallikon		S	4	5	17			
+229	229016	Bettli		S	1	1	5			
+229	229017	Balzenmoos		S	1	1	2			
+229	229018	Kreuzstrasse		S	2	3	7			
+229	229019	Rain		S	1	1	2			
+229	229020	Berghof		S	1	2	8			
+229	229021	Rebhof		S	1	2	6			
+229	229022	Alte Frauenfelderstrasse		S	2	5	15			
+229	229023	Herrenreben		S	1	1	2			
+229	229024	Tellen		S	1	1	3			
+229	229025	Buch		S	13	16	46			
+229	229026	Riethof		S	1	1	3			
+229	229027	Gloggenwiesen		S	1	1	2			
+229	229028	Stadtweg		S	1	1	1			
+229	229029	Mattenhof		S	1	1	3			
+229	229030	Hohrain		S	1	1	5			
+229	229031	Herrenacker		S	1	1	3			
+229	229032	Brühl		S	1	2	4			
+229	229033	Bahnhüsli		S	1	1	1			
+229	229034	Orbühl		S	1	1	4			
+229	229399	Personen ohne Siedlungs-Nr. 		R	0	0	47			
+230	230730	Winterthur (Stadt)	Hauptsiedlung	Q	12’911	38’608	83’075			
+230	230101	Stadt Winterthur (Kreis 1)	Waldhof	S	2	3	22			
+230	230102	Stadt Winterthur (Kreis 1)	Bruderhaus	S	1	1	2			
+230	230104	Stadt Winterthur (Kreis 1)	Eichliacker/Försterhaus	S	2	3	10			
+230	230201	Oberwinterthur (Kreis 2)	Weieracker	S	1	2	6			
+230	230202	Oberwinterthur (Kreis 2)	Mörsburg	S	4	4	13			
+230	230203	Oberwinterthur (Kreis 2)	Grundhof	S	15	25	66			
+230	230204	Oberwinterthur (Kreis 2)	Breitäcker	S	1	1	6			
+230	230205	Oberwinterthur (Kreis 2)	Reutlingen	S	95	134	357			
+230	230206	Oberwinterthur (Kreis 2)	Untere Breite	S	1	2	5			
+230	230207	Oberwinterthur (Kreis 2)	Zelgli	S	2	2	4			
+230	230208	Oberwinterthur (Kreis 2)	Trottli	S	1	1	5			
+230	230209	Oberwinterthur (Kreis 2)	Gussli	S	1	1	5			
+230	230211	Oberwinterthur (Kreis 2)	Loo	S	5	6	13			
+230	230212	Oberwinterthur (Kreis 2)	Bahnwärterhaus	S	1	1	4			
+230	230213	Oberwinterthur (Kreis 2)	Rütenenhof	S	1	1	6			
+230	230214	Oberwinterthur (Kreis 2)	Ruchegg	S	1	1	2			
+230	230215	Oberwinterthur (Kreis 2)	Freihof	S	2	2	6			
+230	230216	Oberwinterthur (Kreis 2)	Binzhof	S	2	3	10			
+230	230217	Oberwinterthur (Kreis 2)	Essigfabrik	S	6	7	17			
+230	230218	Oberwinterthur (Kreis 2)	Birchhof	S	1	2	6			
+230	230219	Oberwinterthur (Kreis 2)	Brunnenwiese	S	2	3	5			
+230	230221	Oberwinterthur (Kreis 2)	Ober Ricketwil	S	9	10	22			
+230	230222	Oberwinterthur (Kreis 2)	Heimenrüti	S	1	1	1			
+230	230223	Oberwinterthur (Kreis 2)	Maas	S	3	3	8			
+230	230225	Oberwinterthur (Kreis 2)	Weingarten	S	3	3	10			
+230	230226	Oberwinterthur (Kreis 2)	Unter Ricketwil	S	10	15	46			
+230	230227	Oberwinterthur (Kreis 2)	Stadel (Dorf)	S	59	92	206			
+230	230301	Seen (Kreis 3)	Waldegg (östlicher Teil)	S	8	9	26			
+230	230302	Seen (Kreis 3)	Floren	S	2	2	7			
+230	230303	Seen (Kreis 3)	Chölberg	S	2	2	6			
+230	230304	Seen (Kreis 3)	Paradis	S	1	1	4			
+230	230305	Seen (Kreis 3)	Boll	S	3	4	9			
+230	230306	Seen (Kreis 3)	Ganzenbühl	S	1	2	6			
+230	230307	Seen (Kreis 3)	Ziegelhütte	S	2	4	12			
+230	230308	Seen (Kreis 3)	Felsenhof	S	1	1	5			
+230	230309	Seen (Kreis 3)	Gotzenwil	S	115	128	419			
+230	230311	Seen (Kreis 3)	Weierhöhe	S	35	34	91			
+230	230312	Seen (Kreis 3)	Weier	S	16	22	47			
+230	230313	Seen (Kreis 3)	Binzenloo	S	1	1	6			
+230	230314	Seen (Kreis 3)	Eidberg	S	44	44	129			
+230	230316	Seen (Kreis 3)	Mulchlingen	S	10	9	29			
+230	230317	Seen (Kreis 3)	Sennhütte	S	1	1	2			
+230	230318	Seen (Kreis 3)	Iberg	S	180	190	548			
+230	230319	Seen (Kreis 3)	Thaa	S	9	11	27			
+230	230321	Seen (Kreis 3)	Sennhof	S	129	327	910			
+230	230322	Seen (Kreis 3)	Grinen	S	1	1	9			
+230	230402	Töss (Kreis 4)	Mittel-Dättnau	S	7	9	16			
+230	230405	Töss (Kreis 4)	Vorder-Dättnau	S	426	551	1’476			
+230	230406	Töss (Kreis 4)	Steigholz	S	24	292	745			
+230	230407	Töss (Kreis 4)	Schützenhaus	S	6	7	24			
+230	230409	Töss (Kreis 4)	Meisholz	S	1	0	1			
+230	230411	Töss (Kreis 4)	Rossberg	S	4	8	22			
+230	230501	Veltheim (Kreis 5)	Tierheim	S	1	1	1			
+230	230601	Wülflingen (Kreis 6)	Unter Radhof	S	8	7	25			
+230	230602	Wülflingen (Kreis 6)	Ober Radhof	S	5	7	16			
+230	230603	Wülflingen (Kreis 6)	Hirschengut	S	1	2	7			
+230	230604	Wülflingen (Kreis 6)	Insel	S	4	4	15			
+230	230605	Wülflingen (Kreis 6)	Taggenberg	S	4	6	21			
+230	230606	Wülflingen (Kreis 6)	Bruni	S	1	1	2			
+230	230607	Wülflingen (Kreis 6)	Hard	S	19	42	124			
+230	230608	Wülflingen (Kreis 6)	Meienried	S	63	75	184			
+230	230611	Wülflingen (Kreis 6)	Sporrer	S	1	2	3			
+230	230612	Wülflingen (Kreis 6)	Lerchenbühl	S	2	2	6			
+230	230613	Wülflingen (Kreis 6)	Rosengarten	S	5	5	15			
+230	230614	Wülflingen (Kreis 6)	Landwirtschaftliche Schule	S	3	2	10			
+230	230615	Wülflingen (Kreis 6)	Vorder-Rumstal	S	6	7	14			
+230	230617	Wülflingen (Kreis 6)	Stöcklirüti	S	2	2	4			
+230	230618	Wülflingen (Kreis 6)	Weiertal	S	11	13	39			
+230	230619	Wülflingen (Kreis 6)	Schweikhof	S	5	5	13			
+230	230622	Wülflingen (Kreis 6)	Wieshof	S	8	11	25			
+230	230623	Wülflingen (Kreis 6)	Guggenbühl	S	2	2	4			
+230	230624	Wülflingen (Kreis 6)	Tössrain	S	5	5	7			
+230	230625	Wülflingen (Kreis 6)	Aeschau	S	3	3	6			
+230	230626	Wülflingen (Kreis 6)	Hinter Furt	S	2	2	8			
+230	230627	Wülflingen (Kreis 6)	Vorder Furt	S	1	1	6			
+230	230628	Wülflingen (Kreis 6)	Neuburg (Dorf)	S	19	20	59			
+230	230631	Wülflingen (Kreis 6)	Lantig	S	10	13	34			
+230	230632	Wülflingen (Kreis 6)	Hüslihof	S	1	1	3			
+230	230701	Mattenbach (Kreis 7)	Waldegg (westlicher Teil)	S	2	4	13			
+230	230702	Mattenbach (Kreis 7)	Eschenberg	S	2	2	8			
+230	230899	Personen/Gebäude ohne Siedlungs-Nr.		R	898	399	1’297			
+231	231001	Zell (Dorf)		S	99	111	289			
+231	231002	Kollbrunn	Quartiere	Q	438	835	1’848			
+231	231009	Rikon	Quartiere	Q	264	423	1’120			
+231	231012	Nussbergstrasse		S	2	1	5			
+231	231013	Türliacker		S	3	3	8			
+231	231015	Zehntenfrei		S	1	1	5			
+231	231016	Ober-Langenhard		S	33	33	104			
+231	231017	Wolfsbrunnen		S	3	3	8			
+231	231018	Wissen		S	1	1	2			
+231	231019	Röhrli		S	1	1	1			
+231	231020	Garten		S	4	4	15			
+231	231021	Schoren		S	3	3	12			
+231	231022	Obere Rutzen		S	4	4	11			
+231	231023	Unter-Langenhard		S	23	28	79			
+231	231024	Grossacker		S	1	1	3			
+231	231025	Sträzler		S	1	1	4			
+231	231027	Weidli		S	2	2	4			
+231	231028	Steinacker		S	3	3	9			
+231	231029	Zellerhalde		S	1	1	3			
+231	231031	Ober Rüti		S	4	4	9			
+231	231032	Lettenberg		S	8	10	24			
+231	231033	Engelburg		S	4	3	10			
+231	231034	Lochfeld		S	9	8	21			
+231	231036	Burgweid		S	1	1	2			
+231	231037	Ifang		S	1	1	4			
+231	231038	Hornsäge		S	1	1	4			
+231	231039	Hornwiden		S	1	1	2			
+231	231040	Unter Rüti		S	1	1	2			
+231	231041	Bruggäcker		S	32	155	387			
+231	231042	Rämismühle		S	65	158	505			
+231	231043	Tobel		S	1	2	6			
+231	231044	Tibet Institut		S	1	1	7			
+231	231045	Seefeld		S	2	1	5			
+231	231399	Personen ohne Siedlungs-Nr. 		R	0	0	77			
+241	241001	Aesch (Dorf)	Quartiere	Q	258	371	879			
+241	241003	Sägissen		S	2	2	8			
+241	241004	Horn		S	1	2	6			
+241	241005	Grabenacker		S	2	2	4			
+241	241006	Stüber		S	1	2	8			
+241	241007	Sandacker		S	1	1	1			
+241	241008	Wänglen		S	1	1	2			
+241	241009	Reutetal		S	1	1	2			
+241	241010	Stierenwald		S	1	1	1			
+241	241014	Haldenhof		S	1	1	4			
+241	241018	Buchrüti		S	1	1	3			
+241	241019	Eggweid		S	1	2	6			
+241	241020	Kühwald		S	2	2	7			
+241	241021	Neuweid		S	1	1	4			
+241	241022	Rebacher		S	1	1	4			
+241	241023	Nassenmatt		S	1	2	6			
+241	241399	Personen ohne Siedlungs-Nr. 		R	0	0	5			
+242	242001	Birmensdorf (Dorf)	Quartiere	Q	913	2’229	4’772			
+242	242021	Tisenacher		S	1	1	2			
+242	242022	Ober-Reppischtal		S	1	1	1			
+242	242024	Ristet		S	4	3	54			
+242	242025	Aemet		S	6	7	14			
+242	242026	Sonnhalde		S	30	32	90			
+242	242027	Moorhau-Fürhoger		S	2	9	15			
+242	242028	Püntenmas		S	1	2	6			
+242	242029	Leerbreiti		S	1	2	8			
+242	242030	Forstanstalt ETH (WSL)		S	1	2	4			
+242	242032	Brettler		S	1	1	3			
+242	242033	Grünau		S	1	1	1			
+242	242034	Hafnerberg		S	8	8	24			
+242	242035	Schüren		S	4	7	27			
+242	242036	Schleifer		S	1	1	3			
+242	242037	Landikon		S	38	83	169			
+242	242038	Schwandenhof		S	1	1	3			
+242	242039	Grossäcker		S	1	1	2			
+242	242040	Behmer		S	9	12	41			
+242	242042	Vorder-Altenberg		S	5	5	17			
+242	242043	Weberhaus		S	4	5	14			
+242	242044	Löffler		S	5	7	19			
+242	242045	Hochfor		S	1	2	6			
+242	242046	Filderen		S	1	0	33			
+242	242047	Röhrlenweid		S	1	1	5			
+242	242050	Rüti		S	1	1	1			
+242	242399	Personen ohne Siedlungs-Nr. 		R	0	0	117			
+243	243001	Dietikon (Stadt)	Quartiere	Q	2’125	9’490	20’893			
+243	243020	Basi		S	5	4	11			
+243	243021	Schwarzmatt		S	2	2	4			
+243	243022	Reppischhof		S	4	6	12			
+243	243023	Fahr		S	2	2	4			
+243	243024	Lerzen		S	13	19	48			
+243	243025	Lerzen/Moosmatt		S	13	18	36			
+243	243026	Blächen		S	15	22	47			
+243	243027	Stierenmatt		S	14	19	36			
+243	243028	Bodacher		S	2	1	1			
+243	243029	Giessen		S	5	5	8			
+243	243030	Lindenbüel		S	2	2	9			
+243	243399	Personen ohne Siedlungs-Nr. 		R	0	0	244			
+244	244001	Geroldswil (Dorf)	Quartiere	Q	689	1’564	3’681			
+244	244009	Fahrweid (nördl. Teil)	Quartiere	Q	91	397	822			
+244	244011	Werd		S	1	1	4			
+244	244399	Personen ohne Siedlungs-Nr. 		R	0	0	33			
+245	245001	Oberengstringen (Dorf)	Quartiere	Q	716	2’816	5’805			
+245	245002	Wyler		S	1	1	2			
+245	245399	Personen ohne Siedlungs-Nr. 		R	0	0	72			
+246	246001	Oetwil (Dorf)	Quartiere	Q	367	931	1’980			
+246	246005	Chisbüel		S	2	1	7			
+246	246012	Wiesentäli		S	1	2	7			
+246	246013	Bick		S	1	1	2			
+246	246014	Grihalde/Zainli		S	37	45	113			
+246	246399	Personen ohne Siedlungs-Nr. 		R	0	0	11			
+247	247001	Schlieren (Stadt)	Quartiere	Q	1’190	5’814	12’695			
+247	247015	Zelgli		S	3	3	7			
+247	247016	Station Urdorf		S	16	16	34			
+247	247017	Berg		S	3	5	16			
+247	247018	Mülireben		S	2	19	35			
+247	247019	Reitmen		S	1	1	1			
+247	247022	Moosäcker		S	2	1	5			
+247	247023	Pfaffenwis		S	17	124	279			
+247	247399	Personen ohne Siedlungs-Nr. 		R	0	0	284			
+248	248001	Uitikon (Dorf)	Quartiere	Q	861	1’470	3’282			
+248	248008	Hallenbad		S	1	2	8			
+248	248009	Erziehungsanstalt		S	3	8	50			
+248	248010	Rüti		S	3	3	7			
+248	248012	Grossmatt		S	12	27	54			
+248	248013	Eien		S	1	2	6			
+248	248017	Sunnenbüel		S	1	1	3			
+248	248018	Stock		S	1	2	7			
+248	248399	Personen ohne Siedlungs-Nr. 		R	0	0	63		
+249	249001	Unterengstringen (Dorf)		S	519	1’233	2’675			
+249	249002	Sparrenberg		S	2	1	2			
+249	249003	Sonnenberg		S	4	3	12			
+249	249005	Schinzbrünneli		S	2	1	4			
+249	249006	Meierhof		S	1	5	20			
+249	249007	Churzen-Teilen (Zelgli)		S	2	2	3			
+249	249008	Alte Schmiede (beim Kloster Fahr)		S	2	1	28			
+249	249009	Chöpfli		S	2	1	2			
+249	249011	Seeberg		S	3	4	9			
+249	249399	Personen ohne Siedlungs-Nr. 		R	0	0	77			
+250	250001	Urdorf (Dorf)	Quartiere	Q	1’183	4’078	9’205			
+250	250011	Unter Reppischtal		S	5	3	8			
+250	250012	Chilstig		S	2	2	5			
+250	250014	Wagenbach		S	2	3	7			
+250	250015	Bergermoos		S	3	5	7			
+250	250016	Möhren		S	2	2	8			
+250	250017	Waldhof		S	1	1	4			
+250	250018	Schüracher		S	3	2	9			
+250	250019	Bifig		S	1	2	5			
+250	250020	Boll		S	1	1	1			
+250	250021	Blächen		S	1	1	1			
+250	250399	Personen ohne Siedlungs-Nr. 		R	0	0	157			
+251	251001	Weiningen (Dorf)		S	456	713	1’753			
+251	251002	Bruederberg		S	4	4	7			
+251	251003	Rank		S	1	1	5			
+251	251004	Im Wisentäli		S	1	2	6			
+251	251005	Staldenrain		S	1	1	2			
+251	251006	Im Wyberg		S	1	2	5			
+251	251007	Hasennest		S	15	23	65			
+251	251008	Hargart		S	1	1	2			
+251	251009	Schlüechti		S	1	2	7			
+251	251010	Im Büel		S	20	112	212			
+251	251011	Hängerten		S	27	88	172			
+251	251012	Brunau		S	28	170	389			
+251	251013	Muniwis		S	24	190	478			
+251	251014	Fahrweid (südl. Teil)		S	91	260	631			
+251	251399	Personen ohne Siedlungs-Nr. 		R	0	0	57			
+261	261920	Zürich (Stadt)	Hauptsiedlung	Q	34’414	177’844	351’275			
+261	261021	Zürich (Kreis 2)	Höcklerbrücke	S	2	100	127			
+261	261022	Zürich (Kreis 2)	Mittel-Leimbach	S	116	894	1’891			
+261	261023	Zürich (Kreis 2)	Bruchstrasse	S	1	1	1			
+261	261024	Zürich (Kreis 2)	Ris	S	3	4	14			
+261	261025	Zürich (Kreis 2)	Unter-Leimbach	S	560	1’246	2’778			
+261	261026	Zürich (Kreis 2)	Stationsgebiet Manegg	S	13	37	76			
+261	261027	Zürich (Kreis 2)	Auhüsli	S	1	1	2			
+261	261031	Zürich (Kreis 3)	Friedhof Oberer Friesenberg	S	1	1	2			
+261	261032	Zürich (Kreis 3)	Friesenberg (Siedlung)	S	9	79	133			
+261	261033	Zürich (Kreis 3)	Gänzilooweg	S	1	2	3			
+261	261034	Zürich (Kreis 3)	Gratweg	S	2	2	3			
+261	261035	Zürich (Kreis 3)	Oberer Kolbenhof	S	5	19	37			
+261	261036	Zürich (Kreis 3)	Unterer Kolbenhof	S	1	2	4			
+261	261037	Zürich (Kreis 3)	Uto-Staffel	S	3	8	19			
+261	261071	Zürich (Kreis 7)	Im Klösterli	S	70	104	220			
+261	261072	Zürich (Kreis 7)	Zoologischer Garten	S	9	35	66			
+261	261073	Zürich (Kreis 7)	Degenried	S	1	1	5			
+261	261074	Zürich (Kreis 7)	Allmend Fluntern	S	1	3	5			
+261	261075	Zürich (Kreis 7)	Dreiwiesen	S	1	1	2			
+261	261076	Zürich (Kreis 7)	Forsthaus Adlisberg	S	1	1	5			
+261	261077	Zürich (Kreis 7)	Tobelhof	S	15	53	164			
+261	261078	Zürich (Kreis 7)	Vorderer Adlisberg	S	3	3	7			
+261	261079	Zürich (Kreis 7)	Wellenbad Dolder	S	1	1	2			
+261	261080	Zürich (Kreis 7)	Looren	S	104	173	509			
+261	261081	Zürich (Kreis 7)	Trichtenhausen (nördl. Teil)	S	2	2	3			
+261	261082	Zürich (Kreis 7)	Im Hau	S	1	4	13			
+261	261083	Zürich (Kreis 7)	SKA-Sportanlage	S	1	1	2			
+261	261084	Zürich (Kreis 7)	Hochschulsportanlage	S	1	1	6			
+261	261091	Zürich (Kreis 9)	Forsthaus Waldegg	S	1	1	3			
+261	261092	Zürich (Kreis 9)	Juchhof	S	1	1	10			
+261	261093	Zürich (Kreis 9)	Wohnkolonie Hardhof	S	34	34	75			
+261	261094	Zürich (Kreis 9)	Feldenmoos	S	1	1	3			
+261	261103	Zürich (Kreis 10)	ETH-Hönggerberg	S	2	4	5			
+261	261104	Zürich (Kreis 10)	Frankenbühl	S	6	9	20			
+261	261105	Zürich (Kreis 10)	Friedhof Hönggerberg	S	1	1	2			
+261	261107	Zürich (Kreis 10)	Riedweg	S	1	1	4			
+261	261108	Zürich (Kreis 10)	Rütihof	S	230	1’400	3’326			
+261	261109	Zürich (Kreis 10)	Nordheim	S	1	2	7			
+261	261114	Zürich (Kreis 10)	Am Hönggerberg	S	2	2	5			
+261	261116	Zürich (Kreis 10)	Waidbad	S	1	1	2			
+261	261117	Zürich (Kreis 10)	Holzwiese	S	4	4	6			
+261	261118	Zürich (Kreis 10)	Au	S	1	1	4			
+261	261011	Zürich (Kreis 11)	Katzensee	S	2	4	8			
+261	261012	Zürich (Kreis 11)	Reckenholz	S	5	6	25			
+261	261013	Zürich (Kreis 11)	Schwandenholz	S	56	453	1’145			
+261	261014	Zürich (Kreis 11)	Riedenholz	S	2	2	12			
+261	261015	Zürich (Kreis 11)	Frohbühl	S	4	4	16			
+261	261016	Zürich (Kreis 11)	Bettliäcker	S	1	2	8			
+261	261017	Zürich (Kreis 11)	Waid	S	7	8	29			
+261	261018	Zürich (Kreis 11)	Aspholz	S	1	1	1			
+261	261019	Zürich (Kreis 11)	Hungerberg	S	1	1	2			
+261	261001	Zürich (Kreis 12)	Hubacker	S	1	1	5			
+261	261002	Zürich (Kreis 12)	Stadtweg	S	1	3	21			
+261	261003	Zürich (Kreis 12)	Auzelg	S	187	386	1’143			
+261	261999	Personen/Gebäude ohne Siedlungs-Nr.		R	0	0	11			
+										
+										
+										
+										
+										
