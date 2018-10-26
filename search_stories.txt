@@ -1,8 +1,10 @@
-This file describes possible search patterns, topics of interest within the Stillstandsprotokolle
+This file describes possible (interesting) search patterns, topics of interest within the Stillstandsprotokolle
 
 - Arbeit
 - Fluchen
 - Gasthaus
-- Prositution
-- Trinken, Trunksucht
+- Klage
+- Lügen: lugerman
+- Ehe, Prositution: unzucht, vergangen
+- Trinken, Trunksucht 
 - ...
