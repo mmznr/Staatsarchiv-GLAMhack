@@ -1,0 +1,8 @@
+This file describes possible search patterns, topics of interest within the Stillstandsprotokolle
+
+- Arbeit
+- Fluchen
+- Gasthaus
+- Prositution
+- Trinken, Trunksucht
+- ...
