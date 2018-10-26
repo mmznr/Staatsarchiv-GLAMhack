@@ -24,7 +24,7 @@ Make the data better searchable and georeference it for visualization.
   * [Siedlungsverzeichnis des Kantons Zürich](http://www.web.statistik.zh.ch/cms_siedlungsverzeichnis/daten.php)
 
 
-## external Obervable Notebook
+## Visualization
 https://beta.observablehq.com/@mmznrstat/sex-and-crime-und-kneipenschlagereien-in-der-fruhen-neuzei
 
 * Done: Borders from swisstopo via Linked Data, Matching of the settlements of the canton of Zurich
