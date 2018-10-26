@@ -1,11 +1,16 @@
-# GLAMhack
+# Sex and Crime und Keinpenschlägereien in der frühen Neuzeit
 
-A repository for GLAMHack 2018 at the Landesmuseum Zurich
+## Goal
+Make the data better searchable and georeference it for visualization.
 
 ## Team
 * Ernst Rosser, ernst.rosser@gmail.com
 * Tobias Hodel
+* Barbara Leimgruber
+* Rebekka Plüss
+* Ismail Prada
 * 
+* Matthias Mazenauer
 
 
 ## Data sources:
