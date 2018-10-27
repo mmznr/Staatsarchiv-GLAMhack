@@ -30,3 +30,7 @@ https://beta.observablehq.com/@mmznrstat/sex-and-crime-und-kneipenschlagereien-i
 * Done: Borders from swisstopo via Linked Data, Matching of the settlements of the canton of Zurich
 
 * ToDo: Get List of old names of this settlements, match them and show all relating documents of a settlement (or municipality) 
+
+
+## Frequency list
+https://docs.google.com/spreadsheets/d/1rFo7p9YsQRwJufMuWGw2677acOsWevcmm-lN5RVBJv4/edit?usp=sharing
