@@ -28,12 +28,13 @@ Make the data ("Stillstandsprotokolle des 17. Jahrhunderts") better searchable a
 
 * Create lookup for normalized strings (https://github.com/mmznr/Staatsarchiv-GLAMhack/blob/master/woerterStillstand_Result.tsv)
 * Annotate named entities (normalization)
-*-> places (also add BfS-data)
-*-> persons (normalization to be used for auto-complete in search)
+-> places (also add BfS-data)
+-> persons (normalization to be used for auto-complete in search)
 * Cluster words
-*-> to be used to refer to topic/concept
+-> based on "Frequenztabelle Stillstandsprotokolle" (see below)
+-> to be used to refer to topic/concept
 * Cluster documents
-*-> to be used as keyword(s) in TEI header
+-> to be used as keyword(s) in TEI header
 * Produce script to add information as tags (in header or body) to write in XML
 
 
@@ -41,7 +42,7 @@ Make the data ("Stillstandsprotokolle des 17. Jahrhunderts") better searchable a
 
 * Done: Wordlist and Frequencies
 
-* ToDo: Do POS
+* ToDo: POS tagging
 
 ## Named Entities
 
