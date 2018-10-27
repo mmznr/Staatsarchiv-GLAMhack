@@ -36,7 +36,7 @@ Make the data ("Stillstandsprotokolle des 17. Jahrhunderts") better searchable a
 * Cluster documents
 -> to be used as keyword(s) in TEI header
 = Scripts for clustering, see folder "code"
-* Create script to add information as tags (in body) to write in XML
+* Create script to add information as tags (in body) to write in XML (in work)
 
 
 ## Lemmatization/Normalisation
