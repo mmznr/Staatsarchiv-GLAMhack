@@ -3,16 +3,15 @@
 # Sex and Crime und Kneipenschlägereien in der Frühen Neuzeit
 
 ## Goal
-Make the data better searchable and georeference it for visualization.
+Make the data ("Stillstandsprotokolle des 17. Jahrhunderts") better searchable and georeference it for visualization.
 
 ## Team
 * Ernst Rosser, ernst.rosser@gmail.com
-* Tobias Hodel, tobias.hodel@ji.zh.ch
 * Barbara Leimgruber, Barbara.Leimgruber@ji.zh.ch
 * Rebekka Plüss, Rebekka.Pluess@ji.zh.ch
 * Ismail Prada, ismail.prada@gmail.com
 * Matthias Mazenauer, matthias.mazenauer@statistik.ji.zh.ch
-
+* Tobias Hodel, tobias.hodel@ji.zh.ch
 
 ## Data sources:
 * Primary Data
@@ -23,6 +22,19 @@ Make the data better searchable and georeference it for visualization.
 * Secondary data 
 
   * [Siedlungsverzeichnis des Kantons Zürich](http://www.web.statistik.zh.ch/cms_siedlungsverzeichnis/daten.php)
+
+
+## Steps taken
+
+** Create lookup for normalized strings (https://github.com/mmznr/Staatsarchiv-GLAMhack/blob/master/woerterStillstand_Result.tsv)
+** Annotate named entities (normalization)
+*** places (also add BfS-data)
+*** persons (normalization to be used for auto-complete in search)
+** Cluster words
+*** to be used to refer to topic/concept
+** Cluster documents
+*** to be used as keyword(s) in TEI header
+** Produce script to add information as tags (in header or body) to write in XML
 
 
 ## Lemmatization/Normalisation
