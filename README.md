@@ -1,3 +1,5 @@
+\#glamhack2018
+
 # Sex and Crime und Kneipenschlägereien in der Frühen Neuzeit
 
 ## Goal
@@ -9,7 +11,6 @@ Make the data better searchable and georeference it for visualization.
 * Barbara Leimgruber, Barbara.Leimgruber@ji.zh.ch
 * Rebekka Plüss, Rebekka.Pluess@ji.zh.ch
 * Ismail Prada, ismail.prada@gmail.com
-* Christiane Sibille
 * Matthias Mazenauer, matthias.mazenauer@statistik.ji.zh.ch
 
 
@@ -24,7 +25,33 @@ Make the data better searchable and georeference it for visualization.
   * [Siedlungsverzeichnis des Kantons Zürich](http://www.web.statistik.zh.ch/cms_siedlungsverzeichnis/daten.php)
 
 
+## Lemmatization/Normalisation
+
+* Done: Wordlist and Frequencies
+
+* ToDo: Do POS
+
+## Named Entities
+
+* Names of persons: done A-D
+
+* Names of places: done
+
 ## Visualization
+
+
+### Word-Cluster
+
+#### Visualization
+(using fasttext)
+https://github.com/mmznr/Staatsarchiv-GLAMhack/tree/master/Visualisierungen/clusters.png
+https://github.com/mmznr/Staatsarchiv-GLAMhack/tree/master/Visualisierungen/clusters2.png
+
+#### Frequency list of Word-Cluster
+https://docs.google.com/spreadsheets/d/1rFo7p9YsQRwJufMuWGw2677acOsWevcmm-lN5RVBJv4/edit?usp=sharing
+
+### GIS Visualization
+
 https://beta.observablehq.com/@mmznrstat/sex-and-crime-und-kneipenschlagereien-in-der-fruhen-neuzei
 
 * Done: Borders from swisstopo via Linked Data, Matching of the settlements of the canton of Zurich
@@ -32,5 +59,3 @@ https://beta.observablehq.com/@mmznrstat/sex-and-crime-und-kneipenschlagereien-i
 * ToDo: Get List of old names of this settlements, match them and show all relating documents of a settlement (or municipality) 
 
 
-## Frequency list
-https://docs.google.com/spreadsheets/d/1rFo7p9YsQRwJufMuWGw2677acOsWevcmm-lN5RVBJv4/edit?usp=sharing
