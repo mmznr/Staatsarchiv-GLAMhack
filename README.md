@@ -31,7 +31,7 @@ Make the data ("Stillstandsprotokolle des 17. Jahrhunderts") better searchable a
 -> places (also add BfS-data)
 -> persons (normalization to be used for auto-complete in search)
 * Cluster words
--> based on "Frequenztabelle Stillstandsprotokolle" (see below)
+-> based on "Frequenztabelle Stillstandsprotokolle" (see [https://github.com/mmznr/Staatsarchiv-GLAMhack/blob/master/README.md#frequency-list-of-word-cluster](below))
 -> to be used to refer to topic/concept
 * Cluster documents
 -> to be used as keyword(s) in TEI header
