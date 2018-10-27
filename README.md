@@ -48,7 +48,7 @@ Make the data ("Stillstandsprotokolle des 17. Jahrhunderts") better searchable a
 
 * Names of persons: done A-D
 
-* Names of places: done
+* Names of places: done A-K
 
 ## Visualization
 
