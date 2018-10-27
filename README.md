@@ -1,4 +1,4 @@
-# Sex and Crime und Kneipenschlägereien in der frühen Neuzeit
+# Sex and Crime und Kneipenschlägereien in der Frühen Neuzeit
 
 ## Goal
 Make the data better searchable and georeference it for visualization.
