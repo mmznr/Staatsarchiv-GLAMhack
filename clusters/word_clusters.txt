@@ -1,174 +1,99 @@
 Cluster 1 words:
- gschwornen
- geschwornen
+ darby
+ darmit
 
 Cluster 2 words:
- vogt
- undervogt
- obervogt
+ ledig
+ ansprach
 
 Cluster 3 words:
- landtvogt
- landvogt
- schloß
+ gott
+ gottes
 
 Cluster 4 words:
- vogts
+ wort
+ worten
 
 Cluster 5 words:
- hand
- land
+ gnad
+ gnaden
 
 Cluster 6 words:
- frey
- freyen
+ buß
 
 Cluster 7 words:
- leben
- sitzen
+ ehe
+ ehegricht
+ hochzeit
 
 Cluster 8 words:
- huß
- stuben
+ jahr
+ jahren
+ jahrs
 
 Cluster 9 words:
- knaben
- buben
- elteren
- töchteren
+ mahl
 
 Cluster 10 words:
  kind
- vatter
  kinder
- mutter
  kinderen
  kinden
 
 Cluster 11 words:
- hauß
- haus
+ knaben
+ elteren
+ stuben
+ töchteren
 
 Cluster 12 words:
+ hauß
+ vatter
+ bruder
+ weib
+
+Cluster 13 words:
  frauw
  frau
- bruder
+ mutter
  schwöster
  frauwen
  fraw
  frauen
  schwiger
 
-Cluster 13 words:
- weibel
- weib
-
 Cluster 14 words:
- dorff
-
-Cluster 15 words:
- pfarrer
- pfarrhauß
- pfahrer
- pfarrhaus
- pfarr
- pfarer
-
-Cluster 16 words:
- ehegaumer
- ehgaumer
- schulmeister
- schul
-
-Cluster 17 words:
- fleißig
- leüth
- leüthen
-
-Cluster 18 words:
- mann
- doruff
-
-Cluster 19 words:
- jungen
- jung
- junge
-
-Cluster 20 words:
  sohn
  tochter
  bub
- volk
- hochzeit
- gsellen
  magd
  meitli
  knëcht
+ schwanger
+
+Cluster 15 words:
+ tagen
+ wuchen
+ wochen
+
+Cluster 16 words:
+ nacht
+ morgen
+ nachts
+ uhren
  truncken
 
-Cluster 21 words:
- jahr
- jahren
- jahrs
+Cluster 17 words:
+ thurn
+ abend
 
-Cluster 22 words:
- zeit
+Cluster 18 words:
+ fehler
+ zugsprochen
+ vermahnet
+ besserung
 
-Cluster 23 words:
- pfister
- meister
-
-Cluster 24 words:
- dienst
- knecht
-
-Cluster 25 words:
- darby
- darmit
-
-Cluster 26 words:
- meinung
- ordnung
-
-Cluster 27 words:
- ledig
- ansprach
-
-Cluster 28 words:
- schuldig
-
-Cluster 29 words:
- herren
- herr
- statthalter
- zunfftmeister
-
-Cluster 30 words:
- ort
- stuhl
- stul
-
-Cluster 31 words:
- theil
-
-Cluster 32 words:
- gott
- gottes
-
-Cluster 33 words:
- armen
- amen
-
-Cluster 34 words:
- mandat
- gnedig
-
-Cluster 35 words:
- oberkeit
- befelch
- obervögten
-
-Cluster 36 words:
+Cluster 19 words:
  sontag
  predig
  sontags
@@ -179,87 +104,19 @@ Cluster 36 words:
  sonntag
  sonntags
 
-Cluster 37 words:
- kirchen
- kilchen
+Cluster 20 words:
+ klag
+ klagte
 
-Cluster 38 words:
- tagen
- wuchen
- wochen
+Cluster 21 words:
+ geklagt
+ verklagt
+ klagswyß
+ angezeigt
+ abermahlen
+ angezeiget
 
-Cluster 39 words:
- nacht
- morgen
- nachts
- uhren
- abend
-
-Cluster 40 words:
- geschlagen
- geschworen
- gschworen
- gschlagen
- schweeren
- schwanger
-
-Cluster 41 words:
- alten
- verhalten
-
-Cluster 42 words:
- wangen
- christen
-
-Cluster 43 words:
- wägen
-
-Cluster 44 words:
- wort
- worten
-
-Cluster 45 words:
- wirt
- wirth
-
-Cluster 46 words:
- groß
- große
-
-Cluster 47 words:
- gnad
- gnaden
-
-Cluster 48 words:
- gmeind
- gemeind
-
-Cluster 49 words:
- einhellig
-
-Cluster 50 words:
- personen
- persohnen
-
-Cluster 51 words:
- ehe
- ehegricht
- ehrsammen
-
-Cluster 52 words:
- mahl
- thurn
-
-Cluster 53 words:
- fehler
- zugsprochen
- vermahnet
- besserung
-
-Cluster 54 words:
- buß
-
-Cluster 55 words:
+Cluster 22 words:
  stillstand
  stilstand
  decembris
@@ -272,84 +129,229 @@ Cluster 55 words:
  maii
  ordinari
  martii
- stillstands
  augusti
  monats
- klagswyß
  januarii
- abermahlen
  jenner
  hornung
 
-Cluster 56 words:
- klag
- klagte
-
-Cluster 57 words:
- geklagt
- verklagt
- angezeigt
- angezeiget
+Cluster 23 words:
+ mandat
+ befelch
  anzug
 
-Cluster 58 words:
- zürich
- felix
- rüti
- marx
+Cluster 24 words:
+ herren
+ gnedig
 
-Cluster 59 words:
+Cluster 25 words:
+ oberkeit
+ obervögten
+
+Cluster 26 words:
+ personen
+ persohnen
+
+Cluster 27 words:
+ ehegaumer
+ ehgaumer
+ stillstands
+ ehrsammen
+ gschwornen
+ geschwornen
+
+Cluster 28 words:
+ kirchen
+ kilchen
+
+Cluster 29 words:
+ ort
+ stuhl
+ stul
+
+Cluster 30 words:
+ buben
+ volk
+ gsellen
+ fleißig
+ leüth
+ leüthen
+
+Cluster 31 words:
+ pfarrer
+ pfarrhauß
+ pfahrer
+ pfarrhaus
+ pfarr
+ pfarer
+
+Cluster 32 words:
+ mann
+ doruff
+
+Cluster 33 words:
+ herr
+ statthalter
+ zunfftmeister
+
+Cluster 34 words:
+ vogt
+ landtvogt
+ landvogt
+ undervogt
+ obervogt
+
+Cluster 35 words:
+ meinung
+ ordnung
+
+Cluster 36 words:
+ groß
+ große
+
+Cluster 37 words:
+ jungen
+ jung
+ junge
+
+Cluster 38 words:
+ geschlagen
+ geschworen
+ gschworen
+ gschlagen
+ schweeren
+
+Cluster 39 words:
+ amen
+ hansen
+
+Cluster 40 words:
+ armen
+ wägen
+
+Cluster 41 words:
+ alten
+ verhalten
+
+Cluster 42 words:
+ leben
+ sitzen
+
+Cluster 43 words:
+ schulmeister
+ schul
+ schuldig
+
+Cluster 44 words:
+ pfister
+ einhellig
+ meister
+
+Cluster 45 words:
+ dienst
+ knecht
+
+Cluster 46 words:
+ zeit
+
+Cluster 47 words:
+ müller
+ wäber
+ müllers
+
+Cluster 48 words:
+ schmid
+ wirth
+
+Cluster 49 words:
+ wyß
+
+Cluster 50 words:
+ weibel
+ richter
+
+Cluster 51 words:
+ vogts
+
+Cluster 52 words:
+ felix
  anna
  verena
 
-Cluster 60 words:
+Cluster 53 words:
+ hans
  jacob
  hanß
+ peter
  caspar
+ meyer
  conrad
  jörg
+ heinr
  hannß
  joseph
  wolff
  widmer
 
-Cluster 61 words:
+Cluster 54 words:
+ wangen
+ christen
+
+Cluster 55 words:
+ zürich
+ heinrich
+ ulrich
+ rüti
+
+Cluster 56 words:
+ kyburg
+ berg
+
+Cluster 57 words:
+ murer
+ furer
+
+Cluster 58 words:
+ marx
+ huber
+ keller
+ brunner
+
+Cluster 59 words:
  actum
  anno
 
-Cluster 62 words:
+Cluster 60 words:
  alt
  johannes
  eintrag
 
+Cluster 61 words:
+ gmeind
+ gemeind
+
+Cluster 62 words:
+ theil
+
 Cluster 63 words:
- kyburg
- berg
+ frey
+ freyen
 
 Cluster 64 words:
- hans
- heinrich
- ulrich
- peter
- meyer
- heinr
- keller
- hansen
+ haus
+ schloß
 
 Cluster 65 words:
- murer
- furer
+ hand
 
 Cluster 66 words:
- richter
+ land
 
 Cluster 67 words:
- schmid
- wäber
- huber
- brunner
+ huß
 
 Cluster 68 words:
- müller
- wyß
- müllers
+ dorff
+
+Cluster 69 words:
+ wirt
