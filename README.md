@@ -1,3 +1,5 @@
+\#glamhack2018
+
 # Sex and Crime und Kneipenschlägereien in der Frühen Neuzeit
 
 ## Goal
