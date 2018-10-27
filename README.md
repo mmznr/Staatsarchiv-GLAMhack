@@ -41,7 +41,13 @@ Make the data better searchable and georeference it for visualization.
 
 ### Word-Cluster
 
+#### Visualization
+(using fasttext)
+https://github.com/mmznr/Staatsarchiv-GLAMhack/tree/master/Visualisierungen/clusters.png
+https://github.com/mmznr/Staatsarchiv-GLAMhack/tree/master/Visualisierungen/clusters2.png
 
+#### Frequency list of Word-Cluster
+https://docs.google.com/spreadsheets/d/1rFo7p9YsQRwJufMuWGw2677acOsWevcmm-lN5RVBJv4/edit?usp=sharing
 
 ### GIS Visualization
 
@@ -52,5 +58,3 @@ https://beta.observablehq.com/@mmznrstat/sex-and-crime-und-kneipenschlagereien-i
 * ToDo: Get List of old names of this settlements, match them and show all relating documents of a settlement (or municipality) 
 
 
-## Frequency list
-https://docs.google.com/spreadsheets/d/1rFo7p9YsQRwJufMuWGw2677acOsWevcmm-lN5RVBJv4/edit?usp=sharing
