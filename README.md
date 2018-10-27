@@ -29,7 +29,7 @@ Make the data better searchable and georeference it for visualization.
 
 * Done: Wordlist and Frequencies
 
-* ToDo: Do POS list
+* ToDo: Do POS
 
 ## Named Entities
 
