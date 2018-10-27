@@ -11,7 +11,6 @@ Make the data better searchable and georeference it for visualization.
 * Barbara Leimgruber, Barbara.Leimgruber@ji.zh.ch
 * Rebekka Plüss, Rebekka.Pluess@ji.zh.ch
 * Ismail Prada, ismail.prada@gmail.com
-* Christiane Sibille
 * Matthias Mazenauer, matthias.mazenauer@statistik.ji.zh.ch
 
 
