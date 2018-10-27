@@ -222,15 +222,11 @@ a[uch]
 a[utem]
 aaderläßer
 Aathal
-ab	ab
-ab-	ab
 ab-bitt
 ab-brochen
 ab-mahnen
 ab-steigen
 ab'm
-ab[…]
-ab[er]
 Abänderung	Abänderung
 abbätten
 abbengle
@@ -266,24 +262,24 @@ abendbetteren
 abendbrot
 abenden
 abendeßen
-abendgebät
-abendgebatt
-Abendgebätt
-abendgebätten
-abendgebätteren
-abendgebätts
-abendgebett
-abendgebetter
-abendm[ahl]
-abendmahl
-abendpr[edig]
-abendpredig
-abendpredigen
+abendgebät  Abendgebet
+abendgebatt Abendgebet
+Abendgebätt Abendgebet
+abendgebätten Abendgebet
+abendgebätteren Abendgebet
+abendgebätts  Abendgebet
+abendgebett Abendgebet
+abendgebetter Abendgebet
+abendm[ahl] Abendmahl
+abendmahl Abendmahl
+abendpr[edig] Abendpredigt
+abendpredig Abendpredigt
+abendpredigen Abendpredigt
 abends	abends
-abends]
+abends] abends
 abendstund
-abendtgebät
-abendtgebätts
+abendtgebät Abendgebet
+abendtgebätts Abendgebet
 abendtrunck
 abendtrunk
 abendtrunkh
@@ -296,12 +292,12 @@ abent
 abenthon
 abents
 aber	aber
-aber?
+aber? aber
 Aberat
 äberen
-aberglaub
-aberglauben
-abergläübigen
+aberglaub Aberglauben
+aberglauben Aberglauben
+abergläübigen Aberglauben
 Äberhard
 Äberhart
 aberkauffung
@@ -835,7 +831,6 @@ abzuwehren	abwehren
 abzuweisen
 abzuwisen
 abzuzahlen
-ac	ac
 Ac[tum]
 accepi	accepi
 acceptiert
@@ -897,7 +892,6 @@ Actuarius
 Actum	Actum
 actus
 actûs
-ad	ad
 Adali
 Adam	durch
 Adamen
@@ -1031,13 +1025,13 @@ ales
 alet
 Alex[ander]
 Alexander	Alexander
-Alexannder
+Alexannder  Alexander
 algemeine	allgemein
 algemeinen	allgemein
 algemeins
 Algier
-algmeine
-algmeins
+algmeine  allgemein
+algmeins  allgemein
 alhero
 alhëro
 alhie	allhier
@@ -1307,18 +1301,14 @@ almoßenspfleger
 almoßenspflegeren
 almusen
 alrmen
-als	als
 alsbald	alsbald
 alsdan	alsdann
 alsdanen
 alsdann	alsdann
 alsgmach
-also	also
 alsob[ald]
 alsobald	alsbald
-alß	als
 alßdann	alsdann
-alßo
 alt	alt
 Alt-Hannß
 alt-schulmeister
@@ -1367,7 +1357,6 @@ alwo	wo
 alzeit
 alzit
 alzu	allzu
-Am	am
 am[sontag]
 amans
 Amberg	Amberg
@@ -1445,8 +1434,6 @@ amtsgeschäfften
 amtsh[auptman]
 amtsobervogt
 amtsverwalt
-an	an
-an-	an
 Ana
 anbefehlen	anbefehlen
 anbefellen
@@ -1474,8 +1461,6 @@ andacht
 Andares
 Andelffingen
 Andelfingen
-andem
-anden
 ander	ander
 andere	ander
 ändere	ändern
@@ -2006,7 +1991,6 @@ anrüefen
 anrüffen	anrüffen
 anrüffung
 anrühren	anrühren
-ans	ans
 ansächen
 ansächung
 ansag
@@ -2045,8 +2029,6 @@ ansprechen	ansprechen
 anspricht
 ansproch
 anspruch	Anspruch
-anß
-anß
 anstahnd
 anstalt
 anstand
@@ -2207,7 +2189,6 @@ anzuzeigen	anzeigen
 anzuziehen	anziehen
 anzuzüchen
 anzuzünden
-ao
 ap[rilis]
 Apenzeller
 apertis
@@ -38368,6 +38349,3 @@ zyttafelen
 יַעֲשֶׂה
 עַל
 עָלָיו
-FALSCH
-WAHR
-#NAME?
