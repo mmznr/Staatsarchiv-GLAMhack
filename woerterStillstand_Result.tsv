@@ -6215,9 +6215,9 @@ Bygel
 bygelegt
 bygewohnet
 byhabende
-bylaüffig
-byleüfig
-byligenden
+bylaüffig beiläufig
+byleüfig  beiläufig
+byligenden  beiliegend
 bym
 Bynebend
 bynebendt
@@ -6227,15 +6227,15 @@ bysamen
 bysammen
 bysäßen
 byschaffen
-byschlaaf
-byschlaaff
-byschlaaffs
-byschlaafs
-byschlaf
-byschlaff
-byschlâffen
-byschlaffs
-byschlafs
+byschlaaf Beischlaf
+byschlaaff  Beischlaf
+byschlaaffs Beischlaf
+byschlaafs  Beischlaf
+byschlaf  Beischlaf
+byschlaff Beischlaf
+byschlâffen Beischlaf
+byschlaffs  Beischlaf
+byschlafs Beischlaf
 byschömlen
 byschus
 bysein
@@ -13485,7 +13485,7 @@ gesiglete
 gesind
 gesinds
 gesinnet	gesinnet
-gesoffen	gesoffen
+gesoffen	betrunken
 gesogen	gesogen
 gesonderet
 gesorget	sorgen
@@ -17768,15 +17768,15 @@ Hüpscherin
 Hüpschers
 hüpschs
 hur
-hürahten
-hürath
+hürahten  Heiraten
+hürath  Heirat
 hüraths
-hurei
-huren	Hure
+hurei hurerei
+huren Hure
 hurenbub
 hurenhaus
 hurenkind
-hurenleben
+hurenleben  Hurenleben
 hurenwercks
 huret
 Hurete
@@ -17801,6 +17801,7 @@ hürling
 hürlingen
 hürlins
 hurr
+hurren  huren
 Hürßel
 Hürst
 Hurter
@@ -17814,7 +17815,7 @@ Hürzel
 Hürzels
 hus
 husarmen
-husbsuchungen
+husbsuchungen Hausbesuche
 Husen
 Huser
 Hüser
@@ -17868,7 +17869,7 @@ Hüßer
 hußfr[auw]
 hußfr[auwen]
 hußfrauw
-hußfrauwen
+hußfrauwen  Hausfrau
 hußgehalten
 hußgenoßen
 hußghalten
@@ -34302,13 +34303,13 @@ vertrösten	vertrösten
 vertröstet	vertrösten
 vertröstung	Vertröstung
 vertrucken
-vertruncken	vertrunken
-vertrunckne
-vertruncknem
-vertruncknen
-vertrunckner
-vertrunken
-vertrunknem
+vertruncken	betrunken
+vertrunckne betrunken
+vertruncknem  betrunken
+vertruncknen  betrunken
+vertrunckner  Trinker
+vertrunken  betrunken
+vertrunknem betrunken
 vertrunknen betrunken
 vertruß
 vertrybe
@@ -34763,8 +34764,8 @@ Vollenweyder
 voller	voll
 volles	voll
 vollgende
-vollgesoffen
-vollgetrunken
+vollgesoffen  betrunken
+vollgetrunken betrunken
 völliche
 vollig	vollig
 völlig	völlig
